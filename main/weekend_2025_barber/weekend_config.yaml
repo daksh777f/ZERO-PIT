@@ -1,0 +1,24 @@
+event_name: "SRO GR Cup at Barber Motorsports Park 2025"
+sessions:
+  - name: practice_1
+    type: practice  # <-- Add this line
+
+  - name: practice_2
+    type: practice  # <-- Add this line
+    compare_with: practice_1
+
+  - name: qualifying
+    type: qualifying # <-- Add this line
+    compare_with: practice_2
+
+  - name: qualifying_2
+    type: qualifying # <-- Add this line
+    compare_with: qualifying
+
+  - name: race_1
+    type: race       # <-- Add this line
+    compare_with: qualifying
+
+  - name: race_2
+    type: race       # <-- Add this line
+    compare_with: race_1

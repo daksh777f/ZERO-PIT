@@ -1,0 +1,2042 @@
+{
+  "session_summary": {
+    "weather": {
+      "average_air_temp": 32.687586206896555,
+      "average_track_temp": null,
+      "average_humidity": 52.90689655172414,
+      "was_rain_reported": false
+    }
+  },
+  "driver_performance": [
+    {
+      "driver_name": "Beltre Curtis",
+      "team": "Copeland Motorsports",
+      "total_valid_laps": 17,
+      "lap_times": {
+        "fastest": 98.94800000000001,
+        "best_3_avg": 99.094,
+        "best_5_avg": 99.30760000000001,
+        "consistency_best_5": 0.35960000000000036,
+        "lap_count": 17,
+        "optimal_lap_time": 98.75800000000001
+      },
+      "s1_times": {
+        "fastest": 27.019,
+        "best_3_avg": 27.06566666666667,
+        "best_5_avg": 27.088,
+        "consistency_best_5": 0.06900000000000261,
+        "lap_count": 17
+      },
+      "s2_times": {
+        "fastest": 42.935,
+        "best_3_avg": 43.04833333333334,
+        "best_5_avg": 43.1336,
+        "consistency_best_5": 0.198599999999999,
+        "lap_count": 17
+      },
+      "s3_times": {
+        "fastest": 28.804,
+        "best_3_avg": 28.921333333333333,
+        "best_5_avg": 28.961599999999997,
+        "consistency_best_5": 0.15759999999999863,
+        "lap_count": 17
+      },
+      "alpha_score": -0.06605521566452215
+    },
+    {
+      "driver_name": "Ethan Goulart",
+      "team": "TechSport",
+      "total_valid_laps": 11,
+      "lap_times": {
+        "fastest": 98.666,
+        "best_3_avg": 98.83300000000001,
+        "best_5_avg": 98.8872,
+        "consistency_best_5": 0.22120000000001028,
+        "lap_count": 11,
+        "optimal_lap_time": 98.59199999999998
+      },
+      "s1_times": {
+        "fastest": 26.899,
+        "best_3_avg": 26.91633333333333,
+        "best_5_avg": 26.9432,
+        "consistency_best_5": 0.04420000000000002,
+        "lap_count": 11
+      },
+      "s2_times": {
+        "fastest": 42.903,
+        "best_3_avg": 42.93733333333333,
+        "best_5_avg": 42.9708,
+        "consistency_best_5": 0.0677999999999983,
+        "lap_count": 11
+      },
+      "s3_times": {
+        "fastest": 28.79,
+        "best_3_avg": 28.82166666666667,
+        "best_5_avg": 28.8524,
+        "consistency_best_5": 0.06240000000000023,
+        "lap_count": 11
+      },
+      "alpha_score": 0.40662182006593817
+    },
+    {
+      "driver_name": "Ethan Tovo",
+      "team": "Nitro Motorsports",
+      "total_valid_laps": 13,
+      "lap_times": {
+        "fastest": 99.181,
+        "best_3_avg": 99.29866666666665,
+        "best_5_avg": 99.39739999999999,
+        "consistency_best_5": 0.21639999999999304,
+        "lap_count": 13,
+        "optimal_lap_time": 98.73599999999999
+      },
+      "s1_times": {
+        "fastest": 26.946,
+        "best_3_avg": 27.037333333333333,
+        "best_5_avg": 27.0808,
+        "consistency_best_5": 0.13479999999999848,
+        "lap_count": 13
+      },
+      "s2_times": {
+        "fastest": 43.166,
+        "best_3_avg": 43.21933333333333,
+        "best_5_avg": 43.254,
+        "consistency_best_5": 0.08800000000000097,
+        "lap_count": 13
+      },
+      "s3_times": {
+        "fastest": 28.624,
+        "best_3_avg": 28.805666666666667,
+        "best_5_avg": 28.859999999999996,
+        "consistency_best_5": 0.2359999999999971,
+        "lap_count": 13
+      },
+      "alpha_score": 0.1916308959282039
+    },
+    {
+      "driver_name": "Ford Koch",
+      "team": "Copeland Motorsports",
+      "total_valid_laps": 14,
+      "lap_times": {
+        "fastest": 98.815,
+        "best_3_avg": 98.97133333333333,
+        "best_5_avg": 99.091,
+        "consistency_best_5": 0.27599999999999625,
+        "lap_count": 14,
+        "optimal_lap_time": 98.66000000000001
+      },
+      "s1_times": {
+        "fastest": 26.902,
+        "best_3_avg": 26.924333333333333,
+        "best_5_avg": 26.959600000000002,
+        "consistency_best_5": 0.05760000000000076,
+        "lap_count": 14
+      },
+      "s2_times": {
+        "fastest": 42.951,
+        "best_3_avg": 43.052,
+        "best_5_avg": 43.105000000000004,
+        "consistency_best_5": 0.15400000000000347,
+        "lap_count": 14
+      },
+      "s3_times": {
+        "fastest": 28.807,
+        "best_3_avg": 28.878666666666664,
+        "best_5_avg": 28.913,
+        "consistency_best_5": 0.10600000000000165,
+        "lap_count": 14
+      },
+      "alpha_score": 0.21987676496601813
+    },
+    {
+      "driver_name": "Isabella Robusto",
+      "team": "RVA Graphics Motorsports by Speed Syndicate",
+      "total_valid_laps": 14,
+      "lap_times": {
+        "fastest": 99.767,
+        "best_3_avg": 99.77633333333331,
+        "best_5_avg": 99.832,
+        "consistency_best_5": 0.06499999999999773,
+        "lap_count": 14,
+        "optimal_lap_time": 99.576
+      },
+      "s1_times": {
+        "fastest": 27.129,
+        "best_3_avg": 27.13466666666667,
+        "best_5_avg": 27.1632,
+        "consistency_best_5": 0.034199999999998454,
+        "lap_count": 14
+      },
+      "s2_times": {
+        "fastest": 43.263,
+        "best_3_avg": 43.324333333333335,
+        "best_5_avg": 43.3668,
+        "consistency_best_5": 0.10379999999999967,
+        "lap_count": 14
+      },
+      "s3_times": {
+        "fastest": 29.184,
+        "best_3_avg": 29.2,
+        "best_5_avg": 29.238599999999998,
+        "consistency_best_5": 0.054599999999997095,
+        "lap_count": 14
+      },
+      "alpha_score": -0.19600646253593784
+    },
+    {
+      "driver_name": "Jackson Tovo",
+      "team": "Nitro Motorsports",
+      "total_valid_laps": 10,
+      "lap_times": {
+        "fastest": 99.07,
+        "best_3_avg": 99.24933333333333,
+        "best_5_avg": 99.3608,
+        "consistency_best_5": 0.2908000000000044,
+        "lap_count": 10,
+        "optimal_lap_time": 98.737
+      },
+      "s1_times": {
+        "fastest": 26.826,
+        "best_3_avg": 26.90166666666667,
+        "best_5_avg": 26.940600000000007,
+        "consistency_best_5": 0.11460000000000647,
+        "lap_count": 10
+      },
+      "s2_times": {
+        "fastest": 42.996,
+        "best_3_avg": 43.04633333333334,
+        "best_5_avg": 43.09680000000001,
+        "consistency_best_5": 0.10080000000000666,
+        "lap_count": 10
+      },
+      "s3_times": {
+        "fastest": 28.915,
+        "best_3_avg": 29.048333333333332,
+        "best_5_avg": 29.098599999999998,
+        "consistency_best_5": 0.18359999999999843,
+        "lap_count": 10
+      },
+      "alpha_score": 0.09915324035377031
+    },
+    {
+      "driver_name": "Jaxon Bell",
+      "team": "Copeland Motorsports",
+      "total_valid_laps": 12,
+      "lap_times": {
+        "fastest": 98.821,
+        "best_3_avg": 98.91733333333332,
+        "best_5_avg": 98.96839999999999,
+        "consistency_best_5": 0.14739999999999043,
+        "lap_count": 12,
+        "optimal_lap_time": 98.571
+      },
+      "s1_times": {
+        "fastest": 26.953,
+        "best_3_avg": 26.992666666666665,
+        "best_5_avg": 27.0308,
+        "consistency_best_5": 0.07779999999999987,
+        "lap_count": 12
+      },
+      "s2_times": {
+        "fastest": 42.862,
+        "best_3_avg": 42.94133333333334,
+        "best_5_avg": 42.998400000000004,
+        "consistency_best_5": 0.13640000000000185,
+        "lap_count": 12
+      },
+      "s3_times": {
+        "fastest": 28.756,
+        "best_3_avg": 28.82166666666667,
+        "best_5_avg": 28.8464,
+        "consistency_best_5": 0.09039999999999893,
+        "lap_count": 12
+      },
+      "alpha_score": 0.5118105879188447
+    },
+    {
+      "driver_name": "Jenson Sofronas",
+      "team": "Copeland Motorsports",
+      "total_valid_laps": 14,
+      "lap_times": {
+        "fastest": 99.261,
+        "best_3_avg": 99.42833333333333,
+        "best_5_avg": 99.50959999999999,
+        "consistency_best_5": 0.24859999999999616,
+        "lap_count": 14,
+        "optimal_lap_time": 99.053
+      },
+      "s1_times": {
+        "fastest": 26.932,
+        "best_3_avg": 26.960333333333335,
+        "best_5_avg": 27.012400000000003,
+        "consistency_best_5": 0.08040000000000447,
+        "lap_count": 14
+      },
+      "s2_times": {
+        "fastest": 43.182,
+        "best_3_avg": 43.217666666666666,
+        "best_5_avg": 43.2436,
+        "consistency_best_5": 0.061599999999998545,
+        "lap_count": 14
+      },
+      "s3_times": {
+        "fastest": 28.939,
+        "best_3_avg": 29.03633333333333,
+        "best_5_avg": 29.122999999999998,
+        "consistency_best_5": 0.1839999999999975,
+        "lap_count": 14
+      },
+      "alpha_score": -0.07550259281042222
+    },
+    {
+      "driver_name": "Jeremy Fletcher",
+      "team": "Copeland Motorsports",
+      "total_valid_laps": 12,
+      "lap_times": {
+        "fastest": 98.03399999999999,
+        "best_3_avg": 98.17066666666666,
+        "best_5_avg": 98.2774,
+        "consistency_best_5": 0.24340000000000828,
+        "lap_count": 12,
+        "optimal_lap_time": 97.91300000000001
+      },
+      "s1_times": {
+        "fastest": 26.783,
+        "best_3_avg": 26.819,
+        "best_5_avg": 26.859999999999996,
+        "consistency_best_5": 0.07699999999999463,
+        "lap_count": 12
+      },
+      "s2_times": {
+        "fastest": 42.715,
+        "best_3_avg": 42.781000000000006,
+        "best_5_avg": 42.8016,
+        "consistency_best_5": 0.08659999999999712,
+        "lap_count": 12
+      },
+      "s3_times": {
+        "fastest": 28.415,
+        "best_3_avg": 28.47733333333333,
+        "best_5_avg": 28.530199999999997,
+        "consistency_best_5": 0.11519999999999797,
+        "lap_count": 12
+      },
+      "alpha_score": 0.9496473550498901
+    },
+    {
+      "driver_name": "Karl Forman",
+      "team": "Precision Racing LA",
+      "total_valid_laps": 16,
+      "lap_times": {
+        "fastest": 100.006,
+        "best_3_avg": 100.03033333333333,
+        "best_5_avg": 100.10560000000001,
+        "consistency_best_5": 0.09960000000000946,
+        "lap_count": 16,
+        "optimal_lap_time": 99.768
+      },
+      "s1_times": {
+        "fastest": 27.227,
+        "best_3_avg": 27.254,
+        "best_5_avg": 27.2652,
+        "consistency_best_5": 0.03819999999999979,
+        "lap_count": 16
+      },
+      "s2_times": {
+        "fastest": 43.543,
+        "best_3_avg": 43.56733333333333,
+        "best_5_avg": 43.583800000000004,
+        "consistency_best_5": 0.04080000000000439,
+        "lap_count": 16
+      },
+      "s3_times": {
+        "fastest": 28.998,
+        "best_3_avg": 29.054333333333332,
+        "best_5_avg": 29.101399999999995,
+        "consistency_best_5": 0.1033999999999935,
+        "lap_count": 16
+      },
+      "alpha_score": -0.458903703460872
+    },
+    {
+      "driver_name": "Liam Harrison",
+      "team": "Copeland Motorsports",
+      "total_valid_laps": 14,
+      "lap_times": {
+        "fastest": 100.868,
+        "best_3_avg": 100.952,
+        "best_5_avg": 101.083,
+        "consistency_best_5": 0.2150000000000034,
+        "lap_count": 14,
+        "optimal_lap_time": 100.63499999999999
+      },
+      "s1_times": {
+        "fastest": 27.256,
+        "best_3_avg": 27.382333333333335,
+        "best_5_avg": 27.451800000000002,
+        "consistency_best_5": 0.19580000000000197,
+        "lap_count": 14
+      },
+      "s2_times": {
+        "fastest": 43.919,
+        "best_3_avg": 43.98233333333334,
+        "best_5_avg": 44.0274,
+        "consistency_best_5": 0.10840000000000316,
+        "lap_count": 14
+      },
+      "s3_times": {
+        "fastest": 29.46,
+        "best_3_avg": 29.486,
+        "best_5_avg": 29.527799999999996,
+        "consistency_best_5": 0.06779999999999475,
+        "lap_count": 14
+      },
+      "alpha_score": -1.4202430692090027
+    },
+    {
+      "driver_name": "Lucas Weisenberg",
+      "team": "Lucas Racing",
+      "total_valid_laps": 13,
+      "lap_times": {
+        "fastest": 98.523,
+        "best_3_avg": 98.58166666666666,
+        "best_5_avg": 98.6258,
+        "consistency_best_5": 0.102800000000002,
+        "lap_count": 13,
+        "optimal_lap_time": 98.271
+      },
+      "s1_times": {
+        "fastest": 26.799,
+        "best_3_avg": 26.808666666666664,
+        "best_5_avg": 26.8544,
+        "consistency_best_5": 0.055399999999998784,
+        "lap_count": 13
+      },
+      "s2_times": {
+        "fastest": 42.976,
+        "best_3_avg": 43.00300000000001,
+        "best_5_avg": 43.028200000000005,
+        "consistency_best_5": 0.05220000000000624,
+        "lap_count": 13
+      },
+      "s3_times": {
+        "fastest": 28.496,
+        "best_3_avg": 28.614333333333335,
+        "best_5_avg": 28.6596,
+        "consistency_best_5": 0.1636000000000024,
+        "lap_count": 13
+      },
+      "alpha_score": 0.8918294188227897
+    },
+    {
+      "driver_name": "Massimo Sunseri",
+      "team": "BSI Racing",
+      "total_valid_laps": 18,
+      "lap_times": {
+        "fastest": 99.331,
+        "best_3_avg": 99.53366666666666,
+        "best_5_avg": 99.6298,
+        "consistency_best_5": 0.29879999999999995,
+        "lap_count": 18,
+        "optimal_lap_time": 99.137
+      },
+      "s1_times": {
+        "fastest": 27.05,
+        "best_3_avg": 27.073666666666668,
+        "best_5_avg": 27.090600000000002,
+        "consistency_best_5": 0.0406000000000013,
+        "lap_count": 18
+      },
+      "s2_times": {
+        "fastest": 43.174,
+        "best_3_avg": 43.29500000000001,
+        "best_5_avg": 43.339800000000004,
+        "consistency_best_5": 0.1658000000000044,
+        "lap_count": 18
+      },
+      "s3_times": {
+        "fastest": 28.913,
+        "best_3_avg": 29.02933333333333,
+        "best_5_avg": 29.0952,
+        "consistency_best_5": 0.18219999999999814,
+        "lap_count": 18
+      },
+      "alpha_score": -0.27108897311726426
+    },
+    {
+      "driver_name": "Max Schweid",
+      "team": "TechSport",
+      "total_valid_laps": 14,
+      "lap_times": {
+        "fastest": 98.553,
+        "best_3_avg": 98.709,
+        "best_5_avg": 98.7782,
+        "consistency_best_5": 0.22520000000000095,
+        "lap_count": 14,
+        "optimal_lap_time": 98.435
+      },
+      "s1_times": {
+        "fastest": 26.798,
+        "best_3_avg": 26.854,
+        "best_5_avg": 26.8716,
+        "consistency_best_5": 0.07360000000000255,
+        "lap_count": 14
+      },
+      "s2_times": {
+        "fastest": 42.926,
+        "best_3_avg": 42.94033333333334,
+        "best_5_avg": 42.96580000000001,
+        "consistency_best_5": 0.03980000000000672,
+        "lap_count": 14
+      },
+      "s3_times": {
+        "fastest": 28.711,
+        "best_3_avg": 28.766666666666666,
+        "best_5_avg": 28.790399999999998,
+        "consistency_best_5": 0.07939999999999969,
+        "lap_count": 14
+      },
+      "alpha_score": 0.5448769215041291
+    },
+    {
+      "driver_name": "Max Stallone",
+      "team": "PT Autosport with Copeland Motorsports",
+      "total_valid_laps": 17,
+      "lap_times": {
+        "fastest": 99.051,
+        "best_3_avg": 99.18400000000001,
+        "best_5_avg": 99.3326,
+        "consistency_best_5": 0.2815999999999974,
+        "lap_count": 17,
+        "optimal_lap_time": 98.943
+      },
+      "s1_times": {
+        "fastest": 26.983,
+        "best_3_avg": 27.054333333333336,
+        "best_5_avg": 27.093,
+        "consistency_best_5": 0.10999999999999943,
+        "lap_count": 17
+      },
+      "s2_times": {
+        "fastest": 43.123,
+        "best_3_avg": 43.157333333333334,
+        "best_5_avg": 43.187000000000005,
+        "consistency_best_5": 0.06400000000000716,
+        "lap_count": 17
+      },
+      "s3_times": {
+        "fastest": 28.837,
+        "best_3_avg": 28.907,
+        "best_5_avg": 28.952199999999998,
+        "consistency_best_5": 0.11519999999999797,
+        "lap_count": 17
+      },
+      "alpha_score": -0.03561182330438399
+    },
+    {
+      "driver_name": "Paityn Feyen",
+      "team": "Nitro Motorsports",
+      "total_valid_laps": 16,
+      "lap_times": {
+        "fastest": 99.756,
+        "best_3_avg": 99.97733333333333,
+        "best_5_avg": 100.08600000000001,
+        "consistency_best_5": 0.3300000000000125,
+        "lap_count": 16,
+        "optimal_lap_time": 99.75599999999999
+      },
+      "s1_times": {
+        "fastest": 27.094,
+        "best_3_avg": 27.133333333333336,
+        "best_5_avg": 27.1596,
+        "consistency_best_5": 0.06559999999999988,
+        "lap_count": 16
+      },
+      "s2_times": {
+        "fastest": 43.416,
+        "best_3_avg": 43.483000000000004,
+        "best_5_avg": 43.506800000000005,
+        "consistency_best_5": 0.09080000000000865,
+        "lap_count": 16
+      },
+      "s3_times": {
+        "fastest": 29.246,
+        "best_3_avg": 29.285,
+        "best_5_avg": 29.3134,
+        "consistency_best_5": 0.06740000000000279,
+        "lap_count": 16
+      },
+      "alpha_score": -0.8133962991582181
+    },
+    {
+      "driver_name": "Parker DeLong",
+      "team": "TechSport",
+      "total_valid_laps": 14,
+      "lap_times": {
+        "fastest": 98.416,
+        "best_3_avg": 98.61733333333332,
+        "best_5_avg": 98.7414,
+        "consistency_best_5": 0.3254000000000019,
+        "lap_count": 14,
+        "optimal_lap_time": 98.328
+      },
+      "s1_times": {
+        "fastest": 26.873,
+        "best_3_avg": 26.927000000000003,
+        "best_5_avg": 26.968200000000003,
+        "consistency_best_5": 0.09520000000000195,
+        "lap_count": 14
+      },
+      "s2_times": {
+        "fastest": 42.754,
+        "best_3_avg": 42.80133333333333,
+        "best_5_avg": 42.824,
+        "consistency_best_5": 0.07000000000000028,
+        "lap_count": 14
+      },
+      "s3_times": {
+        "fastest": 28.701,
+        "best_3_avg": 28.737666666666666,
+        "best_5_avg": 28.7994,
+        "consistency_best_5": 0.09839999999999804,
+        "lap_count": 14
+      },
+      "alpha_score": 0.42397067672473027
+    },
+    {
+      "driver_name": "Patrick Brunson",
+      "team": "Eagles Canyon Racing Powered by Fast Track",
+      "total_valid_laps": 16,
+      "lap_times": {
+        "fastest": 100.15899999999999,
+        "best_3_avg": 100.40299999999998,
+        "best_5_avg": 100.50299999999999,
+        "consistency_best_5": 0.3439999999999941,
+        "lap_count": 16,
+        "optimal_lap_time": 100.01500000000001
+      },
+      "s1_times": {
+        "fastest": 27.293,
+        "best_3_avg": 27.341333333333335,
+        "best_5_avg": 27.3704,
+        "consistency_best_5": 0.0774000000000008,
+        "lap_count": 16
+      },
+      "s2_times": {
+        "fastest": 43.465,
+        "best_3_avg": 43.48133333333333,
+        "best_5_avg": 43.502199999999995,
+        "consistency_best_5": 0.03719999999999146,
+        "lap_count": 16
+      },
+      "s3_times": {
+        "fastest": 29.257,
+        "best_3_avg": 29.37666666666667,
+        "best_5_avg": 29.444200000000002,
+        "consistency_best_5": 0.1872000000000007,
+        "lap_count": 16
+      },
+      "alpha_score": -1.1444188996628675
+    },
+    {
+      "driver_name": "Rutledge Wood",
+      "team": "Precision Racing LA",
+      "total_valid_laps": 17,
+      "lap_times": {
+        "fastest": 101.97,
+        "best_3_avg": 102.21066666666667,
+        "best_5_avg": 102.3078,
+        "consistency_best_5": 0.33780000000000143,
+        "lap_count": 17,
+        "optimal_lap_time": 101.368
+      },
+      "s1_times": {
+        "fastest": 27.633,
+        "best_3_avg": 27.80033333333333,
+        "best_5_avg": 27.8822,
+        "consistency_best_5": 0.24920000000000186,
+        "lap_count": 17
+      },
+      "s2_times": {
+        "fastest": 43.778,
+        "best_3_avg": 43.84866666666667,
+        "best_5_avg": 43.889599999999994,
+        "consistency_best_5": 0.1115999999999957,
+        "lap_count": 17
+      },
+      "s3_times": {
+        "fastest": 29.957,
+        "best_3_avg": 30.05,
+        "best_5_avg": 30.1322,
+        "consistency_best_5": 0.17520000000000024,
+        "lap_count": 17
+      },
+      "alpha_score": -2.470151676534914
+    },
+    {
+      "driver_name": "Spike Kohlbecker",
+      "team": "RVA Graphics Motorsports by Speed Syndicate",
+      "total_valid_laps": 14,
+      "lap_times": {
+        "fastest": 98.52000000000001,
+        "best_3_avg": 98.61033333333334,
+        "best_5_avg": 98.73780000000001,
+        "consistency_best_5": 0.21779999999999688,
+        "lap_count": 14,
+        "optimal_lap_time": 98.40799999999999
+      },
+      "s1_times": {
+        "fastest": 26.871,
+        "best_3_avg": 26.912000000000003,
+        "best_5_avg": 26.9566,
+        "consistency_best_5": 0.08560000000000301,
+        "lap_count": 14
+      },
+      "s2_times": {
+        "fastest": 42.702,
+        "best_3_avg": 42.726333333333336,
+        "best_5_avg": 42.75,
+        "consistency_best_5": 0.04800000000000182,
+        "lap_count": 14
+      },
+      "s3_times": {
+        "fastest": 28.835,
+        "best_3_avg": 28.86766666666667,
+        "best_5_avg": 28.905600000000003,
+        "consistency_best_5": 0.07060000000000244,
+        "lap_count": 14
+      },
+      "alpha_score": 0.5632047250240951
+    },
+    {
+      "driver_name": "Westin Workman",
+      "team": "BSI Racing",
+      "total_valid_laps": 9,
+      "lap_times": {
+        "fastest": 97.878,
+        "best_3_avg": 98.00466666666667,
+        "best_5_avg": 98.08579999999999,
+        "consistency_best_5": 0.20779999999999177,
+        "lap_count": 9,
+        "optimal_lap_time": 97.686
+      },
+      "s1_times": {
+        "fastest": 26.697,
+        "best_3_avg": 26.735,
+        "best_5_avg": 26.7566,
+        "consistency_best_5": 0.05959999999999965,
+        "lap_count": 9
+      },
+      "s2_times": {
+        "fastest": 42.488,
+        "best_3_avg": 42.595666666666666,
+        "best_5_avg": 42.6276,
+        "consistency_best_5": 0.1396000000000015,
+        "lap_count": 9
+      },
+      "s3_times": {
+        "fastest": 28.501,
+        "best_3_avg": 28.560333333333332,
+        "best_5_avg": 28.5922,
+        "consistency_best_5": 0.09119999999999706,
+        "lap_count": 9
+      },
+      "alpha_score": 1.2116522777212555
+    },
+    {
+      "driver_name": "Will Robusto",
+      "team": "RVA Graphics Motorsports by Speed Syndicate",
+      "total_valid_laps": 13,
+      "lap_times": {
+        "fastest": 98.188,
+        "best_3_avg": 98.20966666666668,
+        "best_5_avg": 98.36659999999999,
+        "consistency_best_5": 0.17859999999998877,
+        "lap_count": 13,
+        "optimal_lap_time": 98.048
+      },
+      "s1_times": {
+        "fastest": 26.868,
+        "best_3_avg": 26.877333333333336,
+        "best_5_avg": 26.9098,
+        "consistency_best_5": 0.04180000000000206,
+        "lap_count": 13
+      },
+      "s2_times": {
+        "fastest": 42.61,
+        "best_3_avg": 42.64833333333333,
+        "best_5_avg": 42.68679999999999,
+        "consistency_best_5": 0.07679999999999154,
+        "lap_count": 13
+      },
+      "s3_times": {
+        "fastest": 28.57,
+        "best_3_avg": 28.625,
+        "best_5_avg": 28.68,
+        "consistency_best_5": 0.10999999999999943,
+        "lap_count": 13
+      },
+      "alpha_score": 0.937104031378805
+    }
+  ],
+  "team_performance": [
+    {
+      "team_name": "BSI Racing",
+      "driver_count": 2,
+      "total_valid_laps": 27,
+      "lap_times": {
+        "fastest": 97.878,
+        "best_3_avg": 98.00466666666667,
+        "best_5_avg": 98.08579999999999,
+        "consistency_best_5": 0.20779999999999177,
+        "lap_count": 27,
+        "optimal_lap_time": 97.686
+      },
+      "s1_times": {
+        "fastest": 26.697,
+        "best_3_avg": 26.735,
+        "best_5_avg": 26.7566,
+        "consistency_best_5": 0.05959999999999965,
+        "lap_count": 27
+      },
+      "s2_times": {
+        "fastest": 42.488,
+        "best_3_avg": 42.595666666666666,
+        "best_5_avg": 42.6276,
+        "consistency_best_5": 0.1396000000000015,
+        "lap_count": 27
+      },
+      "s3_times": {
+        "fastest": 28.501,
+        "best_3_avg": 28.560333333333332,
+        "best_5_avg": 28.5922,
+        "consistency_best_5": 0.09119999999999706,
+        "lap_count": 27
+      }
+    },
+    {
+      "team_name": "Copeland Motorsports",
+      "driver_count": 6,
+      "total_valid_laps": 83,
+      "lap_times": {
+        "fastest": 98.03399999999999,
+        "best_3_avg": 98.17066666666666,
+        "best_5_avg": 98.2774,
+        "consistency_best_5": 0.24340000000000828,
+        "lap_count": 83,
+        "optimal_lap_time": 97.91300000000001
+      },
+      "s1_times": {
+        "fastest": 26.783,
+        "best_3_avg": 26.819,
+        "best_5_avg": 26.8524,
+        "consistency_best_5": 0.06939999999999813,
+        "lap_count": 83
+      },
+      "s2_times": {
+        "fastest": 42.715,
+        "best_3_avg": 42.781000000000006,
+        "best_5_avg": 42.8016,
+        "consistency_best_5": 0.08659999999999712,
+        "lap_count": 83
+      },
+      "s3_times": {
+        "fastest": 28.415,
+        "best_3_avg": 28.47733333333333,
+        "best_5_avg": 28.530199999999997,
+        "consistency_best_5": 0.11519999999999797,
+        "lap_count": 83
+      }
+    },
+    {
+      "team_name": "Eagles Canyon Racing Powered by Fast Track",
+      "driver_count": 1,
+      "total_valid_laps": 16,
+      "lap_times": {
+        "fastest": 100.15899999999999,
+        "best_3_avg": 100.40299999999998,
+        "best_5_avg": 100.50299999999999,
+        "consistency_best_5": 0.3439999999999941,
+        "lap_count": 16,
+        "optimal_lap_time": 100.01500000000001
+      },
+      "s1_times": {
+        "fastest": 27.293,
+        "best_3_avg": 27.341333333333335,
+        "best_5_avg": 27.3704,
+        "consistency_best_5": 0.0774000000000008,
+        "lap_count": 16
+      },
+      "s2_times": {
+        "fastest": 43.465,
+        "best_3_avg": 43.48133333333333,
+        "best_5_avg": 43.502199999999995,
+        "consistency_best_5": 0.03719999999999146,
+        "lap_count": 16
+      },
+      "s3_times": {
+        "fastest": 29.257,
+        "best_3_avg": 29.37666666666667,
+        "best_5_avg": 29.444200000000002,
+        "consistency_best_5": 0.1872000000000007,
+        "lap_count": 16
+      }
+    },
+    {
+      "team_name": "Lucas Racing",
+      "driver_count": 1,
+      "total_valid_laps": 13,
+      "lap_times": {
+        "fastest": 98.523,
+        "best_3_avg": 98.58166666666666,
+        "best_5_avg": 98.6258,
+        "consistency_best_5": 0.102800000000002,
+        "lap_count": 13,
+        "optimal_lap_time": 98.271
+      },
+      "s1_times": {
+        "fastest": 26.799,
+        "best_3_avg": 26.808666666666664,
+        "best_5_avg": 26.8544,
+        "consistency_best_5": 0.055399999999998784,
+        "lap_count": 13
+      },
+      "s2_times": {
+        "fastest": 42.976,
+        "best_3_avg": 43.00300000000001,
+        "best_5_avg": 43.028200000000005,
+        "consistency_best_5": 0.05220000000000624,
+        "lap_count": 13
+      },
+      "s3_times": {
+        "fastest": 28.496,
+        "best_3_avg": 28.614333333333335,
+        "best_5_avg": 28.6596,
+        "consistency_best_5": 0.1636000000000024,
+        "lap_count": 13
+      }
+    },
+    {
+      "team_name": "Nitro Motorsports",
+      "driver_count": 3,
+      "total_valid_laps": 39,
+      "lap_times": {
+        "fastest": 99.07,
+        "best_3_avg": 99.175,
+        "best_5_avg": 99.2406,
+        "consistency_best_5": 0.1706000000000074,
+        "lap_count": 39,
+        "optimal_lap_time": 98.446
+      },
+      "s1_times": {
+        "fastest": 26.826,
+        "best_3_avg": 26.894000000000002,
+        "best_5_avg": 26.928000000000004,
+        "consistency_best_5": 0.10200000000000387,
+        "lap_count": 39
+      },
+      "s2_times": {
+        "fastest": 42.996,
+        "best_3_avg": 43.04633333333334,
+        "best_5_avg": 43.095000000000006,
+        "consistency_best_5": 0.09900000000000375,
+        "lap_count": 39
+      },
+      "s3_times": {
+        "fastest": 28.624,
+        "best_3_avg": 28.805666666666667,
+        "best_5_avg": 28.850599999999996,
+        "consistency_best_5": 0.2265999999999977,
+        "lap_count": 39
+      }
+    },
+    {
+      "team_name": "PT Autosport with Copeland Motorsports",
+      "driver_count": 1,
+      "total_valid_laps": 17,
+      "lap_times": {
+        "fastest": 99.051,
+        "best_3_avg": 99.18400000000001,
+        "best_5_avg": 99.3326,
+        "consistency_best_5": 0.2815999999999974,
+        "lap_count": 17,
+        "optimal_lap_time": 98.943
+      },
+      "s1_times": {
+        "fastest": 26.983,
+        "best_3_avg": 27.054333333333336,
+        "best_5_avg": 27.093,
+        "consistency_best_5": 0.10999999999999943,
+        "lap_count": 17
+      },
+      "s2_times": {
+        "fastest": 43.123,
+        "best_3_avg": 43.157333333333334,
+        "best_5_avg": 43.187000000000005,
+        "consistency_best_5": 0.06400000000000716,
+        "lap_count": 17
+      },
+      "s3_times": {
+        "fastest": 28.837,
+        "best_3_avg": 28.907,
+        "best_5_avg": 28.952199999999998,
+        "consistency_best_5": 0.11519999999999797,
+        "lap_count": 17
+      }
+    },
+    {
+      "team_name": "Precision Racing LA",
+      "driver_count": 2,
+      "total_valid_laps": 33,
+      "lap_times": {
+        "fastest": 100.006,
+        "best_3_avg": 100.03033333333333,
+        "best_5_avg": 100.10560000000001,
+        "consistency_best_5": 0.09960000000000946,
+        "lap_count": 33,
+        "optimal_lap_time": 99.768
+      },
+      "s1_times": {
+        "fastest": 27.227,
+        "best_3_avg": 27.254,
+        "best_5_avg": 27.2652,
+        "consistency_best_5": 0.03819999999999979,
+        "lap_count": 33
+      },
+      "s2_times": {
+        "fastest": 43.543,
+        "best_3_avg": 43.56733333333333,
+        "best_5_avg": 43.583800000000004,
+        "consistency_best_5": 0.04080000000000439,
+        "lap_count": 33
+      },
+      "s3_times": {
+        "fastest": 28.998,
+        "best_3_avg": 29.054333333333332,
+        "best_5_avg": 29.101399999999995,
+        "consistency_best_5": 0.1033999999999935,
+        "lap_count": 33
+      }
+    },
+    {
+      "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+      "driver_count": 3,
+      "total_valid_laps": 41,
+      "lap_times": {
+        "fastest": 98.188,
+        "best_3_avg": 98.20966666666668,
+        "best_5_avg": 98.3054,
+        "consistency_best_5": 0.1174000000000035,
+        "lap_count": 41,
+        "optimal_lap_time": 98.048
+      },
+      "s1_times": {
+        "fastest": 26.868,
+        "best_3_avg": 26.871666666666666,
+        "best_5_avg": 26.8798,
+        "consistency_best_5": 0.01180000000000092,
+        "lap_count": 41
+      },
+      "s2_times": {
+        "fastest": 42.61,
+        "best_3_avg": 42.64833333333333,
+        "best_5_avg": 42.673199999999994,
+        "consistency_best_5": 0.06319999999999482,
+        "lap_count": 41
+      },
+      "s3_times": {
+        "fastest": 28.57,
+        "best_3_avg": 28.625,
+        "best_5_avg": 28.68,
+        "consistency_best_5": 0.10999999999999943,
+        "lap_count": 41
+      }
+    },
+    {
+      "team_name": "TechSport",
+      "driver_count": 3,
+      "total_valid_laps": 39,
+      "lap_times": {
+        "fastest": 98.416,
+        "best_3_avg": 98.545,
+        "best_5_avg": 98.60419999999999,
+        "consistency_best_5": 0.18819999999999482,
+        "lap_count": 39,
+        "optimal_lap_time": 98.25299999999999
+      },
+      "s1_times": {
+        "fastest": 26.798,
+        "best_3_avg": 26.848,
+        "best_5_avg": 26.8664,
+        "consistency_best_5": 0.06840000000000046,
+        "lap_count": 39
+      },
+      "s2_times": {
+        "fastest": 42.754,
+        "best_3_avg": 42.80133333333333,
+        "best_5_avg": 42.824,
+        "consistency_best_5": 0.07000000000000028,
+        "lap_count": 39
+      },
+      "s3_times": {
+        "fastest": 28.701,
+        "best_3_avg": 28.711666666666662,
+        "best_5_avg": 28.740599999999993,
+        "consistency_best_5": 0.039599999999992974,
+        "lap_count": 39
+      }
+    }
+  ],
+  "rankings": {
+    "drivers": {
+      "by_alpha_score": [
+        {
+          "driver_name": "Westin Workman",
+          "value": 1.2116522777212555
+        },
+        {
+          "driver_name": "Jeremy Fletcher",
+          "value": 0.9496473550498901
+        },
+        {
+          "driver_name": "Will Robusto",
+          "value": 0.937104031378805
+        },
+        {
+          "driver_name": "Lucas Weisenberg",
+          "value": 0.8918294188227897
+        },
+        {
+          "driver_name": "Spike Kohlbecker",
+          "value": 0.5632047250240951
+        },
+        {
+          "driver_name": "Max Schweid",
+          "value": 0.5448769215041291
+        },
+        {
+          "driver_name": "Jaxon Bell",
+          "value": 0.5118105879188447
+        },
+        {
+          "driver_name": "Parker DeLong",
+          "value": 0.42397067672473027
+        },
+        {
+          "driver_name": "Ethan Goulart",
+          "value": 0.40662182006593817
+        },
+        {
+          "driver_name": "Ford Koch",
+          "value": 0.21987676496601813
+        },
+        {
+          "driver_name": "Ethan Tovo",
+          "value": 0.1916308959282039
+        },
+        {
+          "driver_name": "Jackson Tovo",
+          "value": 0.09915324035377031
+        },
+        {
+          "driver_name": "Max Stallone",
+          "value": -0.03561182330438399
+        },
+        {
+          "driver_name": "Beltre Curtis",
+          "value": -0.06605521566452215
+        },
+        {
+          "driver_name": "Jenson Sofronas",
+          "value": -0.07550259281042222
+        },
+        {
+          "driver_name": "Isabella Robusto",
+          "value": -0.19600646253593784
+        },
+        {
+          "driver_name": "Massimo Sunseri",
+          "value": -0.27108897311726426
+        },
+        {
+          "driver_name": "Karl Forman",
+          "value": -0.458903703460872
+        },
+        {
+          "driver_name": "Paityn Feyen",
+          "value": -0.8133962991582181
+        },
+        {
+          "driver_name": "Patrick Brunson",
+          "value": -1.1444188996628675
+        },
+        {
+          "driver_name": "Liam Harrison",
+          "value": -1.4202430692090027
+        },
+        {
+          "driver_name": "Rutledge Wood",
+          "value": -2.470151676534914
+        }
+      ],
+      "by_fastest_lap": [
+        {
+          "driver_name": "Westin Workman",
+          "value": 97.878
+        },
+        {
+          "driver_name": "Jeremy Fletcher",
+          "value": 98.03399999999999
+        },
+        {
+          "driver_name": "Will Robusto",
+          "value": 98.188
+        },
+        {
+          "driver_name": "Parker DeLong",
+          "value": 98.416
+        },
+        {
+          "driver_name": "Spike Kohlbecker",
+          "value": 98.52000000000001
+        },
+        {
+          "driver_name": "Lucas Weisenberg",
+          "value": 98.523
+        },
+        {
+          "driver_name": "Max Schweid",
+          "value": 98.553
+        },
+        {
+          "driver_name": "Ethan Goulart",
+          "value": 98.666
+        },
+        {
+          "driver_name": "Ford Koch",
+          "value": 98.815
+        },
+        {
+          "driver_name": "Jaxon Bell",
+          "value": 98.821
+        },
+        {
+          "driver_name": "Beltre Curtis",
+          "value": 98.94800000000001
+        },
+        {
+          "driver_name": "Max Stallone",
+          "value": 99.051
+        },
+        {
+          "driver_name": "Jackson Tovo",
+          "value": 99.07
+        },
+        {
+          "driver_name": "Ethan Tovo",
+          "value": 99.181
+        },
+        {
+          "driver_name": "Jenson Sofronas",
+          "value": 99.261
+        },
+        {
+          "driver_name": "Massimo Sunseri",
+          "value": 99.331
+        },
+        {
+          "driver_name": "Paityn Feyen",
+          "value": 99.756
+        },
+        {
+          "driver_name": "Isabella Robusto",
+          "value": 99.767
+        },
+        {
+          "driver_name": "Karl Forman",
+          "value": 100.006
+        },
+        {
+          "driver_name": "Patrick Brunson",
+          "value": 100.15899999999999
+        },
+        {
+          "driver_name": "Liam Harrison",
+          "value": 100.868
+        },
+        {
+          "driver_name": "Rutledge Wood",
+          "value": 101.97
+        }
+      ],
+      "by_optimal_lap": [
+        {
+          "driver_name": "Westin Workman",
+          "value": 97.686
+        },
+        {
+          "driver_name": "Jeremy Fletcher",
+          "value": 97.91300000000001
+        },
+        {
+          "driver_name": "Will Robusto",
+          "value": 98.048
+        },
+        {
+          "driver_name": "Lucas Weisenberg",
+          "value": 98.271
+        },
+        {
+          "driver_name": "Parker DeLong",
+          "value": 98.328
+        },
+        {
+          "driver_name": "Spike Kohlbecker",
+          "value": 98.40799999999999
+        },
+        {
+          "driver_name": "Max Schweid",
+          "value": 98.435
+        },
+        {
+          "driver_name": "Jaxon Bell",
+          "value": 98.571
+        },
+        {
+          "driver_name": "Ethan Goulart",
+          "value": 98.59199999999998
+        },
+        {
+          "driver_name": "Ford Koch",
+          "value": 98.66000000000001
+        },
+        {
+          "driver_name": "Ethan Tovo",
+          "value": 98.73599999999999
+        },
+        {
+          "driver_name": "Jackson Tovo",
+          "value": 98.737
+        },
+        {
+          "driver_name": "Beltre Curtis",
+          "value": 98.75800000000001
+        },
+        {
+          "driver_name": "Max Stallone",
+          "value": 98.943
+        },
+        {
+          "driver_name": "Jenson Sofronas",
+          "value": 99.053
+        },
+        {
+          "driver_name": "Massimo Sunseri",
+          "value": 99.137
+        },
+        {
+          "driver_name": "Isabella Robusto",
+          "value": 99.576
+        },
+        {
+          "driver_name": "Paityn Feyen",
+          "value": 99.75599999999999
+        },
+        {
+          "driver_name": "Karl Forman",
+          "value": 99.768
+        },
+        {
+          "driver_name": "Patrick Brunson",
+          "value": 100.01500000000001
+        },
+        {
+          "driver_name": "Liam Harrison",
+          "value": 100.63499999999999
+        },
+        {
+          "driver_name": "Rutledge Wood",
+          "value": 101.368
+        }
+      ],
+      "by_best_5_avg": [
+        {
+          "driver_name": "Westin Workman",
+          "value": 98.08579999999999
+        },
+        {
+          "driver_name": "Jeremy Fletcher",
+          "value": 98.2774
+        },
+        {
+          "driver_name": "Will Robusto",
+          "value": 98.36659999999999
+        },
+        {
+          "driver_name": "Lucas Weisenberg",
+          "value": 98.6258
+        },
+        {
+          "driver_name": "Spike Kohlbecker",
+          "value": 98.73780000000001
+        },
+        {
+          "driver_name": "Parker DeLong",
+          "value": 98.7414
+        },
+        {
+          "driver_name": "Max Schweid",
+          "value": 98.7782
+        },
+        {
+          "driver_name": "Ethan Goulart",
+          "value": 98.8872
+        },
+        {
+          "driver_name": "Jaxon Bell",
+          "value": 98.96839999999999
+        },
+        {
+          "driver_name": "Ford Koch",
+          "value": 99.091
+        },
+        {
+          "driver_name": "Beltre Curtis",
+          "value": 99.30760000000001
+        },
+        {
+          "driver_name": "Max Stallone",
+          "value": 99.3326
+        },
+        {
+          "driver_name": "Jackson Tovo",
+          "value": 99.3608
+        },
+        {
+          "driver_name": "Ethan Tovo",
+          "value": 99.39739999999999
+        },
+        {
+          "driver_name": "Jenson Sofronas",
+          "value": 99.50959999999999
+        },
+        {
+          "driver_name": "Massimo Sunseri",
+          "value": 99.6298
+        },
+        {
+          "driver_name": "Isabella Robusto",
+          "value": 99.832
+        },
+        {
+          "driver_name": "Paityn Feyen",
+          "value": 100.08600000000001
+        },
+        {
+          "driver_name": "Karl Forman",
+          "value": 100.10560000000001
+        },
+        {
+          "driver_name": "Patrick Brunson",
+          "value": 100.50299999999999
+        },
+        {
+          "driver_name": "Liam Harrison",
+          "value": 101.083
+        },
+        {
+          "driver_name": "Rutledge Wood",
+          "value": 102.3078
+        }
+      ],
+      "by_consistency": [
+        {
+          "driver_name": "Isabella Robusto",
+          "value": 0.06499999999999773
+        },
+        {
+          "driver_name": "Karl Forman",
+          "value": 0.09960000000000946
+        },
+        {
+          "driver_name": "Lucas Weisenberg",
+          "value": 0.102800000000002
+        },
+        {
+          "driver_name": "Jaxon Bell",
+          "value": 0.14739999999999043
+        },
+        {
+          "driver_name": "Will Robusto",
+          "value": 0.17859999999998877
+        },
+        {
+          "driver_name": "Westin Workman",
+          "value": 0.20779999999999177
+        },
+        {
+          "driver_name": "Liam Harrison",
+          "value": 0.2150000000000034
+        },
+        {
+          "driver_name": "Ethan Tovo",
+          "value": 0.21639999999999304
+        },
+        {
+          "driver_name": "Spike Kohlbecker",
+          "value": 0.21779999999999688
+        },
+        {
+          "driver_name": "Ethan Goulart",
+          "value": 0.22120000000001028
+        },
+        {
+          "driver_name": "Max Schweid",
+          "value": 0.22520000000000095
+        },
+        {
+          "driver_name": "Jeremy Fletcher",
+          "value": 0.24340000000000828
+        },
+        {
+          "driver_name": "Jenson Sofronas",
+          "value": 0.24859999999999616
+        },
+        {
+          "driver_name": "Ford Koch",
+          "value": 0.27599999999999625
+        },
+        {
+          "driver_name": "Max Stallone",
+          "value": 0.2815999999999974
+        },
+        {
+          "driver_name": "Jackson Tovo",
+          "value": 0.2908000000000044
+        },
+        {
+          "driver_name": "Massimo Sunseri",
+          "value": 0.29879999999999995
+        },
+        {
+          "driver_name": "Parker DeLong",
+          "value": 0.3254000000000019
+        },
+        {
+          "driver_name": "Paityn Feyen",
+          "value": 0.3300000000000125
+        },
+        {
+          "driver_name": "Rutledge Wood",
+          "value": 0.33780000000000143
+        },
+        {
+          "driver_name": "Patrick Brunson",
+          "value": 0.3439999999999941
+        },
+        {
+          "driver_name": "Beltre Curtis",
+          "value": 0.35960000000000036
+        }
+      ],
+      "by_lap_improvement": []
+    },
+    "teams": {
+      "by_lap_fastest": [
+        {
+          "team_name": "BSI Racing",
+          "value": 97.878
+        },
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 98.03399999999999
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 98.188
+        },
+        {
+          "team_name": "TechSport",
+          "value": 98.416
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 98.523
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 99.051
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 99.07
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 100.006
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 100.15899999999999
+        }
+      ],
+      "by_lap_best_3_avg": [
+        {
+          "team_name": "BSI Racing",
+          "value": 98.00466666666667
+        },
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 98.17066666666666
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 98.20966666666668
+        },
+        {
+          "team_name": "TechSport",
+          "value": 98.545
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 98.58166666666666
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 99.175
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 99.18400000000001
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 100.03033333333333
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 100.40299999999998
+        }
+      ],
+      "by_lap_best_5_avg": [
+        {
+          "team_name": "BSI Racing",
+          "value": 98.08579999999999
+        },
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 98.2774
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 98.3054
+        },
+        {
+          "team_name": "TechSport",
+          "value": 98.60419999999999
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 98.6258
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 99.2406
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 99.3326
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 100.10560000000001
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 100.50299999999999
+        }
+      ],
+      "by_s1_fastest": [
+        {
+          "team_name": "BSI Racing",
+          "value": 26.697
+        },
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 26.783
+        },
+        {
+          "team_name": "TechSport",
+          "value": 26.798
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 26.799
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 26.826
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 26.868
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 26.983
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 27.227
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 27.293
+        }
+      ],
+      "by_s1_best_3_avg": [
+        {
+          "team_name": "BSI Racing",
+          "value": 26.735
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 26.808666666666664
+        },
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 26.819
+        },
+        {
+          "team_name": "TechSport",
+          "value": 26.848
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 26.871666666666666
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 26.894000000000002
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 27.054333333333336
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 27.254
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 27.341333333333335
+        }
+      ],
+      "by_s1_best_5_avg": [
+        {
+          "team_name": "BSI Racing",
+          "value": 26.7566
+        },
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 26.8524
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 26.8544
+        },
+        {
+          "team_name": "TechSport",
+          "value": 26.8664
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 26.8798
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 26.928000000000004
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 27.093
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 27.2652
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 27.3704
+        }
+      ],
+      "by_s2_fastest": [
+        {
+          "team_name": "BSI Racing",
+          "value": 42.488
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 42.61
+        },
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 42.715
+        },
+        {
+          "team_name": "TechSport",
+          "value": 42.754
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 42.976
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 42.996
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 43.123
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 43.465
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 43.543
+        }
+      ],
+      "by_s2_best_3_avg": [
+        {
+          "team_name": "BSI Racing",
+          "value": 42.595666666666666
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 42.64833333333333
+        },
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 42.781000000000006
+        },
+        {
+          "team_name": "TechSport",
+          "value": 42.80133333333333
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 43.00300000000001
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 43.04633333333334
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 43.157333333333334
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 43.48133333333333
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 43.56733333333333
+        }
+      ],
+      "by_s2_best_5_avg": [
+        {
+          "team_name": "BSI Racing",
+          "value": 42.6276
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 42.673199999999994
+        },
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 42.8016
+        },
+        {
+          "team_name": "TechSport",
+          "value": 42.824
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 43.028200000000005
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 43.095000000000006
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 43.187000000000005
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 43.502199999999995
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 43.583800000000004
+        }
+      ],
+      "by_s3_fastest": [
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 28.415
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 28.496
+        },
+        {
+          "team_name": "BSI Racing",
+          "value": 28.501
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 28.57
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 28.624
+        },
+        {
+          "team_name": "TechSport",
+          "value": 28.701
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 28.837
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 28.998
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 29.257
+        }
+      ],
+      "by_s3_best_3_avg": [
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 28.47733333333333
+        },
+        {
+          "team_name": "BSI Racing",
+          "value": 28.560333333333332
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 28.614333333333335
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 28.625
+        },
+        {
+          "team_name": "TechSport",
+          "value": 28.711666666666662
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 28.805666666666667
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 28.907
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 29.054333333333332
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 29.37666666666667
+        }
+      ],
+      "by_s3_best_5_avg": [
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 28.530199999999997
+        },
+        {
+          "team_name": "BSI Racing",
+          "value": 28.5922
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 28.6596
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 28.68
+        },
+        {
+          "team_name": "TechSport",
+          "value": 28.740599999999993
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 28.850599999999996
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 28.952199999999998
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 29.101399999999995
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 29.444200000000002
+        }
+      ],
+      "by_lap_optimal": [
+        {
+          "team_name": "BSI Racing",
+          "value": 97.686
+        },
+        {
+          "team_name": "Copeland Motorsports",
+          "value": 97.91300000000001
+        },
+        {
+          "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+          "value": 98.048
+        },
+        {
+          "team_name": "TechSport",
+          "value": 98.25299999999999
+        },
+        {
+          "team_name": "Lucas Racing",
+          "value": 98.271
+        },
+        {
+          "team_name": "Nitro Motorsports",
+          "value": 98.446
+        },
+        {
+          "team_name": "PT Autosport with Copeland Motorsports",
+          "value": 98.943
+        },
+        {
+          "team_name": "Precision Racing LA",
+          "value": 99.768
+        },
+        {
+          "team_name": "Eagles Canyon Racing Powered by Fast Track",
+          "value": 100.01500000000001
+        }
+      ],
+      "by_lap_improvement": []
+    }
+  }
+}
