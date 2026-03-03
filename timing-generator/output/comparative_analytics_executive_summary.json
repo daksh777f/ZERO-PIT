@@ -1,0 +1,40 @@
+{
+  "executive_summary": {
+    "report_title": "Race Comparison Report: race_1 vs race_2",
+    "races_analyzed": [
+      "race_1",
+      "race_2"
+    ],
+    "total_drivers": 22,
+    "technical_compliance_alerts": {
+      "sector_outlier_count": 0,
+      "persistent_outlier_count": 0,
+      "anomalous_improvement_count": 3
+    },
+    "talent_development_insights": {
+      "most_improved_driver": {
+        "driver": "18",
+        "driver_name": "Rutledge Wood",
+        "improvement_percent": 1.68
+      },
+      "most_consistent_driver": {
+        "driver": "13",
+        "driver_name": "Westin Workman",
+        "std_dev": 0.247
+      }
+    },
+    "field_health": {
+      "competitive_balance": "CONVERGING",
+      "trend_magnitude": -0.286,
+      "gap_change": -0.102
+    }
+  },
+  "metadata": {
+    "races_analyzed": [
+      "race_1",
+      "race_2"
+    ],
+    "total_drivers": 22,
+    "generation_timestamp": "2025-11-17T15:46:36.872057"
+  }
+}

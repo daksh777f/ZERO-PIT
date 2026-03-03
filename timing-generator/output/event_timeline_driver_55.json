@@ -1,0 +1,2142 @@
+{
+  "driver_number": "55",
+  "driver_name": "Spike Kohlbecker",
+  "total_events": 78,
+  "events": [
+    {
+      "event_id": 5,
+      "elapsed_race_time": 28.601,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 1,
+      "sector_time": 28.601,
+      "cumulative_lap_time": 28.601,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.057,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -1.02,
+          "72": -0.717,
+          "22": -0.459,
+          "98": -0.057
+        }
+      },
+      "gap_distance_meters": 2.4,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 26,
+      "elapsed_race_time": 71.277,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 1,
+      "sector_time": 42.676,
+      "cumulative_lap_time": 71.277,
+      "race_position": 4,
+      "position_change": 1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.559,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -1.418,
+          "72": -0.869,
+          "22": -0.559
+        }
+      },
+      "gap_distance_meters": 23.3,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 48,
+      "elapsed_race_time": 99.968,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 1,
+      "sector_time": 28.691,
+      "cumulative_lap_time": 99.968,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.31,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -1.746,
+          "72": -0.336,
+          "22": -0.31
+        }
+      },
+      "gap_distance_meters": 12.9,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 70,
+      "elapsed_race_time": 126.927,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 2,
+      "sector_time": 26.959,
+      "cumulative_lap_time": 26.959,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.276,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -1.969,
+          "22": -0.497,
+          "72": -0.276
+        }
+      },
+      "gap_distance_meters": 11.5,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 92,
+      "elapsed_race_time": 169.452,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 2,
+      "sector_time": 42.525,
+      "cumulative_lap_time": 69.484,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.286,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -2.212,
+          "22": -0.549,
+          "72": -0.286
+        }
+      },
+      "gap_distance_meters": 11.9,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 114,
+      "elapsed_race_time": 198.312,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 2,
+      "sector_time": 28.86,
+      "cumulative_lap_time": 98.344,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.32,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -2.74,
+          "22": -0.771,
+          "72": -0.32
+        }
+      },
+      "gap_distance_meters": 13.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 136,
+      "elapsed_race_time": 225.173,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 3,
+      "sector_time": 26.861,
+      "cumulative_lap_time": 26.861,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.546,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -2.99,
+          "22": -1.095,
+          "72": -0.546
+        }
+      },
+      "gap_distance_meters": 22.8,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 158,
+      "elapsed_race_time": 267.79,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 3,
+      "sector_time": 42.617,
+      "cumulative_lap_time": 69.478,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.563,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -3.389,
+          "22": -1.272,
+          "72": -0.563
+        }
+      },
+      "gap_distance_meters": 23.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 180,
+      "elapsed_race_time": 296.549,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 3,
+      "sector_time": 28.759,
+      "cumulative_lap_time": 98.237,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.491,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -3.54,
+          "22": -1.492,
+          "72": -0.491
+        }
+      },
+      "gap_distance_meters": 20.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 202,
+      "elapsed_race_time": 323.188,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 4,
+      "sector_time": 26.639,
+      "cumulative_lap_time": 26.639,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.42,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -3.485,
+          "22": -1.55,
+          "72": -0.42
+        }
+      },
+      "gap_distance_meters": 17.5,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 224,
+      "elapsed_race_time": 365.535,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 4,
+      "sector_time": 42.347,
+      "cumulative_lap_time": 68.986,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.192,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -3.506,
+          "22": -1.534,
+          "72": -0.192
+        }
+      },
+      "gap_distance_meters": 8.0,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 246,
+      "elapsed_race_time": 394.341,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 4,
+      "sector_time": 28.806,
+      "cumulative_lap_time": 97.792,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.284,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -3.738,
+          "22": -1.861,
+          "72": -0.284
+        }
+      },
+      "gap_distance_meters": 11.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 267,
+      "elapsed_race_time": 421.053,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 5,
+      "sector_time": 26.712,
+      "cumulative_lap_time": 26.712,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.41,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -3.759,
+          "22": -1.998,
+          "72": -0.41
+        }
+      },
+      "gap_distance_meters": 17.1,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 288,
+      "elapsed_race_time": 463.787,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 5,
+      "sector_time": 42.734,
+      "cumulative_lap_time": 69.446,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.204,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -4.033,
+          "22": -2.407,
+          "72": -0.204
+        }
+      },
+      "gap_distance_meters": 8.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 309,
+      "elapsed_race_time": 492.653,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 5,
+      "sector_time": 28.866,
+      "cumulative_lap_time": 98.312,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.2,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -4.466,
+          "22": -2.707,
+          "72": -0.2
+        }
+      },
+      "gap_distance_meters": 8.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 330,
+      "elapsed_race_time": 519.509,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 6,
+      "sector_time": 26.856,
+      "cumulative_lap_time": 26.856,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.308,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -4.647,
+          "22": -2.936,
+          "72": -0.308
+        }
+      },
+      "gap_distance_meters": 12.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 351,
+      "elapsed_race_time": 561.993,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 6,
+      "sector_time": 42.484,
+      "cumulative_lap_time": 69.34,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.22,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -4.722,
+          "22": -3.094,
+          "72": -0.22
+        }
+      },
+      "gap_distance_meters": 9.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 372,
+      "elapsed_race_time": 590.842,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 6,
+      "sector_time": 28.849,
+      "cumulative_lap_time": 98.189,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.14,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -5.146,
+          "22": -3.418,
+          "72": -0.14
+        }
+      },
+      "gap_distance_meters": 5.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 393,
+      "elapsed_race_time": 617.776,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 7,
+      "sector_time": 26.934,
+      "cumulative_lap_time": 26.934,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.327,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -5.536,
+          "22": -3.805,
+          "72": -0.327
+        }
+      },
+      "gap_distance_meters": 13.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 414,
+      "elapsed_race_time": 660.316,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 7,
+      "sector_time": 42.54,
+      "cumulative_lap_time": 69.474,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.23,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -5.809,
+          "22": -4.197,
+          "72": -0.23
+        }
+      },
+      "gap_distance_meters": 9.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 434,
+      "elapsed_race_time": 689.39,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 7,
+      "sector_time": 29.074,
+      "cumulative_lap_time": 98.548,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.152,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -6.252,
+          "22": -4.616,
+          "72": -0.152
+        }
+      },
+      "gap_distance_meters": 6.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 455,
+      "elapsed_race_time": 716.318,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 8,
+      "sector_time": 26.928,
+      "cumulative_lap_time": 26.928,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.262,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -6.596,
+          "22": -4.997,
+          "72": -0.262
+        }
+      },
+      "gap_distance_meters": 10.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 478,
+      "elapsed_race_time": 758.925,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 8,
+      "sector_time": 42.607,
+      "cumulative_lap_time": 69.535,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.315,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -7.006,
+          "22": -5.506,
+          "72": -0.315
+        }
+      },
+      "gap_distance_meters": 13.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 499,
+      "elapsed_race_time": 787.727,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 8,
+      "sector_time": 28.802,
+      "cumulative_lap_time": 98.337,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.176,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -7.178,
+          "22": -5.623,
+          "72": -0.176
+        }
+      },
+      "gap_distance_meters": 7.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 521,
+      "elapsed_race_time": 814.628,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 9,
+      "sector_time": 26.901,
+      "cumulative_lap_time": 26.901,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.305,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -7.375,
+          "22": -5.983,
+          "72": -0.305
+        }
+      },
+      "gap_distance_meters": 12.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 544,
+      "elapsed_race_time": 857.202,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 9,
+      "sector_time": 42.574,
+      "cumulative_lap_time": 69.475,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.292,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -7.582,
+          "22": -6.25,
+          "72": -0.292
+        }
+      },
+      "gap_distance_meters": 12.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 564,
+      "elapsed_race_time": 886.095,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 9,
+      "sector_time": 28.893,
+      "cumulative_lap_time": 98.368,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.138,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -7.896,
+          "22": -6.607,
+          "72": -0.138
+        }
+      },
+      "gap_distance_meters": 5.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 584,
+      "elapsed_race_time": 913.014,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 10,
+      "sector_time": 26.919,
+      "cumulative_lap_time": 26.919,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.29,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -8.154,
+          "22": -6.946,
+          "72": -0.29
+        }
+      },
+      "gap_distance_meters": 12.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 606,
+      "elapsed_race_time": 956.303,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 10,
+      "sector_time": 43.289,
+      "cumulative_lap_time": 70.208,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.305,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -9.017,
+          "22": -7.958,
+          "72": -0.305
+        }
+      },
+      "gap_distance_meters": 12.7,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 624,
+      "elapsed_race_time": 985.261,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 10,
+      "sector_time": 28.958,
+      "cumulative_lap_time": 99.166,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.233,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -9.446,
+          "22": -8.394,
+          "72": -0.233
+        }
+      },
+      "gap_distance_meters": 9.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 645,
+      "elapsed_race_time": 1012.089,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 11,
+      "sector_time": 26.828,
+      "cumulative_lap_time": 26.828,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.325,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -9.643,
+          "22": -8.717,
+          "72": -0.325
+        }
+      },
+      "gap_distance_meters": 13.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 669,
+      "elapsed_race_time": 1054.704,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 11,
+      "sector_time": 42.615,
+      "cumulative_lap_time": 69.443,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.156,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -9.935,
+          "22": -9.068,
+          "72": -0.156
+        }
+      },
+      "gap_distance_meters": 6.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 690,
+      "elapsed_race_time": 1084.566,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 11,
+      "sector_time": 29.862,
+      "cumulative_lap_time": 99.305,
+      "race_position": 5,
+      "position_change": -1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.052,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -11.243,
+          "22": -10.395,
+          "72": -0.074,
+          "2": -0.052
+        }
+      },
+      "gap_distance_meters": 2.2,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 712,
+      "elapsed_race_time": 1112.187,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 12,
+      "sector_time": 27.621,
+      "cumulative_lap_time": 27.621,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.304,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -12.178,
+          "22": -11.381,
+          "2": -0.767,
+          "72": -0.304
+        }
+      },
+      "gap_distance_meters": 12.7,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 736,
+      "elapsed_race_time": 1154.676,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 12,
+      "sector_time": 42.489,
+      "cumulative_lap_time": 70.11,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.296,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -12.375,
+          "22": -11.578,
+          "2": -0.749,
+          "72": -0.296
+        }
+      },
+      "gap_distance_meters": 12.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 756,
+      "elapsed_race_time": 1183.482,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 12,
+      "sector_time": 28.806,
+      "cumulative_lap_time": 98.916,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.298,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -12.558,
+          "22": -11.873,
+          "2": -0.8,
+          "72": -0.298
+        }
+      },
+      "gap_distance_meters": 12.4,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 778,
+      "elapsed_race_time": 1210.187,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 13,
+      "sector_time": 26.705,
+      "cumulative_lap_time": 26.705,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.336,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -12.606,
+          "22": -12.039,
+          "2": -0.723,
+          "72": -0.336
+        }
+      },
+      "gap_distance_meters": 14.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 802,
+      "elapsed_race_time": 1252.687,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 13,
+      "sector_time": 42.5,
+      "cumulative_lap_time": 69.205,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.293,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -12.762,
+          "22": -12.292,
+          "2": -0.772,
+          "72": -0.293
+        }
+      },
+      "gap_distance_meters": 12.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 822,
+      "elapsed_race_time": 1281.668,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 13,
+      "sector_time": 28.981,
+      "cumulative_lap_time": 98.186,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.236,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -13.021,
+          "22": -12.639,
+          "2": -0.981,
+          "72": -0.236
+        }
+      },
+      "gap_distance_meters": 9.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 844,
+      "elapsed_race_time": 1308.46,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 14,
+      "sector_time": 26.792,
+      "cumulative_lap_time": 26.792,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.369,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -13.128,
+          "22": -12.79,
+          "2": -0.959,
+          "72": -0.369
+        }
+      },
+      "gap_distance_meters": 15.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 868,
+      "elapsed_race_time": 1351.01,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 14,
+      "sector_time": 42.55,
+      "cumulative_lap_time": 69.342,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.463,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -13.256,
+          "22": -12.982,
+          "2": -1.008,
+          "72": -0.463
+        }
+      },
+      "gap_distance_meters": 19.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 888,
+      "elapsed_race_time": 1379.781,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 14,
+      "sector_time": 28.771,
+      "cumulative_lap_time": 98.113,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.404,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -13.41,
+          "22": -13.044,
+          "2": -1.045,
+          "72": -0.404
+        }
+      },
+      "gap_distance_meters": 16.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 908,
+      "elapsed_race_time": 1406.563,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 15,
+      "sector_time": 26.782,
+      "cumulative_lap_time": 26.782,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.404,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -13.48,
+          "22": -13.219,
+          "2": -1.027,
+          "72": -0.404
+        }
+      },
+      "gap_distance_meters": 16.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 934,
+      "elapsed_race_time": 1448.997,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 15,
+      "sector_time": 42.434,
+      "cumulative_lap_time": 69.216,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.331,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -13.555,
+          "22": -13.222,
+          "2": -0.896,
+          "72": -0.331
+        }
+      },
+      "gap_distance_meters": 13.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 954,
+      "elapsed_race_time": 1477.899,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 15,
+      "sector_time": 28.902,
+      "cumulative_lap_time": 98.118,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.292,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -13.818,
+          "22": -13.396,
+          "2": -1.197,
+          "72": -0.292
+        }
+      },
+      "gap_distance_meters": 12.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 974,
+      "elapsed_race_time": 1504.678,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 16,
+      "sector_time": 26.779,
+      "cumulative_lap_time": 26.779,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.353,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -13.927,
+          "22": -13.474,
+          "2": -1.203,
+          "72": -0.353
+        }
+      },
+      "gap_distance_meters": 14.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 999,
+      "elapsed_race_time": 1547.143,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 16,
+      "sector_time": 42.465,
+      "cumulative_lap_time": 69.244,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.323,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -14.124,
+          "22": -13.692,
+          "2": -1.216,
+          "72": -0.323
+        }
+      },
+      "gap_distance_meters": 13.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1019,
+      "elapsed_race_time": 1575.873,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 16,
+      "sector_time": 28.73,
+      "cumulative_lap_time": 97.974,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.299,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -14.056,
+          "22": -13.723,
+          "2": -1.21,
+          "72": -0.299
+        }
+      },
+      "gap_distance_meters": 12.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1039,
+      "elapsed_race_time": 1602.661,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 17,
+      "sector_time": 26.788,
+      "cumulative_lap_time": 26.788,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.468,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -14.262,
+          "22": -13.894,
+          "2": -1.329,
+          "72": -0.468
+        }
+      },
+      "gap_distance_meters": 19.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1065,
+      "elapsed_race_time": 1644.922,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 17,
+      "sector_time": 42.261,
+      "cumulative_lap_time": 69.049,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.337,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -14.234,
+          "22": -13.876,
+          "2": -1.254,
+          "72": -0.337
+        }
+      },
+      "gap_distance_meters": 14.0,
+      "sector_performance": "fastest",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 1084,
+      "elapsed_race_time": 1673.7,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 17,
+      "sector_time": 28.778,
+      "cumulative_lap_time": 97.827,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.125,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -14.408,
+          "22": -13.995,
+          "2": -1.359,
+          "72": -0.125
+        }
+      },
+      "gap_distance_meters": 5.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1104,
+      "elapsed_race_time": 1700.684,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 18,
+      "sector_time": 26.984,
+      "cumulative_lap_time": 26.984,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.261,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -14.608,
+          "22": -14.388,
+          "2": -1.595,
+          "72": -0.261
+        }
+      },
+      "gap_distance_meters": 10.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1130,
+      "elapsed_race_time": 1743.293,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 18,
+      "sector_time": 42.609,
+      "cumulative_lap_time": 69.593,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.245,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -14.713,
+          "22": -14.448,
+          "2": -1.819,
+          "72": -0.245
+        }
+      },
+      "gap_distance_meters": 10.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1149,
+      "elapsed_race_time": 1772.126,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 18,
+      "sector_time": 28.833,
+      "cumulative_lap_time": 98.426,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.231,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -14.911,
+          "22": -14.282,
+          "2": -1.644,
+          "72": -0.231
+        }
+      },
+      "gap_distance_meters": 9.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1167,
+      "elapsed_race_time": 1799.037,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 19,
+      "sector_time": 26.911,
+      "cumulative_lap_time": 26.911,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.283,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -15.195,
+          "22": -14.369,
+          "2": -1.816,
+          "72": -0.283
+        }
+      },
+      "gap_distance_meters": 11.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1191,
+      "elapsed_race_time": 1841.604,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 19,
+      "sector_time": 42.567,
+      "cumulative_lap_time": 69.478,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.251,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -15.251,
+          "22": -14.639,
+          "2": -1.74,
+          "72": -0.251
+        }
+      },
+      "gap_distance_meters": 10.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1209,
+      "elapsed_race_time": 1870.811,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 19,
+      "sector_time": 29.207,
+      "cumulative_lap_time": 98.685,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.158,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -15.868,
+          "22": -15.143,
+          "2": -2.074,
+          "72": -0.158
+        }
+      },
+      "gap_distance_meters": 6.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1229,
+      "elapsed_race_time": 1897.801,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 20,
+      "sector_time": 26.99,
+      "cumulative_lap_time": 26.99,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.34,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -16.138,
+          "22": -15.534,
+          "2": -2.218,
+          "72": -0.34
+        }
+      },
+      "gap_distance_meters": 14.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1255,
+      "elapsed_race_time": 1940.352,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 20,
+      "sector_time": 42.551,
+      "cumulative_lap_time": 69.541,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.231,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -16.379,
+          "22": -15.86,
+          "2": -2.231,
+          "72": -0.231
+        }
+      },
+      "gap_distance_meters": 9.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1275,
+      "elapsed_race_time": 1969.266,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 20,
+      "sector_time": 28.914,
+      "cumulative_lap_time": 98.455,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.096,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -16.797,
+          "22": -16.219,
+          "2": -2.284,
+          "72": -0.096
+        }
+      },
+      "gap_distance_meters": 4.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1294,
+      "elapsed_race_time": 1996.595,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 21,
+      "sector_time": 27.329,
+      "cumulative_lap_time": 27.329,
+      "race_position": 4,
+      "position_change": 1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.838,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.381,
+          "22": -16.902,
+          "2": -2.838
+        }
+      },
+      "gap_distance_meters": 118.3,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1320,
+      "elapsed_race_time": 2039.051,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 21,
+      "sector_time": 42.456,
+      "cumulative_lap_time": 69.785,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.719,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.517,
+          "22": -17.065,
+          "2": -2.719
+        }
+      },
+      "gap_distance_meters": 113.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1340,
+      "elapsed_race_time": 2067.839,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 21,
+      "sector_time": 28.788,
+      "cumulative_lap_time": 98.573,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.85,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.493,
+          "22": -17.081,
+          "2": -2.85
+        }
+      },
+      "gap_distance_meters": 118.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1358,
+      "elapsed_race_time": 2094.588,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 22,
+      "sector_time": 26.749,
+      "cumulative_lap_time": 26.749,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.597,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.403,
+          "22": -17.102,
+          "2": -2.597
+        }
+      },
+      "gap_distance_meters": 108.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1386,
+      "elapsed_race_time": 2137.095,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 22,
+      "sector_time": 42.507,
+      "cumulative_lap_time": 69.256,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.343,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.495,
+          "22": -17.104,
+          "2": -2.343
+        }
+      },
+      "gap_distance_meters": 97.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1405,
+      "elapsed_race_time": 2165.905,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 22,
+      "sector_time": 28.81,
+      "cumulative_lap_time": 98.066,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.346,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.64,
+          "22": -17.176,
+          "2": -2.346
+        }
+      },
+      "gap_distance_meters": 97.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1424,
+      "elapsed_race_time": 2192.569,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 23,
+      "sector_time": 26.664,
+      "cumulative_lap_time": 26.664,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.265,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.477,
+          "22": -17.179,
+          "2": -2.265
+        }
+      },
+      "gap_distance_meters": 94.4,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1452,
+      "elapsed_race_time": 2234.982,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 23,
+      "sector_time": 42.413,
+      "cumulative_lap_time": 69.077,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.129,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.335,
+          "22": -17.051,
+          "2": -2.129
+        }
+      },
+      "gap_distance_meters": 88.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1470,
+      "elapsed_race_time": 2263.847,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 23,
+      "sector_time": 28.865,
+      "cumulative_lap_time": 97.942,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.093,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.361,
+          "22": -17.032,
+          "2": -2.093
+        }
+      },
+      "gap_distance_meters": 87.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1489,
+      "elapsed_race_time": 2290.522,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 24,
+      "sector_time": 26.675,
+      "cumulative_lap_time": 26.675,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.139,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.417,
+          "22": -17.046,
+          "2": -2.139
+        }
+      },
+      "gap_distance_meters": 89.1,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1517,
+      "elapsed_race_time": 2332.967,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 24,
+      "sector_time": 42.445,
+      "cumulative_lap_time": 69.12,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.972,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.366,
+          "22": -17.05,
+          "2": -1.972
+        }
+      },
+      "gap_distance_meters": 82.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1536,
+      "elapsed_race_time": 2361.75,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 24,
+      "sector_time": 28.783,
+      "cumulative_lap_time": 97.903,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.903,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.474,
+          "22": -17.087,
+          "2": -1.903
+        }
+      },
+      "gap_distance_meters": 79.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1555,
+      "elapsed_race_time": 2388.476,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 25,
+      "sector_time": 26.726,
+      "cumulative_lap_time": 26.726,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.72,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.454,
+          "22": -17.165,
+          "2": -1.72
+        }
+      },
+      "gap_distance_meters": 71.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1581,
+      "elapsed_race_time": 2430.908,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 25,
+      "sector_time": 42.432,
+      "cumulative_lap_time": 69.158,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.456,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.434,
+          "22": -17.123,
+          "2": -1.456
+        }
+      },
+      "gap_distance_meters": 60.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1599,
+      "elapsed_race_time": 2459.686,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 25,
+      "sector_time": 28.778,
+      "cumulative_lap_time": 97.936,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.376,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.16,
+          "22": -16.958,
+          "2": -1.376
+        }
+      },
+      "gap_distance_meters": 57.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1620,
+      "elapsed_race_time": 2486.454,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 26,
+      "sector_time": 26.768,
+      "cumulative_lap_time": 26.768,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.457,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.259,
+          "22": -16.96,
+          "2": -1.457
+        }
+      },
+      "gap_distance_meters": 60.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1645,
+      "elapsed_race_time": 2528.97,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 26,
+      "sector_time": 42.516,
+      "cumulative_lap_time": 69.284,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.261,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.396,
+          "22": -16.994,
+          "2": -1.261
+        }
+      },
+      "gap_distance_meters": 52.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1663,
+      "elapsed_race_time": 2557.902,
+      "driver_number": "55",
+      "driver_name": "Spike Kohlbecker",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 26,
+      "sector_time": 28.932,
+      "cumulative_lap_time": 98.216,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.544,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -17.644,
+          "22": -17.175,
+          "2": -1.544
+        }
+      },
+      "gap_distance_meters": 64.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    }
+  ]
+}

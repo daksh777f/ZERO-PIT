@@ -1,0 +1,344 @@
+{
+  "race_metadata": {
+    "total_drivers": 22,
+    "total_laps": 28,
+    "race_duration_seconds": 2855.196,
+    "total_events": 1806
+  },
+  "sector_statistics": {
+    "sector_1": {
+      "fastest_time": 26.505,
+      "fastest_driver": "22",
+      "average_time": 27.244,
+      "median_time": 26.892,
+      "slowest_time": 48.934,
+      "total_completions": 602
+    },
+    "sector_2": {
+      "fastest_time": 42.098,
+      "fastest_driver": "22",
+      "average_time": 42.921,
+      "median_time": 42.742,
+      "slowest_time": 57.122,
+      "total_completions": 602
+    },
+    "sector_3": {
+      "fastest_time": 28.332,
+      "fastest_driver": "13",
+      "average_time": 29.187,
+      "median_time": 28.979,
+      "slowest_time": 70.464,
+      "total_completions": 595
+    }
+  },
+  "driver_statistics": {
+    "13": {
+      "driver_name": "Westin Workman",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.544,
+        "sector_2": 42.197,
+        "sector_3": 28.332
+      }
+    },
+    "72": {
+      "driver_name": "Ethan Goulart",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.586,
+        "sector_2": 42.392,
+        "sector_3": 28.714
+      }
+    },
+    "22": {
+      "driver_name": "Jeremy Fletcher",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.505,
+        "sector_2": 42.098,
+        "sector_3": 28.479
+      }
+    },
+    "55": {
+      "driver_name": "Spike Kohlbecker",
+      "total_events": 78,
+      "sector_completions": {
+        "1": 26,
+        "2": 26,
+        "3": 26
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.639,
+        "sector_2": 42.261,
+        "sector_3": 28.691
+      }
+    },
+    "98": {
+      "driver_name": "Max Schweid",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.64,
+        "sector_2": 42.27,
+        "sector_3": 28.512
+      }
+    },
+    "2": {
+      "driver_name": "Will Robusto",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.629,
+        "sector_2": 42.314,
+        "sector_3": 28.565
+      }
+    },
+    "47": {
+      "driver_name": "Parker DeLong",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.616,
+        "sector_2": 42.404,
+        "sector_3": 28.595
+      }
+    },
+    "46": {
+      "driver_name": "Lucas Weisenberg",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.675,
+        "sector_2": 42.432,
+        "sector_3": 28.62
+      }
+    },
+    "111": {
+      "driver_name": "Isabella Robusto",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.759,
+        "sector_2": 42.518,
+        "sector_3": 28.667
+      }
+    },
+    "21": {
+      "driver_name": "Ford Koch",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.618,
+        "sector_2": 42.515,
+        "sector_3": 28.734
+      }
+    },
+    "7": {
+      "driver_name": "Jaxon Bell",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.65,
+        "sector_2": 42.476,
+        "sector_3": 28.82
+      }
+    },
+    "41": {
+      "driver_name": "Jenson Sofronas",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.619,
+        "sector_2": 42.346,
+        "sector_3": 28.713
+      }
+    },
+    "31": {
+      "driver_name": "Jackson Tovo",
+      "total_events": 81,
+      "sector_completions": {
+        "1": 27,
+        "2": 27,
+        "3": 27
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.693,
+        "sector_2": 42.37,
+        "sector_3": 28.629
+      }
+    },
+    "113": {
+      "driver_name": "Ethan Tovo",
+      "total_events": 72,
+      "sector_completions": {
+        "1": 24,
+        "2": 24,
+        "3": 24
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.69,
+        "sector_2": 42.627,
+        "sector_3": 28.633
+      }
+    },
+    "5": {
+      "driver_name": "Beltre Curtis",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.638,
+        "sector_2": 42.56,
+        "sector_3": 28.865
+      }
+    },
+    "88": {
+      "driver_name": "Max Stallone",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.668,
+        "sector_2": 42.416,
+        "sector_3": 28.663
+      }
+    },
+    "51": {
+      "driver_name": "Massimo Sunseri",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.729,
+        "sector_2": 42.703,
+        "sector_3": 28.761
+      }
+    },
+    "3": {
+      "driver_name": "Karl Forman",
+      "total_events": 84,
+      "sector_completions": {
+        "1": 28,
+        "2": 28,
+        "3": 28
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.886,
+        "sector_2": 42.811,
+        "sector_3": 28.967
+      }
+    },
+    "93": {
+      "driver_name": "Patrick Brunson",
+      "total_events": 72,
+      "sector_completions": {
+        "1": 24,
+        "2": 24,
+        "3": 24
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.918,
+        "sector_2": 42.874,
+        "sector_3": 29.082
+      }
+    },
+    "58": {
+      "driver_name": "Liam Harrison",
+      "total_events": 81,
+      "sector_completions": {
+        "1": 27,
+        "2": 27,
+        "3": 27
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.859,
+        "sector_2": 42.775,
+        "sector_3": 28.977
+      }
+    },
+    "80": {
+      "driver_name": "Paityn Feyen",
+      "total_events": 81,
+      "sector_completions": {
+        "1": 27,
+        "2": 27,
+        "3": 27
+      },
+      "personal_best_sectors": {
+        "sector_1": 26.912,
+        "sector_2": 42.798,
+        "sector_3": 29.014
+      }
+    },
+    "18": {
+      "driver_name": "Rutledge Wood",
+      "total_events": 81,
+      "sector_completions": {
+        "1": 27,
+        "2": 27,
+        "3": 27
+      },
+      "personal_best_sectors": {
+        "sector_1": 27.28,
+        "sector_2": 43.142,
+        "sector_3": 29.29
+      }
+    }
+  }
+}

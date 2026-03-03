@@ -1,0 +1,266 @@
+[
+  {
+    "event_type": "race_start",
+    "event_id": "1",
+    "event_message": "[ANTICIPATORY] [MEASURED] Twenty-two drivers, twenty-eight laps... the tension is absolutely palpable... the lights are on... [DRAMATIC PAUSE] [SILENCE] [CRESCENDO] [SHOUTING] AND IT'S GO, GO, GO! [BREATHLESS] The race is underway!",
+    "elapsed_race_time": 0
+  },
+  {
+    "event_type": "leader_change",
+    "event_id": "2",
+    "event_message": "[EXCITED] [FAST] And it's Westin Workman in the number 13 who's got a fantastic start! He's straight into the lead on the very first lap! [JOYFUL] What a tremendous getaway!",
+    "elapsed_race_time": 27.581
+  },
+  {
+    "event_type": "race_best_sector",
+    "event_id": "7",
+    "event_message": "[PROJECTED] [HIGH ENERGY] And Workman is absolutely flying! He's just set the fastest second sector of the race! He is not hanging about, he's trying to build a lead, and he's doing it in magnificent style!",
+    "elapsed_race_time": 69.859
+  },
+  {
+    "event_type": "multi_position_gain",
+    "event_id": "12",
+    "event_message": "[QUICK FIRE] [EXCITED] And in all that first lap chaos, Ford Koch has made up two places! That's a brilliant piece of opportunism from the number 21 car, fantastic stuff!",
+    "elapsed_race_time": 73.582
+  },
+  {
+    "event_type": "multi_position_loss",
+    "event_id": "14",
+    "event_message": "[CONCERNED] [MEASURED] Oh, and Jenson Sofronas has had a difficult start, he's dropped two positions. You never want to be going backwards on the opening lap.",
+    "elapsed_race_time": 73.731
+  },
+  {
+    "event_type": "position_gain",
+    "event_id": "21",
+    "event_message": "[RISING INTENSITY] [EXCITED] And here comes Jeremy Fletcher! He's lining up Ethan Goulart... he's through! [EMPHATIC] Fletcher moves into second place! The chase is on!",
+    "elapsed_race_time": 126.43
+  },
+  {
+    "event_type": "close_battle",
+    "event_id": "24",
+    "event_message": "[CONVERSATIONAL] [ANTICIPATORY] And look at this, Jenson Sofronas is absolutely glued to the gearbox of Jaxon Bell in the number 7. He's been there for three sectors now, just waiting for his moment...",
+    "elapsed_race_time": 130.277
+  },
+  {
+    "event_type": "race_best_sector",
+    "event_id": "33",
+    "event_message": "[HIGH ENERGY] [EMPHATIC] And Jeremy Fletcher answers back! That's the fastest first sector of the entire race for the number 22! He is not letting Westin Workman get away!",
+    "elapsed_race_time": 224.078
+  },
+  {
+    "event_type": "close_battle",
+    "event_id": "40",
+    "event_message": "[EXCITED] [FAST] This battle between Spike Kohlbecker and Max Schweid is absolutely brilliant! It's been going on for seven sectors, they are absolutely inseparable out there!",
+    "elapsed_race_time": 323.431
+  },
+  {
+    "event_type": "multi_position_loss",
+    "event_id": "68",
+    "event_message": "[SHOCKED] [GASP] Oh my word! What's happened to Ethan Tovo?! [FAST] He's lost SEVEN positions in one go! He's dropped right down the order! [CONCERNED] There must be a problem with the car!",
+    "elapsed_race_time": 380.727
+  },
+  {
+    "event_type": "anomalous_slow_sector",
+    "event_id": "69",
+    "event_message": "[CONCERNED] [MEASURED] And there's the confirmation... Tovo was over eight seconds slower than his average in that sector. He's either had a spin or he's got a major, major problem. What a shame.",
+    "elapsed_race_time": 380.727
+  },
+  {
+    "event_type": "personal_best_lap",
+    "event_id": "72",
+    "event_message": "[PROJECTED] [ENTHUSIASTIC] And that is a personal best lap for Jeremy Fletcher! He is absolutely wringing the neck of that car to stay in touch with the leader. This is a fantastic drive!",
+    "elapsed_race_time": 392.48
+  },
+  {
+    "event_type": "strong_race_pace",
+    "event_id": "446",
+    "event_message": "[WARM] [IMPRESSED] You know, one driver who is quietly having a fantastic race is Max Stallone. He started way down the order and he's just been picking them off one by one. A really strong, intelligent drive from him today.",
+    "elapsed_race_time": 400.0
+  },
+  {
+    "event_type": "multi_position_loss",
+    "event_id": "97",
+    "event_message": "[SURPRISED] [FAST] And Jackson Tovo has been swallowed up by the pack! He's lost three places in an instant! The midfield is absolutely ferocious today, you cannot afford to lose concentration for a second.",
+    "elapsed_race_time": 430.402
+  },
+  {
+    "event_type": "anomalous_slow_sector",
+    "event_id": "112",
+    "event_message": "[CONCERNED] [SERIOUS] And Patrick Brunson is in trouble, he's lost eleven seconds in that middle sector. That's a massive amount of time... he must have gone off the road somewhere.",
+    "elapsed_race_time": 488.769
+  },
+  {
+    "event_type": "close_battle",
+    "event_id": "113",
+    "event_message": "[ANTICIPATORY] [RISING INTENSITY] Now then! Spike Kohlbecker is all over the back of Ethan Goulart! This is the battle for the final podium position, and Kohlbecker is looking mighty hungry!",
+    "elapsed_race_time": 492.653
+  },
+  {
+    "event_type": "laps_down",
+    "event_id": "125",
+    "event_message": "[SYMPATHETIC] [MEASURED] And there's the blue flags for Ethan Tovo. After his problems earlier, he's now gone a lap down to our race leader. A very tough day at the office for the number 113.",
+    "elapsed_race_time": 506.406
+  },
+  {
+    "event_type": "close_battle",
+    "event_id": "126",
+    "event_message": "[EXCITED] [PROJECTED] And Will Robusto is now filling the mirrors of Max Schweid! They are fighting tooth and nail for sixth position! This is where the action is right now!",
+    "elapsed_race_time": 520.382
+  },
+  {
+    "event_type": "multi_position_loss",
+    "event_id": "156",
+    "event_message": "[SHOCKED] [GASP] COLOSSAL trouble for Jenson Sofronas! [CUT-OFF] He's lost EIGHT positions! [FAST] My goodness me, he's gone from 12th down to 20th! That's a disaster!",
+    "elapsed_race_time": 615.729
+  },
+  {
+    "event_type": "anomalous_slow_sector",
+    "event_id": "157",
+    "event_message": "[CONFIDENT] [NO HESITATION] And there's the reason why! He was 18 seconds off the pace in that final sector! The car is unique, except for the fact that it's clearly broken!",
+    "elapsed_race_time": 615.729
+  },
+  {
+    "event_type": "race_best_sector",
+    "event_id": "168",
+    "event_message": "[SHOUTING] [HIGH ENERGY] SENSATIONAL from Jeremy Fletcher! [EMPHATIC] That is the fastest middle sector of the race from ANYBODY! He is giving it absolutely everything he's got!",
+    "elapsed_race_time": 656.119
+  },
+  {
+    "event_type": "anomalous_slow_sector",
+    "event_id": "191",
+    "event_message": "[SHOCKED] [STARTLED] Two hundred and seven seconds! [GASP] Patrick Brunson has lost over THREE MINUTES in one sector! [CONCERNED] He must have had a puncture and had to crawl back to the pits... what dreadful luck.",
+    "elapsed_race_time": 725.761
+  },
+  {
+    "event_type": "race_best_sector",
+    "event_id": "198",
+    "event_message": "[BELLOWING] [THRILLED] AND AGAIN! Jeremy Fletcher takes the fastest sector of the race! He is on an absolute mission! Can he catch Westin Workman? He certainly believes he can!",
+    "elapsed_race_time": 753.419
+  },
+  {
+    "event_type": "close_battle",
+    "event_id": "199",
+    "event_message": "[CONVERSATIONAL] [IMPRESSED] I have to say, this fight between Schweid and Kohlbecker is one of the best I've seen. For lap after lap they've been separated by nothing. Tremendous, clean, hard racing.",
+    "elapsed_race_time": 759.169
+  },
+  {
+    "event_type": "anomalous_slow_sector",
+    "event_id": "212",
+    "event_message": "[SURPRISED] [FAST] And Liam Harrison's lost a chunk of time in that last sector... nearly five seconds gone, and with it, a position. It is so easy to make a small mistake that costs you dearly.",
+    "elapsed_race_time": 808.439
+  },
+  {
+    "event_type": "close_battle",
+    "event_id": "215",
+    "event_message": "[RISING INTENSITY] [EXCITED] And Will Robusto is getting closer and closer to Max Schweid! The gap is down to just over a tenth of a second! He's going to have a go, surely!",
+    "elapsed_race_time": 815.076
+  },
+  {
+    "event_type": "position_gain",
+    "event_id": "243",
+    "event_message": "[SHOUTING] [JOYFUL] AND HE'S DONE IT! Will Robusto gets past Max Schweid! [EMPHATIC] After laps and laps of pressure, he finally makes the move stick! Brilliant stuff!",
+    "elapsed_race_time": 985.847
+  },
+  {
+    "event_type": "close_battle",
+    "event_id": "245",
+    "event_message": "[QUICK FIRE] [EXCITED] And there's another fantastic battle brewing! Lucas Weisenberg is right on the tail of Parker DeLong! The gap is less than half a tenth of a second! It's practically nothing!",
+    "elapsed_race_time": 986.457
+  },
+  {
+    "event_type": "anomalous_slow_sector",
+    "event_id": "248",
+    "event_message": "[SHOCKED] [CONCERNED] Oh dear, oh dear... Paityn Feyen has had a nightmare of a sector. Ninety seconds lost. That's a trip into the gravel trap, I should think. And a long one at that.",
+    "elapsed_race_time": 996.251
+  },
+  {
+    "event_type": "race_best_sector",
+    "event_id": "253",
+    "event_message": "[SHOUTING] [EMPHATIC] FLETCHER IS ON FIRE! That's another fastest sector of the race! He has got the bit between his teeth and he is absolutely flying! This is magnificent!",
+    "elapsed_race_time": 1003.372
+  },
+  {
+    "event_type": "position_gain",
+    "event_id": "256",
+    "event_message": "[EXCITED] [FAST] And Weisenberg gets the move done on DeLong! A lovely clean pass into the corner, and he's up into seventh place!",
+    "elapsed_race_time": 1013.827
+  },
+  {
+    "event_type": "position_gain",
+    "event_id": "269",
+    "event_message": "[RISING INTENSITY] Will Robusto is on an absolute charge! He's now dispatched Spike Kohlbecker and moves up into fourth position! [IMPRESSED] Where did he come from?!",
+    "elapsed_race_time": 1084.514
+  },
+  {
+    "event_type": "podium_position_change",
+    "event_id": "275",
+    "event_message": "[BELLOWING] [THRILLED] AND LOOK AT THAT! WILL ROBUSTO IS INTO A PODIUM POSITION! [JOYFUL] He's got past Ethan Goulart! From sixth on the grid, this has been a truly sensational drive from the number 2!",
+    "elapsed_race_time": 1111.42
+  },
+  {
+    "event_type": "close_battle",
+    "event_id": "277",
+    "event_message": "[SHOUTING] [BREATHLESS] TWO HUNDREDTHS OF A SECOND! That is the gap between Schweid and Kohlbecker! [GASP] I don't believe it! You couldn't fit a piece of paper between them!",
+    "elapsed_race_time": 1112.207
+  },
+  {
+    "event_type": "anomalous_slow_sector",
+    "event_id": "367",
+    "event_message": "[SHOCKED] [CONCERNED] And what on earth has happened to Jackson Tovo? He's lost ninety seconds and four places! [HESITANT] It's... it's another disaster for another driver. The attrition rate is high, even for those still running!",
+    "elapsed_race_time": 1873.756
+  },
+  {
+    "event_type": "close_battle",
+    "event_id": "383",
+    "event_message": "[EXCITED] [FAST] And now it's Weisenberg versus Schweid! And the gap is... two hundredths of a second again! We have exactly the same situation as we had before, only with a completely different car!",
+    "elapsed_race_time": 1997.305
+  },
+  {
+    "event_type": "position_gain",
+    "event_id": "397",
+    "event_message": "[PROJECTED] [JOYFUL] And Weisenberg gets him! A fantastic move around the outside, and Lucas Weisenberg takes the position from Max Schweid!",
+    "elapsed_race_time": 2489.878
+  },
+  {
+    "event_type": "multi_position_loss",
+    "event_id": "404",
+    "event_message": "[SYMPATHETIC] [MEASURED] And Max Schweid is really struggling now, he's lost another two positions in that exchange. He's fighting a losing battle out there, I'm afraid.",
+    "elapsed_race_time": 2537.439
+  },
+  {
+    "event_type": "multi_position_loss",
+    "event_id": "420",
+    "event_message": "[SHOCKED] [GASP] OH NO! A catastrophe for Max Schweid! [CONCERNED] After all those incredible battles, he's lost SEVEN positions on the penultimate lap! [SAD] Oh, that is absolutely heartbreaking. What a cruel, cruel sport this can be.",
+    "elapsed_race_time": 2607.903
+  },
+  {
+    "event_type": "anomalous_slow_sector",
+    "event_id": "421",
+    "event_message": "[CONFIDENT] [NO HESITATION] And there it is, a 41-second time loss in the final sector. There is absolutely nothing wrong with the driver, except that his car has let him down!",
+    "elapsed_race_time": 2607.903
+  },
+  {
+    "event_type": "close_battle",
+    "event_id": "428",
+    "event_message": "[SHOUTING] [TENSE] [CRESCENDO] FINAL LAP! And Jeremy Fletcher is RIGHT THERE! He is all over the back of Westin Workman! The gap is two tenths of a second! [BREATHLESS] This is it! It's all or nothing now! Can he do it?!",
+    "elapsed_race_time": 2665.228
+  },
+  {
+    "event_type": "falling_back",
+    "event_id": "442",
+    "event_message": "[SYMPATHETIC] [MEASURED] And it's a sad end to the race for Max Schweid, who was in the thick of the action for so long, but has just fallen away as the race went on. A real shame.",
+    "elapsed_race_time": 2700.0
+  },
+  {
+    "event_type": "strong_race_pace",
+    "event_id": "443",
+    "event_message": "[HAPPY] [PROUD] But what about the drive from Will Robusto! Absolutely magnificent! He's shown fantastic pace and race craft to come through the field and get himself onto the podium. A star of the future, no doubt!",
+    "elapsed_race_time": 2700.5
+  },
+  {
+    "event_type": "race_finish",
+    "event_id": "450",
+    "event_message": "[SHOUTING] [JOYFUL] AND IT'S WESTIN WORKMAN WHO CROSSES THE LINE TO WIN! [EMPHATIC] He held on! Jeremy Fletcher gave it absolutely everything but it wasn't quite enough! [EXCLAMATION PAUSE] What a race! [DRAMATIC PAUSE] [EMOTIONAL] I've got to stop, because I've got a lump in my throat...",
+    "elapsed_race_time": 2855.196
+  }
+]

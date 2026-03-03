@@ -1,0 +1,67 @@
+{
+  "field_dynamics": {
+    "field_balance": {
+      "race_1": {
+        "race": "race_1",
+        "p1_to_p10_gap": 0.924,
+        "field_std_dev": 1.046,
+        "p1_time": 98.127,
+        "p5_time": 98.61,
+        "p10_time": 99.051,
+        "driver_count": 22
+      },
+      "race_2": {
+        "race": "race_2",
+        "p1_to_p10_gap": 0.822,
+        "field_std_dev": 0.76,
+        "p1_time": 97.678,
+        "p5_time": 98.274,
+        "p10_time": 98.5,
+        "driver_count": 22
+      }
+    },
+    "race_comparisons": [
+      {
+        "from_race": "race_1",
+        "to_race": "race_2",
+        "trend": "converging",
+        "trend_magnitude": -0.286,
+        "gap_change": -0.102
+      }
+    ],
+    "visualization_data": {
+      "gap_funnel": [
+        {
+          "race": "race_1",
+          "p1": 98.127,
+          "p5": 98.61,
+          "p10": 99.051
+        },
+        {
+          "race": "race_2",
+          "p1": 97.678,
+          "p5": 98.274,
+          "p10": 98.5
+        }
+      ],
+      "field_spread_timeline": [
+        {
+          "race": "race_1",
+          "std_dev": 1.046
+        },
+        {
+          "race": "race_2",
+          "std_dev": 0.76
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "races_analyzed": [
+      "race_1",
+      "race_2"
+    ],
+    "total_drivers": 22,
+    "generation_timestamp": "2025-11-17T15:46:36.872057"
+  }
+}

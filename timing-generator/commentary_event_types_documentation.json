@@ -1,0 +1,258 @@
+{
+  "race_start": {
+    "description": "Marks the beginning of the race",
+    "metadata_fields": {
+      "total_drivers": "Number of drivers competing",
+      "total_laps": "Total laps in the race",
+      "message": "Pre-formatted commentary message"
+    },
+    "example": {
+      "eventId": 1,
+      "event_type": "race_start",
+      "event_meta": {
+        "total_drivers": 22,
+        "total_laps": 28,
+        "message": "Race begins with 22 drivers competing over 28 laps"
+      }
+    }
+  },
+  "race_finish": {
+    "description": "Marks the completion of the race",
+    "metadata_fields": {
+      "race_duration_seconds": "Total race duration in seconds",
+      "total_laps": "Total laps completed",
+      "message": "Pre-formatted commentary message"
+    },
+    "example": {
+      "eventId": 999,
+      "event_type": "race_finish",
+      "event_meta": {
+        "race_duration_seconds": 2855.196,
+        "total_laps": 28,
+        "message": "Race concludes after 28 laps"
+      }
+    }
+  },
+  "position_gain": {
+    "description": "Driver gains a single position through overtaking",
+    "metadata_fields": {
+      "driver_name": "Name of driver gaining position",
+      "driver_number": "Car number",
+      "positions_gained": "Number of positions gained (1)",
+      "old_position": "Position before overtake",
+      "new_position": "Position after overtake",
+      "lap": "Lap number",
+      "sector": "Sector where overtake occurred",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Emphasize the overtaking move, position gained, use exciting language"
+  },
+  "position_loss": {
+    "description": "Driver loses a single position",
+    "metadata_fields": {
+      "driver_name": "Name of driver losing position",
+      "driver_number": "Car number",
+      "positions_lost": "Number of positions lost (1)",
+      "old_position": "Position before losing position",
+      "new_position": "Position after losing position",
+      "lap": "Lap number",
+      "sector": "Sector where position was lost",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Note the position loss, suggest potential struggle or pressure"
+  },
+  "multi_position_gain": {
+    "description": "Driver gains multiple positions in a single sector, indicating strong performance or incident ahead",
+    "metadata_fields": {
+      "driver_name": "Name of driver gaining positions",
+      "driver_number": "Car number",
+      "positions_gained": "Number of positions gained (2+)",
+      "old_position": "Starting position",
+      "new_position": "New position",
+      "lap": "Lap number",
+      "sector": "Sector where gains occurred",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Use dramatic language, emphasize significant progress through field"
+  },
+  "multi_position_loss": {
+    "description": "Driver loses multiple positions in a single sector, potentially indicating incident or major issue",
+    "metadata_fields": {
+      "driver_name": "Name of driver losing positions",
+      "driver_number": "Car number",
+      "positions_lost": "Number of positions lost (2+)",
+      "old_position": "Starting position",
+      "new_position": "New position",
+      "lap": "Lap number",
+      "sector": "Sector where losses occurred",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Suggest concern, potential trouble, dramatic tone"
+  },
+  "leader_change": {
+    "description": "A new driver takes the lead of the race",
+    "metadata_fields": {
+      "new_leader_name": "Name of new race leader",
+      "new_leader_number": "Car number of new leader",
+      "previous_leader": "Car number of previous leader",
+      "lap": "Lap number",
+      "sector": "Sector where lead changed",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "High energy, emphasize leadership change, dramatic moment"
+  },
+  "podium_position_change": {
+    "description": "A driver moves into or changes position within the podium spots (P1-P3)",
+    "metadata_fields": {
+      "driver_name": "Name of driver",
+      "driver_number": "Car number",
+      "position": "Podium position (1-3)",
+      "lap": "Lap number",
+      "sector": "Sector number",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Emphasize podium implications, championship context"
+  },
+  "fastest_sector": {
+    "description": "Driver records a sector time in the fastest performance bracket (top 2%)",
+    "metadata_fields": {
+      "driver_name": "Name of driver",
+      "driver_number": "Car number",
+      "sector": "Sector number (1, 2, or 3)",
+      "sector_time": "Sector time in seconds",
+      "lap": "Lap number",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Praise exceptional sector performance, use superlatives"
+  },
+  "anomalous_slow_sector": {
+    "description": "Driver records a sector significantly slower than their average (15%+ slower)",
+    "metadata_fields": {
+      "driver_name": "Name of driver",
+      "driver_number": "Car number",
+      "sector": "Sector number",
+      "sector_time": "Actual sector time in seconds",
+      "average_sector_time": "Driver's average for this sector",
+      "time_loss": "Seconds lost vs average",
+      "lap": "Lap number",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Express concern, suggest potential issues, traffic, or off-track excursion"
+  },
+  "personal_best_sector": {
+    "description": "Driver sets their personal best time for a specific sector (only reported after lap 3)",
+    "metadata_fields": {
+      "driver_name": "Name of driver",
+      "driver_number": "Car number",
+      "sector": "Sector number",
+      "sector_time": "Personal best sector time",
+      "lap": "Lap number",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Positive tone, note improvement and rhythm",
+    "detection_rules": "Only reported from lap 3 onwards to reduce early-race noise"
+  },
+  "personal_best_lap": {
+    "description": "Driver completes their fastest lap of the race (only reported after lap 3)",
+    "metadata_fields": {
+      "driver_name": "Name of driver",
+      "driver_number": "Car number",
+      "lap": "Lap number",
+      "lap_time": "Personal best lap time",
+      "position": "Current race position",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Celebrate the achievement, note consistency or improvement",
+    "detection_rules": "Only reported from lap 3 onwards to reduce early-race noise"
+  },
+  "race_best_sector": {
+    "description": "Driver sets the fastest sector time of any driver in the race so far",
+    "metadata_fields": {
+      "driver_name": "Name of driver",
+      "driver_number": "Car number",
+      "sector": "Sector number",
+      "sector_time": "Race-best sector time",
+      "lap": "Lap number",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "High energy, emphasize race-wide significance, exceptional performance"
+  },
+  "close_battle": {
+    "description": "Driver is in a sustained battle with the car ahead (within 1 second for 3+ sectors)",
+    "metadata_fields": {
+      "driver_name": "Name of pursuing driver",
+      "driver_number": "Car number of pursuing driver",
+      "position": "Current position",
+      "car_ahead_number": "Car number of car being pursued",
+      "gap_seconds": "Current gap in seconds (< 1.0)",
+      "average_gap_seconds": "Average gap over the battle duration",
+      "battle_duration_sectors": "Number of sectors this battle has persisted",
+      "lap": "Lap number",
+      "sector": "Sector number",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Build tension, suggest imminent overtake possibility, exciting tone. Battle has been sustained so emphasize the intensity.",
+    "detection_rules": "Only reported after battle persists for 3+ sectors, with 2-lap cooldown between reports of same battle"
+  },
+  "large_gap_to_leader": {
+    "description": "Driver is running significantly behind the race leader (15+ seconds)",
+    "metadata_fields": {
+      "driver_name": "Name of driver",
+      "driver_number": "Car number",
+      "position": "Current race position",
+      "gap_to_leader_seconds": "Seconds behind leader",
+      "lap": "Lap number",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Factual tone, provide context on race situation"
+  },
+  "laps_down": {
+    "description": "Driver goes a lap down to the race leader",
+    "metadata_fields": {
+      "driver_name": "Name of driver",
+      "driver_number": "Car number",
+      "laps_behind": "Number of laps behind leader",
+      "lap": "Lap number",
+      "elapsed_time": "Race elapsed time in seconds",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Neutral tone, note difficult situation for driver"
+  },
+  "strong_race_pace": {
+    "description": "Driver shows consistent forward progress, gaining 3+ positions from early to late race",
+    "metadata_fields": {
+      "driver_name": "Name of driver",
+      "driver_number": "Car number",
+      "positions_gained_overall": "Total positions gained",
+      "average_early_position": "Average position in first 5 laps",
+      "average_late_position": "Average position in last 5 laps",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Praise consistency and race craft, highlight strong drive"
+  },
+  "falling_back": {
+    "description": "Driver loses 3+ positions from early to late race, indicating pace or reliability issues",
+    "metadata_fields": {
+      "driver_name": "Name of driver",
+      "driver_number": "Car number",
+      "positions_lost_overall": "Total positions lost",
+      "average_early_position": "Average position in first 5 laps",
+      "average_late_position": "Average position in last 5 laps",
+      "message": "Pre-formatted commentary message"
+    },
+    "commentary_suggestions": "Sympathetic tone, suggest potential issues affecting performance"
+  }
+}

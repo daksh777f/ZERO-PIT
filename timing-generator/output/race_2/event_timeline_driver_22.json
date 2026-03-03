@@ -1,0 +1,2110 @@
+{
+  "driver_number": "22",
+  "driver_name": "Jeremy Fletcher",
+  "total_events": 84,
+  "events": [
+    {
+      "event_id": 3,
+      "elapsed_race_time": 28.142,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 1,
+      "sector_time": 28.142,
+      "cumulative_lap_time": 28.142,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.258,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -0.561,
+          "72": -0.258
+        }
+      },
+      "gap_distance_meters": 10.8,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 25,
+      "elapsed_race_time": 70.718,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 1,
+      "sector_time": 42.576,
+      "cumulative_lap_time": 70.718,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.31,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -0.859,
+          "72": -0.31
+        }
+      },
+      "gap_distance_meters": 12.9,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 47,
+      "elapsed_race_time": 99.658,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 1,
+      "sector_time": 28.94,
+      "cumulative_lap_time": 99.658,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.026,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -1.436,
+          "72": -0.026
+        }
+      },
+      "gap_distance_meters": 1.1,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 68,
+      "elapsed_race_time": 126.43,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 2,
+      "sector_time": 26.772,
+      "cumulative_lap_time": 26.772,
+      "race_position": 2,
+      "position_change": 1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.472,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.472
+        }
+      },
+      "gap_distance_meters": 61.3,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 90,
+      "elapsed_race_time": 168.903,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 2,
+      "sector_time": 42.473,
+      "cumulative_lap_time": 69.245,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.663,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.663
+        }
+      },
+      "gap_distance_meters": 69.3,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 112,
+      "elapsed_race_time": 197.541,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 2,
+      "sector_time": 28.638,
+      "cumulative_lap_time": 97.883,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.969,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.969
+        }
+      },
+      "gap_distance_meters": 82.0,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 134,
+      "elapsed_race_time": 224.078,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 3,
+      "sector_time": 26.537,
+      "cumulative_lap_time": 26.537,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.895,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.895
+        }
+      },
+      "gap_distance_meters": 79.0,
+      "sector_performance": "fastest",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 156,
+      "elapsed_race_time": 266.518,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 3,
+      "sector_time": 42.44,
+      "cumulative_lap_time": 68.977,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.117,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -2.117
+        }
+      },
+      "gap_distance_meters": 88.2,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 178,
+      "elapsed_race_time": 295.057,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 3,
+      "sector_time": 28.539,
+      "cumulative_lap_time": 97.516,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.048,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -2.048
+        }
+      },
+      "gap_distance_meters": 85.3,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 200,
+      "elapsed_race_time": 321.638,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 4,
+      "sector_time": 26.581,
+      "cumulative_lap_time": 26.581,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.935,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.935
+        }
+      },
+      "gap_distance_meters": 80.6,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 222,
+      "elapsed_race_time": 364.001,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 4,
+      "sector_time": 42.363,
+      "cumulative_lap_time": 68.944,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.972,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.972
+        }
+      },
+      "gap_distance_meters": 82.2,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 244,
+      "elapsed_race_time": 392.48,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 4,
+      "sector_time": 28.479,
+      "cumulative_lap_time": 97.423,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.877,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.877
+        }
+      },
+      "gap_distance_meters": 78.2,
+      "sector_performance": "fastest",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 265,
+      "elapsed_race_time": 419.055,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 5,
+      "sector_time": 26.575,
+      "cumulative_lap_time": 26.575,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.761,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.761
+        }
+      },
+      "gap_distance_meters": 73.4,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 286,
+      "elapsed_race_time": 461.38,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 5,
+      "sector_time": 42.325,
+      "cumulative_lap_time": 68.9,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.626,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.626
+        }
+      },
+      "gap_distance_meters": 67.8,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 307,
+      "elapsed_race_time": 489.946,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 5,
+      "sector_time": 28.566,
+      "cumulative_lap_time": 97.466,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.759,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.759
+        }
+      },
+      "gap_distance_meters": 73.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 328,
+      "elapsed_race_time": 516.573,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 6,
+      "sector_time": 26.627,
+      "cumulative_lap_time": 26.627,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.711,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.711
+        }
+      },
+      "gap_distance_meters": 71.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 349,
+      "elapsed_race_time": 558.899,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 6,
+      "sector_time": 42.326,
+      "cumulative_lap_time": 68.953,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.628,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.628
+        }
+      },
+      "gap_distance_meters": 67.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 370,
+      "elapsed_race_time": 587.424,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 6,
+      "sector_time": 28.525,
+      "cumulative_lap_time": 97.478,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.728,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.728
+        }
+      },
+      "gap_distance_meters": 72.0,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 390,
+      "elapsed_race_time": 613.971,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 7,
+      "sector_time": 26.547,
+      "cumulative_lap_time": 26.547,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.731,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.731
+        }
+      },
+      "gap_distance_meters": 72.1,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 412,
+      "elapsed_race_time": 656.119,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 7,
+      "sector_time": 42.148,
+      "cumulative_lap_time": 68.695,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.612,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.612
+        }
+      },
+      "gap_distance_meters": 67.2,
+      "sector_performance": "fastest",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 432,
+      "elapsed_race_time": 684.774,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 7,
+      "sector_time": 28.655,
+      "cumulative_lap_time": 97.35,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.636,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.636
+        }
+      },
+      "gap_distance_meters": 68.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 451,
+      "elapsed_race_time": 711.321,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 8,
+      "sector_time": 26.547,
+      "cumulative_lap_time": 26.547,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.599,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.599
+        }
+      },
+      "gap_distance_meters": 66.6,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 476,
+      "elapsed_race_time": 753.419,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 8,
+      "sector_time": 42.098,
+      "cumulative_lap_time": 68.645,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.5,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.5
+        }
+      },
+      "gap_distance_meters": 62.5,
+      "sector_performance": "fastest",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 495,
+      "elapsed_race_time": 782.104,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 8,
+      "sector_time": 28.685,
+      "cumulative_lap_time": 97.33,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.555,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.555
+        }
+      },
+      "gap_distance_meters": 64.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 517,
+      "elapsed_race_time": 808.645,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 9,
+      "sector_time": 26.541,
+      "cumulative_lap_time": 26.541,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.392,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.392
+        }
+      },
+      "gap_distance_meters": 58.0,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 542,
+      "elapsed_race_time": 850.952,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 9,
+      "sector_time": 42.307,
+      "cumulative_lap_time": 68.848,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.332,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.332
+        }
+      },
+      "gap_distance_meters": 55.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 560,
+      "elapsed_race_time": 879.488,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 9,
+      "sector_time": 28.536,
+      "cumulative_lap_time": 97.384,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.289,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.289
+        }
+      },
+      "gap_distance_meters": 53.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 581,
+      "elapsed_race_time": 906.068,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 10,
+      "sector_time": 26.58,
+      "cumulative_lap_time": 26.58,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.208,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.208
+        }
+      },
+      "gap_distance_meters": 50.3,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 604,
+      "elapsed_race_time": 948.345,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 10,
+      "sector_time": 42.277,
+      "cumulative_lap_time": 68.857,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.059,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.059
+        }
+      },
+      "gap_distance_meters": 44.1,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 621,
+      "elapsed_race_time": 976.867,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 10,
+      "sector_time": 28.522,
+      "cumulative_lap_time": 97.379,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.052,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.052
+        }
+      },
+      "gap_distance_meters": 43.8,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 641,
+      "elapsed_race_time": 1003.372,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 11,
+      "sector_time": 26.505,
+      "cumulative_lap_time": 26.505,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.926,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.926
+        }
+      },
+      "gap_distance_meters": 38.6,
+      "sector_performance": "fastest",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 667,
+      "elapsed_race_time": 1045.636,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 11,
+      "sector_time": 42.264,
+      "cumulative_lap_time": 68.769,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.867,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.867
+        }
+      },
+      "gap_distance_meters": 36.1,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 685,
+      "elapsed_race_time": 1074.171,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 11,
+      "sector_time": 28.535,
+      "cumulative_lap_time": 97.304,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.848,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.848
+        }
+      },
+      "gap_distance_meters": 35.3,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 705,
+      "elapsed_race_time": 1100.806,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 12,
+      "sector_time": 26.635,
+      "cumulative_lap_time": 26.635,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.797,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.797
+        }
+      },
+      "gap_distance_meters": 33.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 732,
+      "elapsed_race_time": 1143.098,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 12,
+      "sector_time": 42.292,
+      "cumulative_lap_time": 68.927,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.797,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.797
+        }
+      },
+      "gap_distance_meters": 33.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 751,
+      "elapsed_race_time": 1171.609,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 12,
+      "sector_time": 28.511,
+      "cumulative_lap_time": 97.438,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.685,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.685
+        }
+      },
+      "gap_distance_meters": 28.5,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 770,
+      "elapsed_race_time": 1198.148,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 13,
+      "sector_time": 26.539,
+      "cumulative_lap_time": 26.539,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.567,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.567
+        }
+      },
+      "gap_distance_meters": 23.6,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 797,
+      "elapsed_race_time": 1240.395,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 13,
+      "sector_time": 42.247,
+      "cumulative_lap_time": 68.786,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.47,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.47
+        }
+      },
+      "gap_distance_meters": 19.6,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 817,
+      "elapsed_race_time": 1269.029,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 13,
+      "sector_time": 28.634,
+      "cumulative_lap_time": 97.42,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.382,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.382
+        }
+      },
+      "gap_distance_meters": 15.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 836,
+      "elapsed_race_time": 1295.67,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 14,
+      "sector_time": 26.641,
+      "cumulative_lap_time": 26.641,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.338,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.338
+        }
+      },
+      "gap_distance_meters": 14.1,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 863,
+      "elapsed_race_time": 1338.028,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 14,
+      "sector_time": 42.358,
+      "cumulative_lap_time": 68.999,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.274,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.274
+        }
+      },
+      "gap_distance_meters": 11.4,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 882,
+      "elapsed_race_time": 1366.737,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 14,
+      "sector_time": 28.709,
+      "cumulative_lap_time": 97.708,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.366,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.366
+        }
+      },
+      "gap_distance_meters": 15.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 902,
+      "elapsed_race_time": 1393.344,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 15,
+      "sector_time": 26.607,
+      "cumulative_lap_time": 26.607,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.261,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.261
+        }
+      },
+      "gap_distance_meters": 10.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 928,
+      "elapsed_race_time": 1435.775,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 15,
+      "sector_time": 42.431,
+      "cumulative_lap_time": 69.038,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.333,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.333
+        }
+      },
+      "gap_distance_meters": 13.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 947,
+      "elapsed_race_time": 1464.503,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 15,
+      "sector_time": 28.728,
+      "cumulative_lap_time": 97.766,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.422,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.422
+        }
+      },
+      "gap_distance_meters": 17.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 968,
+      "elapsed_race_time": 1491.204,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 16,
+      "sector_time": 26.701,
+      "cumulative_lap_time": 26.701,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.453,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.453
+        }
+      },
+      "gap_distance_meters": 18.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 993,
+      "elapsed_race_time": 1533.451,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 16,
+      "sector_time": 42.247,
+      "cumulative_lap_time": 68.948,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.432,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.432
+        }
+      },
+      "gap_distance_meters": 18.0,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1013,
+      "elapsed_race_time": 1562.15,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 16,
+      "sector_time": 28.699,
+      "cumulative_lap_time": 97.647,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.333,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.333
+        }
+      },
+      "gap_distance_meters": 13.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1032,
+      "elapsed_race_time": 1588.767,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 17,
+      "sector_time": 26.617,
+      "cumulative_lap_time": 26.617,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.368,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.368
+        }
+      },
+      "gap_distance_meters": 15.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1059,
+      "elapsed_race_time": 1631.046,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 17,
+      "sector_time": 42.279,
+      "cumulative_lap_time": 68.896,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.358,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.358
+        }
+      },
+      "gap_distance_meters": 14.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1077,
+      "elapsed_race_time": 1659.705,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 17,
+      "sector_time": 28.659,
+      "cumulative_lap_time": 97.555,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.413,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.413
+        }
+      },
+      "gap_distance_meters": 17.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1098,
+      "elapsed_race_time": 1686.296,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 18,
+      "sector_time": 26.591,
+      "cumulative_lap_time": 26.591,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.22,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.22
+        }
+      },
+      "gap_distance_meters": 9.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1124,
+      "elapsed_race_time": 1728.845,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 18,
+      "sector_time": 42.549,
+      "cumulative_lap_time": 69.14,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.265,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.265
+        }
+      },
+      "gap_distance_meters": 11.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1142,
+      "elapsed_race_time": 1757.844,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 18,
+      "sector_time": 28.999,
+      "cumulative_lap_time": 98.139,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.629,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.629
+        }
+      },
+      "gap_distance_meters": 26.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1161,
+      "elapsed_race_time": 1784.668,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 19,
+      "sector_time": 26.824,
+      "cumulative_lap_time": 26.824,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.826,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.826
+        }
+      },
+      "gap_distance_meters": 34.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1185,
+      "elapsed_race_time": 1826.965,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 19,
+      "sector_time": 42.297,
+      "cumulative_lap_time": 69.121,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.612,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.612
+        }
+      },
+      "gap_distance_meters": 25.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1202,
+      "elapsed_race_time": 1855.668,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 19,
+      "sector_time": 28.703,
+      "cumulative_lap_time": 97.824,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.725,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.725
+        }
+      },
+      "gap_distance_meters": 30.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1222,
+      "elapsed_race_time": 1882.267,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 20,
+      "sector_time": 26.599,
+      "cumulative_lap_time": 26.599,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.604,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.604
+        }
+      },
+      "gap_distance_meters": 25.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1248,
+      "elapsed_race_time": 1924.492,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 20,
+      "sector_time": 42.225,
+      "cumulative_lap_time": 68.824,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.519,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.519
+        }
+      },
+      "gap_distance_meters": 21.6,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1267,
+      "elapsed_race_time": 1953.047,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 20,
+      "sector_time": 28.555,
+      "cumulative_lap_time": 97.379,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.578,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.578
+        }
+      },
+      "gap_distance_meters": 24.1,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1287,
+      "elapsed_race_time": 1979.693,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 21,
+      "sector_time": 26.646,
+      "cumulative_lap_time": 26.646,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.479,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.479
+        }
+      },
+      "gap_distance_meters": 20.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1312,
+      "elapsed_race_time": 2021.986,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 21,
+      "sector_time": 42.293,
+      "cumulative_lap_time": 68.939,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.452,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.452
+        }
+      },
+      "gap_distance_meters": 18.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1331,
+      "elapsed_race_time": 2050.758,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 21,
+      "sector_time": 28.772,
+      "cumulative_lap_time": 97.711,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.412,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.412
+        }
+      },
+      "gap_distance_meters": 17.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1352,
+      "elapsed_race_time": 2077.486,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 22,
+      "sector_time": 26.728,
+      "cumulative_lap_time": 26.728,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.301,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.301
+        }
+      },
+      "gap_distance_meters": 12.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1378,
+      "elapsed_race_time": 2119.991,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 22,
+      "sector_time": 42.505,
+      "cumulative_lap_time": 69.233,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.391,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.391
+        }
+      },
+      "gap_distance_meters": 16.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1397,
+      "elapsed_race_time": 2148.729,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 22,
+      "sector_time": 28.738,
+      "cumulative_lap_time": 97.971,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.464,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.464
+        }
+      },
+      "gap_distance_meters": 19.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1415,
+      "elapsed_race_time": 2175.39,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 23,
+      "sector_time": 26.661,
+      "cumulative_lap_time": 26.661,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.298,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.298
+        }
+      },
+      "gap_distance_meters": 12.4,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1443,
+      "elapsed_race_time": 2217.931,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 23,
+      "sector_time": 42.541,
+      "cumulative_lap_time": 69.202,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.284,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.284
+        }
+      },
+      "gap_distance_meters": 11.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1463,
+      "elapsed_race_time": 2246.815,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 23,
+      "sector_time": 28.884,
+      "cumulative_lap_time": 98.086,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.329,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.329
+        }
+      },
+      "gap_distance_meters": 13.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1480,
+      "elapsed_race_time": 2273.476,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 24,
+      "sector_time": 26.661,
+      "cumulative_lap_time": 26.661,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.371,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.371
+        }
+      },
+      "gap_distance_meters": 15.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1509,
+      "elapsed_race_time": 2315.917,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 24,
+      "sector_time": 42.441,
+      "cumulative_lap_time": 69.102,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.316,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.316
+        }
+      },
+      "gap_distance_meters": 13.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1528,
+      "elapsed_race_time": 2344.663,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 24,
+      "sector_time": 28.746,
+      "cumulative_lap_time": 97.848,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.387,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.387
+        }
+      },
+      "gap_distance_meters": 16.1,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1546,
+      "elapsed_race_time": 2371.311,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 25,
+      "sector_time": 26.648,
+      "cumulative_lap_time": 26.648,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.289,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.289
+        }
+      },
+      "gap_distance_meters": 12.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1574,
+      "elapsed_race_time": 2413.785,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 25,
+      "sector_time": 42.474,
+      "cumulative_lap_time": 69.122,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.311,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.311
+        }
+      },
+      "gap_distance_meters": 13.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1591,
+      "elapsed_race_time": 2442.728,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 25,
+      "sector_time": 28.943,
+      "cumulative_lap_time": 98.065,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.202,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.202
+        }
+      },
+      "gap_distance_meters": 8.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1611,
+      "elapsed_race_time": 2469.494,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 26,
+      "sector_time": 26.766,
+      "cumulative_lap_time": 26.766,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.299,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.299
+        }
+      },
+      "gap_distance_meters": 12.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1638,
+      "elapsed_race_time": 2511.976,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 26,
+      "sector_time": 42.482,
+      "cumulative_lap_time": 69.248,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.402,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.402
+        }
+      },
+      "gap_distance_meters": 16.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1654,
+      "elapsed_race_time": 2540.727,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 26,
+      "sector_time": 28.751,
+      "cumulative_lap_time": 97.999,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.469,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.469
+        }
+      },
+      "gap_distance_meters": 19.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1672,
+      "elapsed_race_time": 2567.386,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 27,
+      "sector_time": 26.659,
+      "cumulative_lap_time": 26.659,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.413,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.413
+        }
+      },
+      "gap_distance_meters": 17.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1699,
+      "elapsed_race_time": 2609.815,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 27,
+      "sector_time": 42.429,
+      "cumulative_lap_time": 69.088,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.4,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.4
+        }
+      },
+      "gap_distance_meters": 16.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1713,
+      "elapsed_race_time": 2638.615,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 27,
+      "sector_time": 28.8,
+      "cumulative_lap_time": 97.888,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.413,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.413
+        }
+      },
+      "gap_distance_meters": 17.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1731,
+      "elapsed_race_time": 2665.228,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 28,
+      "sector_time": 26.613,
+      "cumulative_lap_time": 26.613,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.237,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.237
+        }
+      },
+      "gap_distance_meters": 9.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1758,
+      "elapsed_race_time": 2708.038,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 28,
+      "sector_time": 42.81,
+      "cumulative_lap_time": 69.423,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.336,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.336
+        }
+      },
+      "gap_distance_meters": 14.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1773,
+      "elapsed_race_time": 2737.248,
+      "driver_number": "22",
+      "driver_name": "Jeremy Fletcher",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 28,
+      "sector_time": 29.21,
+      "cumulative_lap_time": 98.633,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.234,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.234
+        }
+      },
+      "gap_distance_meters": 9.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    }
+  ]
+}

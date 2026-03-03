@@ -1,0 +1,2331 @@
+{
+  "driver_number": "47",
+  "driver_name": "Parker DeLong",
+  "total_events": 81,
+  "events": [
+    {
+      "event_id": 5,
+      "elapsed_race_time": 28.539,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 1,
+      "sector_time": 28.539,
+      "cumulative_lap_time": 28.539,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.028,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -0.891,
+          "72": -0.664,
+          "22": -0.254,
+          "2": -0.028
+        }
+      },
+      "gap_distance_meters": 1.2,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 27,
+      "elapsed_race_time": 71.969,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 1,
+      "sector_time": 43.43,
+      "cumulative_lap_time": 71.969,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.286,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -1.404,
+          "72": -1.116,
+          "22": -0.72,
+          "2": -0.286
+        }
+      },
+      "gap_distance_meters": 11.9,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 49,
+      "elapsed_race_time": 104.798,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 1,
+      "sector_time": 32.829,
+      "cumulative_lap_time": 104.798,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.665,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -2.514,
+          "72": -2.14,
+          "22": -1.779,
+          "2": -0.665
+        }
+      },
+      "gap_distance_meters": 27.7,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 71,
+      "elapsed_race_time": 143.271,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 2,
+      "sector_time": 38.473,
+      "cumulative_lap_time": 38.473,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.828,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -3.123,
+          "72": -2.698,
+          "22": -2.162,
+          "2": -0.828
+        }
+      },
+      "gap_distance_meters": 34.5,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 93,
+      "elapsed_race_time": 202.999,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 2,
+      "sector_time": 59.728,
+      "cumulative_lap_time": 98.201,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.375,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -2.67,
+          "72": -2.171,
+          "22": -1.789,
+          "2": -0.375
+        }
+      },
+      "gap_distance_meters": 15.6,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 115,
+      "elapsed_race_time": 240.116,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 2,
+      "sector_time": 37.117,
+      "cumulative_lap_time": 135.318,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.441,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -2.867,
+          "72": -2.565,
+          "22": -0.922,
+          "2": -0.441
+        }
+      },
+      "gap_distance_meters": 18.4,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 137,
+      "elapsed_race_time": 273.514,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 3,
+      "sector_time": 33.398,
+      "cumulative_lap_time": 33.398,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.378,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -2.057,
+          "72": -1.711,
+          "22": -1.192,
+          "2": -0.378
+        }
+      },
+      "gap_distance_meters": 15.8,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 159,
+      "elapsed_race_time": 325.368,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 3,
+      "sector_time": 51.854,
+      "cumulative_lap_time": 85.252,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.436,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -1.771,
+          "72": -1.526,
+          "22": -0.941,
+          "2": -0.436
+        }
+      },
+      "gap_distance_meters": 18.2,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 181,
+      "elapsed_race_time": 361.52,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 3,
+      "sector_time": 36.152,
+      "cumulative_lap_time": 121.404,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.185,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -1.149,
+          "72": -0.768,
+          "22": -0.435,
+          "2": -0.185
+        }
+      },
+      "gap_distance_meters": 7.7,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 203,
+      "elapsed_race_time": 388.533,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 4,
+      "sector_time": 27.013,
+      "cumulative_lap_time": 27.013,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.173,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -1.26,
+          "72": -0.873,
+          "22": -0.559,
+          "2": -0.173
+        }
+      },
+      "gap_distance_meters": 7.2,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 225,
+      "elapsed_race_time": 431.433,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 4,
+      "sector_time": 42.9,
+      "cumulative_lap_time": 69.913,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.247,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -1.705,
+          "72": -0.912,
+          "22": -0.585,
+          "2": -0.247
+        }
+      },
+      "gap_distance_meters": 10.3,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 247,
+      "elapsed_race_time": 460.263,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 4,
+      "sector_time": 28.83,
+      "cumulative_lap_time": 98.743,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.188,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -2.028,
+          "72": -1.085,
+          "22": -0.454,
+          "2": -0.188
+        }
+      },
+      "gap_distance_meters": 7.8,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 269,
+      "elapsed_race_time": 487.264,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 5,
+      "sector_time": 27.001,
+      "cumulative_lap_time": 27.001,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.275,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -2.328,
+          "72": -1.366,
+          "22": -0.69,
+          "2": -0.275
+        }
+      },
+      "gap_distance_meters": 11.5,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 291,
+      "elapsed_race_time": 529.926,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 5,
+      "sector_time": 42.662,
+      "cumulative_lap_time": 69.663,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.171,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -2.388,
+          "72": -1.398,
+          "22": -0.848,
+          "2": -0.171
+        }
+      },
+      "gap_distance_meters": 7.1,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 313,
+      "elapsed_race_time": 558.635,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 5,
+      "sector_time": 28.709,
+      "cumulative_lap_time": 98.372,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.234,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -2.602,
+          "72": -1.519,
+          "22": -0.926,
+          "2": -0.234
+        }
+      },
+      "gap_distance_meters": 9.8,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 335,
+      "elapsed_race_time": 585.592,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 6,
+      "sector_time": 26.957,
+      "cumulative_lap_time": 26.957,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.224,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -2.967,
+          "72": -1.833,
+          "22": -1.222,
+          "2": -0.224
+        }
+      },
+      "gap_distance_meters": 9.3,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 357,
+      "elapsed_race_time": 628.332,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 6,
+      "sector_time": 42.74,
+      "cumulative_lap_time": 69.697,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.449,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -3.255,
+          "72": -2.009,
+          "22": -1.493,
+          "2": -0.449
+        }
+      },
+      "gap_distance_meters": 18.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 379,
+      "elapsed_race_time": 657.236,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 6,
+      "sector_time": 28.904,
+      "cumulative_lap_time": 98.601,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.459,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -3.66,
+          "72": -2.286,
+          "22": -1.739,
+          "2": -0.459
+        }
+      },
+      "gap_distance_meters": 19.1,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 401,
+      "elapsed_race_time": 684.042,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 7,
+      "sector_time": 26.806,
+      "cumulative_lap_time": 26.806,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.217,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -3.854,
+          "72": -2.424,
+          "22": -1.901,
+          "2": -0.217
+        }
+      },
+      "gap_distance_meters": 9.0,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 423,
+      "elapsed_race_time": 726.62,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 7,
+      "sector_time": 42.578,
+      "cumulative_lap_time": 69.384,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.241,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -3.996,
+          "72": -2.52,
+          "22": -2.021,
+          "2": -0.241
+        }
+      },
+      "gap_distance_meters": 10.0,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 445,
+      "elapsed_race_time": 755.487,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 7,
+      "sector_time": 28.867,
+      "cumulative_lap_time": 98.251,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.179,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -4.398,
+          "72": -2.8,
+          "22": -2.244,
+          "2": -0.179
+        }
+      },
+      "gap_distance_meters": 7.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 467,
+      "elapsed_race_time": 782.664,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 8,
+      "sector_time": 27.177,
+      "cumulative_lap_time": 27.177,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.313,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -4.945,
+          "72": -3.276,
+          "22": -2.724,
+          "2": -0.313
+        }
+      },
+      "gap_distance_meters": 13.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 489,
+      "elapsed_race_time": 825.328,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 8,
+      "sector_time": 42.664,
+      "cumulative_lap_time": 69.841,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.236,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -5.229,
+          "72": -3.311,
+          "22": -2.936,
+          "2": -0.236
+        }
+      },
+      "gap_distance_meters": 9.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 511,
+      "elapsed_race_time": 854.276,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 8,
+      "sector_time": 28.948,
+      "cumulative_lap_time": 98.789,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.207,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -5.759,
+          "72": -3.486,
+          "22": -3.024,
+          "2": -0.207
+        }
+      },
+      "gap_distance_meters": 8.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 531,
+      "elapsed_race_time": 882.05,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 9,
+      "sector_time": 27.774,
+      "cumulative_lap_time": 27.774,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.246,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -6.89,
+          "72": -4.436,
+          "22": -4.036,
+          "2": -0.246
+        }
+      },
+      "gap_distance_meters": 10.3,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 556,
+      "elapsed_race_time": 925.278,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 9,
+      "sector_time": 43.228,
+      "cumulative_lap_time": 71.002,
+      "race_position": 6,
+      "position_change": -1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.24,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -7.669,
+          "72": -5.087,
+          "22": -4.752,
+          "2": -0.473,
+          "55": -0.24
+        }
+      },
+      "gap_distance_meters": 10.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 576,
+      "elapsed_race_time": 954.082,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 9,
+      "sector_time": 28.804,
+      "cumulative_lap_time": 99.806,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.178,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -7.923,
+          "72": -5.171,
+          "22": -4.721,
+          "2": -0.57,
+          "55": -0.178
+        }
+      },
+      "gap_distance_meters": 7.4,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 597,
+      "elapsed_race_time": 981.109,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 10,
+      "sector_time": 27.027,
+      "cumulative_lap_time": 27.027,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.402,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -8.253,
+          "72": -5.404,
+          "22": -4.961,
+          "2": -0.56,
+          "55": -0.402
+        }
+      },
+      "gap_distance_meters": 16.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 622,
+      "elapsed_race_time": 1024.135,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 10,
+      "sector_time": 43.026,
+      "cumulative_lap_time": 70.053,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.35,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -8.848,
+          "72": -5.642,
+          "22": -5.346,
+          "55": -0.626,
+          "2": -0.35
+        }
+      },
+      "gap_distance_meters": 14.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 641,
+      "elapsed_race_time": 1052.967,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 10,
+      "sector_time": 28.832,
+      "cumulative_lap_time": 98.885,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.311,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -9.129,
+          "72": -5.778,
+          "22": -5.524,
+          "55": -0.664,
+          "2": -0.311
+        }
+      },
+      "gap_distance_meters": 13.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 663,
+      "elapsed_race_time": 1079.96,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 11,
+      "sector_time": 26.993,
+      "cumulative_lap_time": 26.993,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.268,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -9.401,
+          "72": -5.952,
+          "22": -5.641,
+          "55": -0.657,
+          "2": -0.268
+        }
+      },
+      "gap_distance_meters": 11.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 688,
+      "elapsed_race_time": 1122.76,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 11,
+      "sector_time": 42.8,
+      "cumulative_lap_time": 69.793,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.361,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -9.818,
+          "72": -6.037,
+          "22": -5.756,
+          "55": -0.787,
+          "2": -0.361
+        }
+      },
+      "gap_distance_meters": 15.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 707,
+      "elapsed_race_time": 1151.525,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 11,
+      "sector_time": 28.765,
+      "cumulative_lap_time": 98.558,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.275,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -9.993,
+          "72": -5.93,
+          "22": -5.619,
+          "55": -0.763,
+          "2": -0.275
+        }
+      },
+      "gap_distance_meters": 11.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 729,
+      "elapsed_race_time": 1178.628,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 12,
+      "sector_time": 27.103,
+      "cumulative_lap_time": 27.103,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.279,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -10.371,
+          "72": -6.229,
+          "22": -5.731,
+          "55": -0.928,
+          "2": -0.279
+        }
+      },
+      "gap_distance_meters": 11.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 754,
+      "elapsed_race_time": 1221.465,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 12,
+      "sector_time": 42.837,
+      "cumulative_lap_time": 69.94,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.328,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -10.721,
+          "72": -6.243,
+          "22": -5.866,
+          "55": -1.143,
+          "2": -0.328
+        }
+      },
+      "gap_distance_meters": 13.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 773,
+      "elapsed_race_time": 1250.16,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 12,
+      "sector_time": 28.695,
+      "cumulative_lap_time": 98.635,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.385,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -10.68,
+          "72": -6.217,
+          "22": -5.887,
+          "55": -0.993,
+          "2": -0.385
+        }
+      },
+      "gap_distance_meters": 16.0,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 795,
+      "elapsed_race_time": 1277.059,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 13,
+      "sector_time": 26.899,
+      "cumulative_lap_time": 26.899,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.261,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -10.806,
+          "72": -6.203,
+          "22": -5.944,
+          "55": -1.025,
+          "2": -0.261
+        }
+      },
+      "gap_distance_meters": 10.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 819,
+      "elapsed_race_time": 1319.848,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 13,
+      "sector_time": 42.789,
+      "cumulative_lap_time": 69.688,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.308,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -11.157,
+          "72": -6.106,
+          "22": -5.782,
+          "55": -1.262,
+          "2": -0.308
+        }
+      },
+      "gap_distance_meters": 12.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 839,
+      "elapsed_race_time": 1348.629,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 13,
+      "sector_time": 28.781,
+      "cumulative_lap_time": 98.469,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.294,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -11.226,
+          "72": -5.911,
+          "22": -5.724,
+          "55": -1.213,
+          "2": -0.294
+        }
+      },
+      "gap_distance_meters": 12.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 859,
+      "elapsed_race_time": 1375.596,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 14,
+      "sector_time": 26.967,
+      "cumulative_lap_time": 26.967,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.368,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -11.371,
+          "72": -6.011,
+          "22": -5.613,
+          "55": -1.362,
+          "2": -0.368
+        }
+      },
+      "gap_distance_meters": 15.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 883,
+      "elapsed_race_time": 1418.258,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 14,
+      "sector_time": 42.662,
+      "cumulative_lap_time": 69.629,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.276,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -11.457,
+          "72": -5.602,
+          "22": -5.378,
+          "55": -1.316,
+          "2": -0.276
+        }
+      },
+      "gap_distance_meters": 11.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 902,
+      "elapsed_race_time": 1447.17,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 14,
+      "sector_time": 28.912,
+      "cumulative_lap_time": 98.541,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.468,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -11.666,
+          "22": -5.262,
+          "72": -5.157,
+          "55": -1.368,
+          "2": -0.468
+        }
+      },
+      "gap_distance_meters": 19.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 922,
+      "elapsed_race_time": 1473.991,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 15,
+      "sector_time": 26.821,
+      "cumulative_lap_time": 26.821,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.286,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -11.776,
+          "22": -5.122,
+          "72": -4.953,
+          "55": -1.487,
+          "2": -0.286
+        }
+      },
+      "gap_distance_meters": 11.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 946,
+      "elapsed_race_time": 1516.858,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 15,
+      "sector_time": 42.867,
+      "cumulative_lap_time": 69.688,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.316,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -11.911,
+          "22": -4.989,
+          "72": -4.719,
+          "55": -1.654,
+          "2": -0.316
+        }
+      },
+      "gap_distance_meters": 13.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 964,
+      "elapsed_race_time": 1545.714,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 15,
+      "sector_time": 28.856,
+      "cumulative_lap_time": 98.544,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.348,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -11.948,
+          "22": -5.057,
+          "72": -4.686,
+          "55": -1.763,
+          "2": -0.348
+        }
+      },
+      "gap_distance_meters": 14.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 985,
+      "elapsed_race_time": 1572.641,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 16,
+      "sector_time": 26.927,
+      "cumulative_lap_time": 26.927,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.352,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.184,
+          "22": -5.18,
+          "72": -4.83,
+          "55": -1.904,
+          "2": -0.352
+        }
+      },
+      "gap_distance_meters": 14.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1010,
+      "elapsed_race_time": 1615.563,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 16,
+      "sector_time": 42.922,
+      "cumulative_lap_time": 69.849,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.372,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.054,
+          "22": -5.376,
+          "72": -5.028,
+          "55": -2.068,
+          "2": -0.372
+        }
+      },
+      "gap_distance_meters": 15.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1028,
+      "elapsed_race_time": 1644.366,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 16,
+      "sector_time": 28.803,
+      "cumulative_lap_time": 98.652,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.288,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -11.765,
+          "22": -5.447,
+          "72": -5.092,
+          "55": -2.082,
+          "2": -0.288
+        }
+      },
+      "gap_distance_meters": 12.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1048,
+      "elapsed_race_time": 1671.319,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 17,
+      "sector_time": 26.953,
+      "cumulative_lap_time": 26.953,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.258,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -11.872,
+          "22": -5.741,
+          "72": -5.275,
+          "55": -2.202,
+          "2": -0.258
+        }
+      },
+      "gap_distance_meters": 10.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1072,
+      "elapsed_race_time": 1714.244,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 17,
+      "sector_time": 42.925,
+      "cumulative_lap_time": 69.878,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.466,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.245,
+          "22": -5.978,
+          "72": -5.462,
+          "55": -2.463,
+          "2": -0.466
+        }
+      },
+      "gap_distance_meters": 19.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1091,
+      "elapsed_race_time": 1742.878,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 17,
+      "sector_time": 28.634,
+      "cumulative_lap_time": 98.512,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.429,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -11.982,
+          "22": -5.921,
+          "72": -5.155,
+          "55": -2.211,
+          "2": -0.429
+        }
+      },
+      "gap_distance_meters": 17.9,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 1110,
+      "elapsed_race_time": 1769.88,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 18,
+      "sector_time": 27.002,
+      "cumulative_lap_time": 27.002,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.376,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.09,
+          "22": -6.195,
+          "72": -5.229,
+          "55": -2.257,
+          "2": -0.376
+        }
+      },
+      "gap_distance_meters": 15.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1135,
+      "elapsed_race_time": 1812.673,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 18,
+      "sector_time": 42.793,
+      "cumulative_lap_time": 69.795,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.468,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.233,
+          "22": -6.31,
+          "72": -5.263,
+          "55": -2.331,
+          "2": -0.468
+        }
+      },
+      "gap_distance_meters": 19.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1154,
+      "elapsed_race_time": 1841.495,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 18,
+      "sector_time": 28.822,
+      "cumulative_lap_time": 98.617,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.55,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.313,
+          "22": -6.226,
+          "72": -5.313,
+          "55": -2.278,
+          "2": -0.55
+        }
+      },
+      "gap_distance_meters": 22.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1173,
+      "elapsed_race_time": 1868.412,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 19,
+      "sector_time": 26.917,
+      "cumulative_lap_time": 26.917,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.494,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.371,
+          "22": -6.371,
+          "72": -5.43,
+          "55": -2.288,
+          "2": -0.494
+        }
+      },
+      "gap_distance_meters": 20.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1198,
+      "elapsed_race_time": 1911.085,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 19,
+      "sector_time": 42.673,
+      "cumulative_lap_time": 69.59,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.389,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.273,
+          "22": -6.408,
+          "72": -4.827,
+          "55": -2.182,
+          "2": -0.389
+        }
+      },
+      "gap_distance_meters": 16.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1217,
+      "elapsed_race_time": 1939.85,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 19,
+      "sector_time": 28.765,
+      "cumulative_lap_time": 98.355,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.415,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.183,
+          "22": -6.414,
+          "72": -4.687,
+          "55": -2.018,
+          "2": -0.415
+        }
+      },
+      "gap_distance_meters": 17.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1236,
+      "elapsed_race_time": 1966.711,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 20,
+      "sector_time": 26.861,
+      "cumulative_lap_time": 26.861,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.327,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.167,
+          "22": -6.589,
+          "72": -4.681,
+          "55": -2.103,
+          "2": -0.327
+        }
+      },
+      "gap_distance_meters": 13.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1260,
+      "elapsed_race_time": 2009.561,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 20,
+      "sector_time": 42.85,
+      "cumulative_lap_time": 69.711,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.405,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.366,
+          "22": -6.762,
+          "72": -4.711,
+          "55": -2.369,
+          "2": -0.405
+        }
+      },
+      "gap_distance_meters": 16.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1278,
+      "elapsed_race_time": 2038.311,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 20,
+      "sector_time": 28.75,
+      "cumulative_lap_time": 98.461,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.51,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.228,
+          "22": -6.789,
+          "72": -4.585,
+          "55": -2.314,
+          "2": -0.51
+        }
+      },
+      "gap_distance_meters": 21.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1297,
+      "elapsed_race_time": 2065.074,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 21,
+      "sector_time": 26.763,
+      "cumulative_lap_time": 26.763,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.431,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.143,
+          "22": -6.827,
+          "72": -4.498,
+          "55": -2.171,
+          "2": -0.431
+        }
+      },
+      "gap_distance_meters": 18.0,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 1322,
+      "elapsed_race_time": 2107.756,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 21,
+      "sector_time": 42.682,
+      "cumulative_lap_time": 69.445,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.361,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.288,
+          "22": -6.885,
+          "72": -4.502,
+          "55": -2.209,
+          "2": -0.361
+        }
+      },
+      "gap_distance_meters": 15.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1339,
+      "elapsed_race_time": 2136.659,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 21,
+      "sector_time": 28.903,
+      "cumulative_lap_time": 98.348,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.49,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.295,
+          "22": -7.062,
+          "72": -4.213,
+          "55": -2.258,
+          "2": -0.49
+        }
+      },
+      "gap_distance_meters": 20.4,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1360,
+      "elapsed_race_time": 2163.492,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 22,
+      "sector_time": 26.833,
+      "cumulative_lap_time": 26.833,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.381,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.336,
+          "22": -7.158,
+          "72": -4.171,
+          "55": -2.22,
+          "2": -0.381
+        }
+      },
+      "gap_distance_meters": 15.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1385,
+      "elapsed_race_time": 2206.188,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 22,
+      "sector_time": 42.696,
+      "cumulative_lap_time": 69.529,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.209,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.352,
+          "22": -7.168,
+          "72": -4.112,
+          "55": -2.249,
+          "2": -0.209
+        }
+      },
+      "gap_distance_meters": 8.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1402,
+      "elapsed_race_time": 2235.055,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 22,
+      "sector_time": 28.867,
+      "cumulative_lap_time": 98.396,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.276,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.425,
+          "22": -7.331,
+          "72": -3.841,
+          "55": -2.102,
+          "2": -0.276
+        }
+      },
+      "gap_distance_meters": 11.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1422,
+      "elapsed_race_time": 2261.915,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 23,
+      "sector_time": 26.86,
+      "cumulative_lap_time": 26.86,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.239,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.535,
+          "22": -7.527,
+          "72": -3.883,
+          "55": -2.155,
+          "2": -0.239
+        }
+      },
+      "gap_distance_meters": 10.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1448,
+      "elapsed_race_time": 2304.743,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 23,
+      "sector_time": 42.828,
+      "cumulative_lap_time": 69.688,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.196,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.797,
+          "22": -7.653,
+          "72": -3.794,
+          "55": -2.454,
+          "2": -0.196
+        }
+      },
+      "gap_distance_meters": 8.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1464,
+      "elapsed_race_time": 2333.647,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 23,
+      "sector_time": 28.904,
+      "cumulative_lap_time": 98.592,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.269,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -12.818,
+          "22": -7.815,
+          "72": -3.645,
+          "55": -2.425,
+          "2": -0.269
+        }
+      },
+      "gap_distance_meters": 11.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1484,
+      "elapsed_race_time": 2360.784,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 24,
+      "sector_time": 27.137,
+      "cumulative_lap_time": 27.137,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.262,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -13.061,
+          "22": -8.257,
+          "72": -3.79,
+          "55": -2.46,
+          "2": -0.262
+        }
+      },
+      "gap_distance_meters": 10.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1510,
+      "elapsed_race_time": 2403.681,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 24,
+      "sector_time": 42.897,
+      "cumulative_lap_time": 70.034,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.228,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -13.498,
+          "22": -8.571,
+          "72": -3.757,
+          "55": -2.659,
+          "2": -0.228
+        }
+      },
+      "gap_distance_meters": 9.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1527,
+      "elapsed_race_time": 2432.595,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 24,
+      "sector_time": 28.914,
+      "cumulative_lap_time": 98.948,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.378,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -13.438,
+          "22": -8.879,
+          "72": -3.622,
+          "55": -2.797,
+          "2": -0.378
+        }
+      },
+      "gap_distance_meters": 15.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1546,
+      "elapsed_race_time": 2459.435,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 25,
+      "sector_time": 26.84,
+      "cumulative_lap_time": 26.84,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.273,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -13.246,
+          "22": -9.034,
+          "72": -3.616,
+          "55": -2.822,
+          "2": -0.273
+        }
+      },
+      "gap_distance_meters": 11.4,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1573,
+      "elapsed_race_time": 2502.382,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 25,
+      "sector_time": 42.947,
+      "cumulative_lap_time": 69.787,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.379,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -13.586,
+          "22": -9.336,
+          "72": -3.583,
+          "55": -3.097,
+          "2": -0.379
+        }
+      },
+      "gap_distance_meters": 15.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1590,
+      "elapsed_race_time": 2531.112,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 25,
+      "sector_time": 28.73,
+      "cumulative_lap_time": 98.517,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.112,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -13.32,
+          "22": -9.26,
+          "72": -3.175,
+          "55": -2.673,
+          "2": -0.112
+        }
+      },
+      "gap_distance_meters": 4.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1609,
+      "elapsed_race_time": 2558.781,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 26,
+      "sector_time": 27.669,
+      "cumulative_lap_time": 27.669,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.279,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -14.077,
+          "22": -10.242,
+          "72": -4.005,
+          "55": -3.521,
+          "2": -0.279
+        }
+      },
+      "gap_distance_meters": 11.6,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1636,
+      "elapsed_race_time": 2601.812,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 26,
+      "sector_time": 43.031,
+      "cumulative_lap_time": 70.7,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.539,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -14.385,
+          "22": -10.741,
+          "72": -4.16,
+          "55": -3.833,
+          "2": -0.539
+        }
+      },
+      "gap_distance_meters": 22.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1653,
+      "elapsed_race_time": 2630.751,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 26,
+      "sector_time": 28.939,
+      "cumulative_lap_time": 99.639,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.608,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -14.409,
+          "22": -11.018,
+          "72": -3.935,
+          "55": -3.656,
+          "2": -0.608
+        }
+      },
+      "gap_distance_meters": 25.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1671,
+      "elapsed_race_time": 2657.616,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 27,
+      "sector_time": 26.865,
+      "cumulative_lap_time": 26.865,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.358,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -14.303,
+          "22": -11.158,
+          "72": -3.897,
+          "55": -3.511,
+          "2": -0.358
+        }
+      },
+      "gap_distance_meters": 14.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1699,
+      "elapsed_race_time": 2700.549,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 27,
+      "sector_time": 42.933,
+      "cumulative_lap_time": 69.798,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.355,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -14.627,
+          "22": -11.404,
+          "72": -4.003,
+          "55": -3.668,
+          "2": -0.355
+        }
+      },
+      "gap_distance_meters": 14.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1716,
+      "elapsed_race_time": 2729.433,
+      "driver_number": "47",
+      "driver_name": "Parker DeLong",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 27,
+      "sector_time": 28.884,
+      "cumulative_lap_time": 98.682,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.309,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -14.398,
+          "22": -11.658,
+          "72": -3.743,
+          "55": -3.289,
+          "2": -0.309
+        }
+      },
+      "gap_distance_meters": 12.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    }
+  ]
+}

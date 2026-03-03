@@ -1,0 +1,2413 @@
+{
+  "driver_number": "98",
+  "driver_name": "Max Schweid",
+  "total_events": 84,
+  "events": [
+    {
+      "event_id": 4,
+      "elapsed_race_time": 28.544,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 1,
+      "sector_time": 28.544,
+      "cumulative_lap_time": 28.544,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.402,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -0.963,
+          "72": -0.66,
+          "22": -0.402
+        }
+      },
+      "gap_distance_meters": 16.8,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 27,
+      "elapsed_race_time": 71.458,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 1,
+      "sector_time": 42.914,
+      "cumulative_lap_time": 71.458,
+      "race_position": 5,
+      "position_change": -1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.181,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -1.599,
+          "72": -1.05,
+          "22": -0.74,
+          "55": -0.181
+        }
+      },
+      "gap_distance_meters": 7.5,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 49,
+      "elapsed_race_time": 100.242,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 1,
+      "sector_time": 28.784,
+      "cumulative_lap_time": 100.242,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.274,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -2.02,
+          "72": -0.61,
+          "22": -0.584,
+          "55": -0.274
+        }
+      },
+      "gap_distance_meters": 11.4,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 71,
+      "elapsed_race_time": 127.16,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 2,
+      "sector_time": 26.918,
+      "cumulative_lap_time": 26.918,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.233,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -2.202,
+          "22": -0.73,
+          "72": -0.509,
+          "55": -0.233
+        }
+      },
+      "gap_distance_meters": 9.7,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 93,
+      "elapsed_race_time": 169.649,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 2,
+      "sector_time": 42.489,
+      "cumulative_lap_time": 69.407,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.197,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -2.409,
+          "22": -0.746,
+          "72": -0.483,
+          "55": -0.197
+        }
+      },
+      "gap_distance_meters": 8.2,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 115,
+      "elapsed_race_time": 198.478,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 2,
+      "sector_time": 28.829,
+      "cumulative_lap_time": 98.236,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.166,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -2.906,
+          "22": -0.937,
+          "72": -0.486,
+          "55": -0.166
+        }
+      },
+      "gap_distance_meters": 6.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 137,
+      "elapsed_race_time": 225.361,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 3,
+      "sector_time": 26.883,
+      "cumulative_lap_time": 26.883,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.188,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -3.178,
+          "22": -1.283,
+          "72": -0.734,
+          "55": -0.188
+        }
+      },
+      "gap_distance_meters": 7.8,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 159,
+      "elapsed_race_time": 268.279,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 3,
+      "sector_time": 42.918,
+      "cumulative_lap_time": 69.801,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.489,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -3.878,
+          "22": -1.761,
+          "72": -1.052,
+          "55": -0.489
+        }
+      },
+      "gap_distance_meters": 20.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 181,
+      "elapsed_race_time": 296.791,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 3,
+      "sector_time": 28.512,
+      "cumulative_lap_time": 98.313,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.242,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -3.782,
+          "22": -1.734,
+          "72": -0.733,
+          "55": -0.242
+        }
+      },
+      "gap_distance_meters": 10.1,
+      "sector_performance": "fastest",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 203,
+      "elapsed_race_time": 323.431,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 4,
+      "sector_time": 26.64,
+      "cumulative_lap_time": 26.64,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.243,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -3.728,
+          "22": -1.793,
+          "72": -0.663,
+          "55": -0.243
+        }
+      },
+      "gap_distance_meters": 10.1,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 225,
+      "elapsed_race_time": 365.842,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 4,
+      "sector_time": 42.411,
+      "cumulative_lap_time": 69.051,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.307,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -3.813,
+          "22": -1.841,
+          "72": -0.499,
+          "55": -0.307
+        }
+      },
+      "gap_distance_meters": 12.8,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 247,
+      "elapsed_race_time": 394.609,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 4,
+      "sector_time": 28.767,
+      "cumulative_lap_time": 97.818,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.268,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -4.006,
+          "22": -2.129,
+          "72": -0.552,
+          "55": -0.268
+        }
+      },
+      "gap_distance_meters": 11.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 268,
+      "elapsed_race_time": 421.337,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 5,
+      "sector_time": 26.728,
+      "cumulative_lap_time": 26.728,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.284,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -4.043,
+          "22": -2.282,
+          "72": -0.694,
+          "55": -0.284
+        }
+      },
+      "gap_distance_meters": 11.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 289,
+      "elapsed_race_time": 464.002,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 5,
+      "sector_time": 42.665,
+      "cumulative_lap_time": 69.393,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.215,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -4.248,
+          "22": -2.622,
+          "72": -0.419,
+          "55": -0.215
+        }
+      },
+      "gap_distance_meters": 9.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 310,
+      "elapsed_race_time": 493.247,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 5,
+      "sector_time": 29.245,
+      "cumulative_lap_time": 98.638,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.594,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -5.06,
+          "22": -3.301,
+          "72": -0.794,
+          "55": -0.594
+        }
+      },
+      "gap_distance_meters": 24.8,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 331,
+      "elapsed_race_time": 520.193,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 6,
+      "sector_time": 26.946,
+      "cumulative_lap_time": 26.946,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.684,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -5.331,
+          "22": -3.62,
+          "72": -0.992,
+          "55": -0.684
+        }
+      },
+      "gap_distance_meters": 28.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 352,
+      "elapsed_race_time": 562.548,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 6,
+      "sector_time": 42.355,
+      "cumulative_lap_time": 69.301,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.555,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -5.277,
+          "22": -3.649,
+          "72": -0.775,
+          "55": -0.555
+        }
+      },
+      "gap_distance_meters": 23.1,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 373,
+      "elapsed_race_time": 591.302,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 6,
+      "sector_time": 28.754,
+      "cumulative_lap_time": 98.055,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.46,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -5.606,
+          "22": -3.878,
+          "72": -0.6,
+          "55": -0.46
+        }
+      },
+      "gap_distance_meters": 19.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 394,
+      "elapsed_race_time": 618.254,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 7,
+      "sector_time": 26.952,
+      "cumulative_lap_time": 26.952,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.478,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -6.014,
+          "22": -4.283,
+          "72": -0.805,
+          "55": -0.478
+        }
+      },
+      "gap_distance_meters": 19.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 415,
+      "elapsed_race_time": 660.767,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 7,
+      "sector_time": 42.513,
+      "cumulative_lap_time": 69.465,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.451,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -6.26,
+          "22": -4.648,
+          "72": -0.681,
+          "55": -0.451
+        }
+      },
+      "gap_distance_meters": 18.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 435,
+      "elapsed_race_time": 689.914,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 7,
+      "sector_time": 29.147,
+      "cumulative_lap_time": 98.612,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.524,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -6.776,
+          "22": -5.14,
+          "72": -0.676,
+          "55": -0.524
+        }
+      },
+      "gap_distance_meters": 21.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 456,
+      "elapsed_race_time": 716.738,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 8,
+      "sector_time": 26.824,
+      "cumulative_lap_time": 26.824,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.42,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -7.016,
+          "22": -5.417,
+          "72": -0.682,
+          "55": -0.42
+        }
+      },
+      "gap_distance_meters": 17.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 479,
+      "elapsed_race_time": 759.169,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 8,
+      "sector_time": 42.431,
+      "cumulative_lap_time": 69.255,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.244,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -7.25,
+          "22": -5.75,
+          "72": -0.559,
+          "55": -0.244
+        }
+      },
+      "gap_distance_meters": 10.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 500,
+      "elapsed_race_time": 787.905,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 8,
+      "sector_time": 28.736,
+      "cumulative_lap_time": 97.991,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.178,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -7.356,
+          "22": -5.801,
+          "72": -0.354,
+          "55": -0.178
+        }
+      },
+      "gap_distance_meters": 7.4,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 522,
+      "elapsed_race_time": 814.928,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 9,
+      "sector_time": 27.023,
+      "cumulative_lap_time": 27.023,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.3,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -7.675,
+          "22": -6.283,
+          "72": -0.605,
+          "55": -0.3
+        }
+      },
+      "gap_distance_meters": 12.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 545,
+      "elapsed_race_time": 857.4,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 9,
+      "sector_time": 42.472,
+      "cumulative_lap_time": 69.495,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.198,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -7.78,
+          "22": -6.448,
+          "72": -0.49,
+          "55": -0.198
+        }
+      },
+      "gap_distance_meters": 8.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 565,
+      "elapsed_race_time": 886.462,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 9,
+      "sector_time": 29.062,
+      "cumulative_lap_time": 98.557,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.367,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -8.263,
+          "22": -6.974,
+          "72": -0.505,
+          "55": -0.367
+        }
+      },
+      "gap_distance_meters": 15.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 585,
+      "elapsed_race_time": 913.429,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 10,
+      "sector_time": 26.967,
+      "cumulative_lap_time": 26.967,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.415,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -8.569,
+          "22": -7.361,
+          "72": -0.705,
+          "55": -0.415
+        }
+      },
+      "gap_distance_meters": 17.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 607,
+      "elapsed_race_time": 956.452,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 10,
+      "sector_time": 43.023,
+      "cumulative_lap_time": 69.99,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.149,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -9.166,
+          "22": -8.107,
+          "72": -0.454,
+          "55": -0.149
+        }
+      },
+      "gap_distance_meters": 6.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 627,
+      "elapsed_race_time": 986.262,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 10,
+      "sector_time": 29.81,
+      "cumulative_lap_time": 99.8,
+      "race_position": 6,
+      "position_change": -1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.415,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -10.447,
+          "22": -9.395,
+          "72": -1.234,
+          "55": -1.001,
+          "2": -0.415
+        }
+      },
+      "gap_distance_meters": 17.3,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 647,
+      "elapsed_race_time": 1012.965,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 11,
+      "sector_time": 26.703,
+      "cumulative_lap_time": 26.703,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.39,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -10.519,
+          "22": -9.593,
+          "72": -1.201,
+          "55": -0.876,
+          "2": -0.39
+        }
+      },
+      "gap_distance_meters": 16.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 671,
+      "elapsed_race_time": 1055.376,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 11,
+      "sector_time": 42.411,
+      "cumulative_lap_time": 69.114,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.487,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -10.607,
+          "22": -9.74,
+          "72": -0.828,
+          "55": -0.672,
+          "2": -0.487
+        }
+      },
+      "gap_distance_meters": 20.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 691,
+      "elapsed_race_time": 1084.62,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 11,
+      "sector_time": 29.244,
+      "cumulative_lap_time": 98.358,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.054,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.297,
+          "22": -10.449,
+          "72": -0.128,
+          "2": -0.106,
+          "55": -0.054
+        }
+      },
+      "gap_distance_meters": 2.3,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 713,
+      "elapsed_race_time": 1112.207,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 12,
+      "sector_time": 27.587,
+      "cumulative_lap_time": 27.587,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.02,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -12.198,
+          "22": -11.401,
+          "2": -0.787,
+          "72": -0.324,
+          "55": -0.02
+        }
+      },
+      "gap_distance_meters": 0.8,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 737,
+      "elapsed_race_time": 1155.028,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 12,
+      "sector_time": 42.821,
+      "cumulative_lap_time": 70.408,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.352,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -12.727,
+          "22": -11.93,
+          "2": -1.101,
+          "72": -0.648,
+          "55": -0.352
+        }
+      },
+      "gap_distance_meters": 14.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 757,
+      "elapsed_race_time": 1183.826,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 12,
+      "sector_time": 28.798,
+      "cumulative_lap_time": 99.206,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.344,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -12.902,
+          "22": -12.217,
+          "2": -1.144,
+          "72": -0.642,
+          "55": -0.344
+        }
+      },
+      "gap_distance_meters": 14.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 779,
+      "elapsed_race_time": 1210.507,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 13,
+      "sector_time": 26.681,
+      "cumulative_lap_time": 26.681,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.32,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -12.926,
+          "22": -12.359,
+          "2": -1.043,
+          "72": -0.656,
+          "55": -0.32
+        }
+      },
+      "gap_distance_meters": 13.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 803,
+      "elapsed_race_time": 1253.025,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 13,
+      "sector_time": 42.518,
+      "cumulative_lap_time": 69.199,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.338,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.1,
+          "22": -12.63,
+          "2": -1.11,
+          "72": -0.631,
+          "55": -0.338
+        }
+      },
+      "gap_distance_meters": 14.1,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 823,
+      "elapsed_race_time": 1281.938,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 13,
+      "sector_time": 28.913,
+      "cumulative_lap_time": 98.112,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.27,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.291,
+          "22": -12.909,
+          "2": -1.251,
+          "72": -0.506,
+          "55": -0.27
+        }
+      },
+      "gap_distance_meters": 11.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 845,
+      "elapsed_race_time": 1308.814,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 14,
+      "sector_time": 26.876,
+      "cumulative_lap_time": 26.876,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.354,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.482,
+          "22": -13.144,
+          "2": -1.313,
+          "72": -0.723,
+          "55": -0.354
+        }
+      },
+      "gap_distance_meters": 14.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 869,
+      "elapsed_race_time": 1351.347,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 14,
+      "sector_time": 42.533,
+      "cumulative_lap_time": 69.409,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.337,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.593,
+          "22": -13.319,
+          "2": -1.345,
+          "72": -0.8,
+          "55": -0.337
+        }
+      },
+      "gap_distance_meters": 14.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 889,
+      "elapsed_race_time": 1380.437,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 14,
+      "sector_time": 29.09,
+      "cumulative_lap_time": 98.499,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.656,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -14.066,
+          "22": -13.7,
+          "2": -1.701,
+          "72": -1.06,
+          "55": -0.656
+        }
+      },
+      "gap_distance_meters": 27.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 909,
+      "elapsed_race_time": 1407.155,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 15,
+      "sector_time": 26.718,
+      "cumulative_lap_time": 26.718,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.592,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -14.072,
+          "22": -13.811,
+          "2": -1.619,
+          "72": -0.996,
+          "55": -0.592
+        }
+      },
+      "gap_distance_meters": 24.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 935,
+      "elapsed_race_time": 1449.425,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 15,
+      "sector_time": 42.27,
+      "cumulative_lap_time": 68.988,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.428,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.983,
+          "22": -13.65,
+          "2": -1.324,
+          "72": -0.759,
+          "55": -0.428
+        }
+      },
+      "gap_distance_meters": 17.8,
+      "sector_performance": "fastest",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 955,
+      "elapsed_race_time": 1478.13,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 15,
+      "sector_time": 28.705,
+      "cumulative_lap_time": 97.693,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.231,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -14.049,
+          "22": -13.627,
+          "2": -1.428,
+          "72": -0.523,
+          "55": -0.231
+        }
+      },
+      "gap_distance_meters": 9.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 975,
+      "elapsed_race_time": 1505.116,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 16,
+      "sector_time": 26.986,
+      "cumulative_lap_time": 26.986,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.438,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -14.365,
+          "22": -13.912,
+          "2": -1.641,
+          "72": -0.791,
+          "55": -0.438
+        }
+      },
+      "gap_distance_meters": 18.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1001,
+      "elapsed_race_time": 1547.543,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 16,
+      "sector_time": 42.427,
+      "cumulative_lap_time": 69.413,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.4,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -14.524,
+          "22": -14.092,
+          "2": -1.616,
+          "72": -0.723,
+          "55": -0.4
+        }
+      },
+      "gap_distance_meters": 16.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1020,
+      "elapsed_race_time": 1576.227,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 16,
+      "sector_time": 28.684,
+      "cumulative_lap_time": 98.097,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.354,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -14.41,
+          "22": -14.077,
+          "2": -1.564,
+          "72": -0.653,
+          "55": -0.354
+        }
+      },
+      "gap_distance_meters": 14.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1041,
+      "elapsed_race_time": 1603.031,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 17,
+      "sector_time": 26.804,
+      "cumulative_lap_time": 26.804,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.37,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -14.632,
+          "22": -14.264,
+          "2": -1.699,
+          "72": -0.838,
+          "55": -0.37
+        }
+      },
+      "gap_distance_meters": 15.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1066,
+      "elapsed_race_time": 1645.519,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 17,
+      "sector_time": 42.488,
+      "cumulative_lap_time": 69.292,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.597,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -14.831,
+          "22": -14.473,
+          "2": -1.851,
+          "72": -0.934,
+          "55": -0.597
+        }
+      },
+      "gap_distance_meters": 24.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1085,
+      "elapsed_race_time": 1674.304,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 17,
+      "sector_time": 28.785,
+      "cumulative_lap_time": 98.077,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.604,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -15.012,
+          "22": -14.599,
+          "2": -1.963,
+          "72": -0.729,
+          "55": -0.604
+        }
+      },
+      "gap_distance_meters": 25.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1105,
+      "elapsed_race_time": 1701.09,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 18,
+      "sector_time": 26.786,
+      "cumulative_lap_time": 26.786,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.406,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -15.014,
+          "22": -14.794,
+          "2": -2.001,
+          "72": -0.667,
+          "55": -0.406
+        }
+      },
+      "gap_distance_meters": 16.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1131,
+      "elapsed_race_time": 1743.523,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 18,
+      "sector_time": 42.433,
+      "cumulative_lap_time": 69.219,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.23,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -14.943,
+          "22": -14.678,
+          "2": -2.049,
+          "72": -0.475,
+          "55": -0.23
+        }
+      },
+      "gap_distance_meters": 9.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1150,
+      "elapsed_race_time": 1772.38,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 18,
+      "sector_time": 28.857,
+      "cumulative_lap_time": 98.076,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.254,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -15.165,
+          "22": -14.536,
+          "2": -1.898,
+          "72": -0.485,
+          "55": -0.254
+        }
+      },
+      "gap_distance_meters": 10.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1168,
+      "elapsed_race_time": 1799.316,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 19,
+      "sector_time": 26.936,
+      "cumulative_lap_time": 26.936,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.279,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -15.474,
+          "22": -14.648,
+          "2": -2.095,
+          "72": -0.562,
+          "55": -0.279
+        }
+      },
+      "gap_distance_meters": 11.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1192,
+      "elapsed_race_time": 1841.814,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 19,
+      "sector_time": 42.498,
+      "cumulative_lap_time": 69.434,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.21,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -15.461,
+          "22": -14.849,
+          "2": -1.95,
+          "72": -0.461,
+          "55": -0.21
+        }
+      },
+      "gap_distance_meters": 8.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1210,
+      "elapsed_race_time": 1871.029,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 19,
+      "sector_time": 29.215,
+      "cumulative_lap_time": 98.649,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.218,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -16.086,
+          "22": -15.361,
+          "2": -2.292,
+          "72": -0.376,
+          "55": -0.218
+        }
+      },
+      "gap_distance_meters": 9.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1230,
+      "elapsed_race_time": 1898.067,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 20,
+      "sector_time": 27.038,
+      "cumulative_lap_time": 27.038,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.266,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -16.404,
+          "22": -15.8,
+          "2": -2.484,
+          "72": -0.606,
+          "55": -0.266
+        }
+      },
+      "gap_distance_meters": 11.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1256,
+      "elapsed_race_time": 1940.702,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 20,
+      "sector_time": 42.635,
+      "cumulative_lap_time": 69.673,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.35,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -16.729,
+          "22": -16.21,
+          "2": -2.581,
+          "72": -0.581,
+          "55": -0.35
+        }
+      },
+      "gap_distance_meters": 14.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1276,
+      "elapsed_race_time": 1969.53,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 20,
+      "sector_time": 28.828,
+      "cumulative_lap_time": 98.501,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.264,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -17.061,
+          "22": -16.483,
+          "2": -2.548,
+          "72": -0.36,
+          "55": -0.264
+        }
+      },
+      "gap_distance_meters": 11.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1296,
+      "elapsed_race_time": 1997.283,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 21,
+      "sector_time": 27.753,
+      "cumulative_lap_time": 27.753,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.384,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -18.069,
+          "22": -17.59,
+          "2": -3.526,
+          "55": -0.688,
+          "72": -0.384
+        }
+      },
+      "gap_distance_meters": 16.0,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1322,
+      "elapsed_race_time": 2039.814,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 21,
+      "sector_time": 42.531,
+      "cumulative_lap_time": 70.284,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.322,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -18.28,
+          "22": -17.828,
+          "2": -3.482,
+          "55": -0.763,
+          "72": -0.322
+        }
+      },
+      "gap_distance_meters": 13.4,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1342,
+      "elapsed_race_time": 2068.578,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 21,
+      "sector_time": 28.764,
+      "cumulative_lap_time": 99.048,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.289,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -18.232,
+          "22": -17.82,
+          "2": -3.589,
+          "55": -0.739,
+          "72": -0.289
+        }
+      },
+      "gap_distance_meters": 12.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1361,
+      "elapsed_race_time": 2095.287,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 22,
+      "sector_time": 26.709,
+      "cumulative_lap_time": 26.709,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.296,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -18.102,
+          "22": -17.801,
+          "2": -3.296,
+          "55": -0.699,
+          "72": -0.296
+        }
+      },
+      "gap_distance_meters": 12.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1388,
+      "elapsed_race_time": 2138.314,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 22,
+      "sector_time": 43.027,
+      "cumulative_lap_time": 69.736,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.395,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -18.714,
+          "22": -18.323,
+          "2": -3.562,
+          "55": -1.219,
+          "72": -0.395
+        }
+      },
+      "gap_distance_meters": 16.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1407,
+      "elapsed_race_time": 2167.275,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 22,
+      "sector_time": 28.961,
+      "cumulative_lap_time": 98.697,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.547,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -19.01,
+          "22": -18.546,
+          "2": -3.716,
+          "55": -1.37,
+          "72": -0.547
+        }
+      },
+      "gap_distance_meters": 22.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1426,
+      "elapsed_race_time": 2193.95,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 23,
+      "sector_time": 26.675,
+      "cumulative_lap_time": 26.675,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.575,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -18.858,
+          "22": -18.56,
+          "2": -3.646,
+          "55": -1.381,
+          "72": -0.575
+        }
+      },
+      "gap_distance_meters": 24.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1454,
+      "elapsed_race_time": 2236.466,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 23,
+      "sector_time": 42.516,
+      "cumulative_lap_time": 69.191,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.421,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -18.819,
+          "22": -18.535,
+          "2": -3.613,
+          "55": -1.484,
+          "72": -0.421
+        }
+      },
+      "gap_distance_meters": 17.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1473,
+      "elapsed_race_time": 2265.153,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 23,
+      "sector_time": 28.687,
+      "cumulative_lap_time": 97.878,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.245,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -18.667,
+          "22": -18.338,
+          "2": -3.399,
+          "55": -1.306,
+          "72": -0.245
+        }
+      },
+      "gap_distance_meters": 10.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1492,
+      "elapsed_race_time": 2292.042,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 24,
+      "sector_time": 26.889,
+      "cumulative_lap_time": 26.889,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.243,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -18.937,
+          "22": -18.566,
+          "2": -3.659,
+          "55": -1.52,
+          "72": -0.243
+        }
+      },
+      "gap_distance_meters": 10.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1520,
+      "elapsed_race_time": 2334.676,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 24,
+      "sector_time": 42.634,
+      "cumulative_lap_time": 69.523,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.261,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -19.075,
+          "22": -18.759,
+          "2": -3.681,
+          "55": -1.709,
+          "72": -0.261
+        }
+      },
+      "gap_distance_meters": 10.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1540,
+      "elapsed_race_time": 2363.55,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 24,
+      "sector_time": 28.874,
+      "cumulative_lap_time": 98.397,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.12,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -19.274,
+          "22": -18.887,
+          "2": -3.703,
+          "55": -1.8,
+          "72": -0.12
+        }
+      },
+      "gap_distance_meters": 5.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1557,
+      "elapsed_race_time": 2390.892,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 25,
+      "sector_time": 27.342,
+      "cumulative_lap_time": 27.342,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.334,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -19.87,
+          "22": -19.581,
+          "2": -4.136,
+          "55": -2.416,
+          "72": -0.334
+        }
+      },
+      "gap_distance_meters": 13.9,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1584,
+      "elapsed_race_time": 2433.62,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 25,
+      "sector_time": 42.728,
+      "cumulative_lap_time": 70.07,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.319,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -20.146,
+          "22": -19.835,
+          "2": -4.168,
+          "55": -2.712,
+          "72": -0.319
+        }
+      },
+      "gap_distance_meters": 13.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1604,
+      "elapsed_race_time": 2462.436,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 25,
+      "sector_time": 28.816,
+      "cumulative_lap_time": 98.886,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.098,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -19.91,
+          "22": -19.708,
+          "2": -4.126,
+          "55": -2.75,
+          "72": -0.098
+        }
+      },
+      "gap_distance_meters": 4.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1624,
+      "elapsed_race_time": 2489.904,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 26,
+      "sector_time": 27.468,
+      "cumulative_lap_time": 27.468,
+      "race_position": 7,
+      "position_change": -1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.026,
+        "car_ahead_number": "46",
+        "to_all_cars": {
+          "13": -20.709,
+          "22": -20.41,
+          "2": -4.907,
+          "55": -3.45,
+          "72": -0.666,
+          "46": -0.026
+        }
+      },
+      "gap_distance_meters": 1.1,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1652,
+      "elapsed_race_time": 2537.439,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 26,
+      "sector_time": 47.535,
+      "cumulative_lap_time": 75.003,
+      "race_position": 9,
+      "position_change": -2,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.217,
+        "car_ahead_number": "21",
+        "to_all_cars": {
+          "13": -25.865,
+          "22": -25.463,
+          "2": -9.73,
+          "55": -8.469,
+          "72": -5.556,
+          "46": -4.643,
+          "47": -4.317,
+          "21": -1.217
+        }
+      },
+      "gap_distance_meters": 50.7,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1697,
+      "elapsed_race_time": 2607.903,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 26,
+      "sector_time": 70.464,
+      "cumulative_lap_time": 145.467,
+      "race_position": 16,
+      "position_change": -7,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 17.031,
+        "car_ahead_number": "3",
+        "to_all_cars": {
+          "55": -50.001,
+          "51": -19.764,
+          "41": -17.711,
+          "3": -17.031
+        }
+      },
+      "gap_distance_meters": 709.7,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1719,
+      "elapsed_race_time": 2644.249,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 27,
+      "sector_time": 36.346,
+      "cumulative_lap_time": 36.346,
+      "race_position": 15,
+      "position_change": 1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 26.252,
+        "car_ahead_number": "3",
+        "to_all_cars": {
+          "51": -29.009,
+          "41": -27.322,
+          "3": -26.252
+        }
+      },
+      "gap_distance_meters": 1093.9,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1743,
+      "elapsed_race_time": 2687.46,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 27,
+      "sector_time": 43.211,
+      "cumulative_lap_time": 79.557,
+      "race_position": 15,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 26.556,
+        "car_ahead_number": "3",
+        "to_all_cars": {
+          "51": -28.89,
+          "41": -27.813,
+          "3": -26.556
+        }
+      },
+      "gap_distance_meters": 1106.6,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1761,
+      "elapsed_race_time": 2716.421,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 27,
+      "sector_time": 28.961,
+      "cumulative_lap_time": 108.518,
+      "race_position": 15,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 26.076,
+        "car_ahead_number": "3",
+        "to_all_cars": {
+          "3": -26.076
+        }
+      },
+      "gap_distance_meters": 1086.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1779,
+      "elapsed_race_time": 2743.359,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 28,
+      "sector_time": 26.938,
+      "cumulative_lap_time": 26.938,
+      "race_position": 15,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 26.031,
+        "car_ahead_number": "3",
+        "to_all_cars": {
+          "51": -28.034,
+          "41": -27.863,
+          "3": -26.031
+        }
+      },
+      "gap_distance_meters": 1084.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1797,
+      "elapsed_race_time": 2786.409,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 28,
+      "sector_time": 43.05,
+      "cumulative_lap_time": 69.988,
+      "race_position": 15,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 25.606,
+        "car_ahead_number": "3",
+        "to_all_cars": {
+          "41": -27.767,
+          "51": -27.075,
+          "3": -25.606
+        }
+      },
+      "gap_distance_meters": 1067.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1804,
+      "elapsed_race_time": 2815.198,
+      "driver_number": "98",
+      "driver_name": "Max Schweid",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 28,
+      "sector_time": 28.789,
+      "cumulative_lap_time": 98.777,
+      "race_position": 15,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 24.94,
+        "car_ahead_number": "3",
+        "to_all_cars": {
+          "13": -78.184,
+          "22": -77.95,
+          "2": -61.878,
+          "72": -57.49,
+          "46": -57.299,
+          "47": -53.977,
+          "21": -52.7,
+          "7": -47.053,
+          "88": -46.843,
+          "111": -46.137,
+          "5": -45.134,
+          "41": -27.558,
+          "51": -26.629,
+          "3": -24.94
+        }
+      },
+      "gap_distance_meters": 1039.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    }
+  ]
+}
