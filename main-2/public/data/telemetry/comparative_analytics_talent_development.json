@@ -1,0 +1,2333 @@
+{
+  "talent_development": {
+    "teammate_pairs": [
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "41",
+        "driver_b": "21",
+        "driver_a_name": "Jenson Sofronas",
+        "driver_b_name": "Ford Koch",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "41",
+            "winner_name": "Jenson Sofronas",
+            "gap": 0.41,
+            "driver_a_median": 99.001,
+            "driver_b_median": 99.411
+          },
+          {
+            "race": "race_2",
+            "winner": "41",
+            "winner_name": "Jenson Sofronas",
+            "gap": 0.123,
+            "driver_a_median": 98.403,
+            "driver_b_median": 98.526
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.04
+            },
+            "race_2": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.064
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.313
+            },
+            "race_2": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.115
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.091
+            },
+            "race_2": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.059
+            }
+          }
+        },
+        "momentum": "driver_a_dominant",
+        "total_wins_a": 2,
+        "total_wins_b": 0
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "41",
+        "driver_b": "7",
+        "driver_a_name": "Jenson Sofronas",
+        "driver_b_name": "Jaxon Bell",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "7",
+            "winner_name": "Jaxon Bell",
+            "gap": 0.076,
+            "driver_a_median": 99.001,
+            "driver_b_median": 98.925
+          },
+          {
+            "race": "race_2",
+            "winner": "41",
+            "winner_name": "Jenson Sofronas",
+            "gap": 0.267,
+            "driver_a_median": 98.403,
+            "driver_b_median": 98.67
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.034
+            },
+            "race_2": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.139
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.065
+            },
+            "race_2": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.153
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.033
+            },
+            "race_2": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.012
+            }
+          }
+        },
+        "momentum": "driver_a_improving",
+        "total_wins_a": 1,
+        "total_wins_b": 1
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "41",
+        "driver_b": "5",
+        "driver_a_name": "Jenson Sofronas",
+        "driver_b_name": "Beltre Curtis",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "41",
+            "winner_name": "Jenson Sofronas",
+            "gap": 0.657,
+            "driver_a_median": 99.001,
+            "driver_b_median": 99.658
+          },
+          {
+            "race": "race_2",
+            "winner": "41",
+            "winner_name": "Jenson Sofronas",
+            "gap": 0.262,
+            "driver_a_median": 98.403,
+            "driver_b_median": 98.665
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "5",
+              "leader_name": "Beltre Curtis",
+              "gap": 0.081
+            },
+            "race_2": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.123
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.537
+            },
+            "race_2": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.123
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.244
+            },
+            "race_2": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.092
+            }
+          }
+        },
+        "momentum": "driver_a_dominant",
+        "total_wins_a": 2,
+        "total_wins_b": 0
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "41",
+        "driver_b": "22",
+        "driver_a_name": "Jenson Sofronas",
+        "driver_b_name": "Jeremy Fletcher",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "22",
+            "winner_name": "Jeremy Fletcher",
+            "gap": 0.874,
+            "driver_a_median": 99.001,
+            "driver_b_median": 98.127
+          },
+          {
+            "race": "race_2",
+            "winner": "22",
+            "winner_name": "Jeremy Fletcher",
+            "gap": 0.725,
+            "driver_a_median": 98.403,
+            "driver_b_median": 97.678
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.263
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.099
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.16
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.263
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.326
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.29
+            }
+          }
+        },
+        "momentum": "driver_b_dominant",
+        "total_wins_a": 0,
+        "total_wins_b": 2
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "41",
+        "driver_b": "58",
+        "driver_a_name": "Jenson Sofronas",
+        "driver_b_name": "Liam Harrison",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "41",
+            "winner_name": "Jenson Sofronas",
+            "gap": 1.932,
+            "driver_a_median": 99.001,
+            "driver_b_median": 100.933
+          },
+          {
+            "race": "race_2",
+            "winner": "41",
+            "winner_name": "Jenson Sofronas",
+            "gap": 1.149,
+            "driver_a_median": 98.403,
+            "driver_b_median": 99.552
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.527
+            },
+            "race_2": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.412
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.959
+            },
+            "race_2": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.492
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.49
+            },
+            "race_2": {
+              "leader": "41",
+              "leader_name": "Jenson Sofronas",
+              "gap": 0.332
+            }
+          }
+        },
+        "momentum": "driver_a_dominant",
+        "total_wins_a": 2,
+        "total_wins_b": 0
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "21",
+        "driver_b": "7",
+        "driver_a_name": "Ford Koch",
+        "driver_b_name": "Jaxon Bell",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "7",
+            "winner_name": "Jaxon Bell",
+            "gap": 0.486,
+            "driver_a_median": 99.411,
+            "driver_b_median": 98.925
+          },
+          {
+            "race": "race_2",
+            "winner": "21",
+            "winner_name": "Ford Koch",
+            "gap": 0.144,
+            "driver_a_median": 98.526,
+            "driver_b_median": 98.67
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.074
+            },
+            "race_2": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.075
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.248
+            },
+            "race_2": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.038
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.124
+            },
+            "race_2": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.046
+            }
+          }
+        },
+        "momentum": "driver_a_improving",
+        "total_wins_a": 1,
+        "total_wins_b": 1
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "21",
+        "driver_b": "5",
+        "driver_a_name": "Ford Koch",
+        "driver_b_name": "Beltre Curtis",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "21",
+            "winner_name": "Ford Koch",
+            "gap": 0.247,
+            "driver_a_median": 99.411,
+            "driver_b_median": 99.658
+          },
+          {
+            "race": "race_2",
+            "winner": "21",
+            "winner_name": "Ford Koch",
+            "gap": 0.138,
+            "driver_a_median": 98.526,
+            "driver_b_median": 98.665
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "5",
+              "leader_name": "Beltre Curtis",
+              "gap": 0.121
+            },
+            "race_2": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.059
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.224
+            },
+            "race_2": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.007
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.153
+            },
+            "race_2": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.15
+            }
+          }
+        },
+        "momentum": "driver_a_dominant",
+        "total_wins_a": 2,
+        "total_wins_b": 0
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "21",
+        "driver_b": "22",
+        "driver_a_name": "Ford Koch",
+        "driver_b_name": "Jeremy Fletcher",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "22",
+            "winner_name": "Jeremy Fletcher",
+            "gap": 1.284,
+            "driver_a_median": 99.411,
+            "driver_b_median": 98.127
+          },
+          {
+            "race": "race_2",
+            "winner": "22",
+            "winner_name": "Jeremy Fletcher",
+            "gap": 0.849,
+            "driver_a_median": 98.526,
+            "driver_b_median": 97.678
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.303
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.163
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.473
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.379
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.417
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.231
+            }
+          }
+        },
+        "momentum": "driver_b_dominant",
+        "total_wins_a": 0,
+        "total_wins_b": 2
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "21",
+        "driver_b": "58",
+        "driver_a_name": "Ford Koch",
+        "driver_b_name": "Liam Harrison",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "21",
+            "winner_name": "Ford Koch",
+            "gap": 1.522,
+            "driver_a_median": 99.411,
+            "driver_b_median": 100.933
+          },
+          {
+            "race": "race_2",
+            "winner": "21",
+            "winner_name": "Ford Koch",
+            "gap": 1.026,
+            "driver_a_median": 98.526,
+            "driver_b_median": 99.552
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.487
+            },
+            "race_2": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.348
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.646
+            },
+            "race_2": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.377
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.399
+            },
+            "race_2": {
+              "leader": "21",
+              "leader_name": "Ford Koch",
+              "gap": 0.391
+            }
+          }
+        },
+        "momentum": "driver_a_dominant",
+        "total_wins_a": 2,
+        "total_wins_b": 0
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "7",
+        "driver_b": "5",
+        "driver_a_name": "Jaxon Bell",
+        "driver_b_name": "Beltre Curtis",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "7",
+            "winner_name": "Jaxon Bell",
+            "gap": 0.733,
+            "driver_a_median": 98.925,
+            "driver_b_median": 99.658
+          },
+          {
+            "race": "race_2",
+            "winner": "5",
+            "winner_name": "Beltre Curtis",
+            "gap": 0.005,
+            "driver_a_median": 98.67,
+            "driver_b_median": 98.665
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "5",
+              "leader_name": "Beltre Curtis",
+              "gap": 0.047
+            },
+            "race_2": {
+              "leader": "5",
+              "leader_name": "Beltre Curtis",
+              "gap": 0.016
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.472
+            },
+            "race_2": {
+              "leader": "5",
+              "leader_name": "Beltre Curtis",
+              "gap": 0.031
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.277
+            },
+            "race_2": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.104
+            }
+          }
+        },
+        "momentum": "driver_b_improving",
+        "total_wins_a": 1,
+        "total_wins_b": 1
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "7",
+        "driver_b": "22",
+        "driver_a_name": "Jaxon Bell",
+        "driver_b_name": "Jeremy Fletcher",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "22",
+            "winner_name": "Jeremy Fletcher",
+            "gap": 0.798,
+            "driver_a_median": 98.925,
+            "driver_b_median": 98.127
+          },
+          {
+            "race": "race_2",
+            "winner": "22",
+            "winner_name": "Jeremy Fletcher",
+            "gap": 0.992,
+            "driver_a_median": 98.67,
+            "driver_b_median": 97.678
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.229
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.239
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.225
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.416
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.293
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.277
+            }
+          }
+        },
+        "momentum": "driver_b_dominant",
+        "total_wins_a": 0,
+        "total_wins_b": 2
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "7",
+        "driver_b": "58",
+        "driver_a_name": "Jaxon Bell",
+        "driver_b_name": "Liam Harrison",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "7",
+            "winner_name": "Jaxon Bell",
+            "gap": 2.008,
+            "driver_a_median": 98.925,
+            "driver_b_median": 100.933
+          },
+          {
+            "race": "race_2",
+            "winner": "7",
+            "winner_name": "Jaxon Bell",
+            "gap": 0.882,
+            "driver_a_median": 98.67,
+            "driver_b_median": 99.552
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.561
+            },
+            "race_2": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.272
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.894
+            },
+            "race_2": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.339
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.523
+            },
+            "race_2": {
+              "leader": "7",
+              "leader_name": "Jaxon Bell",
+              "gap": 0.345
+            }
+          }
+        },
+        "momentum": "driver_a_dominant",
+        "total_wins_a": 2,
+        "total_wins_b": 0
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "5",
+        "driver_b": "22",
+        "driver_a_name": "Beltre Curtis",
+        "driver_b_name": "Jeremy Fletcher",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "22",
+            "winner_name": "Jeremy Fletcher",
+            "gap": 1.531,
+            "driver_a_median": 99.658,
+            "driver_b_median": 98.127
+          },
+          {
+            "race": "race_2",
+            "winner": "22",
+            "winner_name": "Jeremy Fletcher",
+            "gap": 0.987,
+            "driver_a_median": 98.665,
+            "driver_b_median": 97.678
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.182
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.223
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.697
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.386
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.57
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.382
+            }
+          }
+        },
+        "momentum": "driver_b_dominant",
+        "total_wins_a": 0,
+        "total_wins_b": 2
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "5",
+        "driver_b": "58",
+        "driver_a_name": "Beltre Curtis",
+        "driver_b_name": "Liam Harrison",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "5",
+            "winner_name": "Beltre Curtis",
+            "gap": 1.275,
+            "driver_a_median": 99.658,
+            "driver_b_median": 100.933
+          },
+          {
+            "race": "race_2",
+            "winner": "5",
+            "winner_name": "Beltre Curtis",
+            "gap": 0.888,
+            "driver_a_median": 98.665,
+            "driver_b_median": 99.552
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "5",
+              "leader_name": "Beltre Curtis",
+              "gap": 0.608
+            },
+            "race_2": {
+              "leader": "5",
+              "leader_name": "Beltre Curtis",
+              "gap": 0.288
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "5",
+              "leader_name": "Beltre Curtis",
+              "gap": 0.422
+            },
+            "race_2": {
+              "leader": "5",
+              "leader_name": "Beltre Curtis",
+              "gap": 0.369
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "5",
+              "leader_name": "Beltre Curtis",
+              "gap": 0.246
+            },
+            "race_2": {
+              "leader": "5",
+              "leader_name": "Beltre Curtis",
+              "gap": 0.24
+            }
+          }
+        },
+        "momentum": "driver_a_dominant",
+        "total_wins_a": 2,
+        "total_wins_b": 0
+      },
+      {
+        "team": "Copeland Motorsports",
+        "driver_a": "22",
+        "driver_b": "58",
+        "driver_a_name": "Jeremy Fletcher",
+        "driver_b_name": "Liam Harrison",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "22",
+            "winner_name": "Jeremy Fletcher",
+            "gap": 2.806,
+            "driver_a_median": 98.127,
+            "driver_b_median": 100.933
+          },
+          {
+            "race": "race_2",
+            "winner": "22",
+            "winner_name": "Jeremy Fletcher",
+            "gap": 1.874,
+            "driver_a_median": 97.678,
+            "driver_b_median": 99.552
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.79
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.511
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 1.119
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.755
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.816
+            },
+            "race_2": {
+              "leader": "22",
+              "leader_name": "Jeremy Fletcher",
+              "gap": 0.622
+            }
+          }
+        },
+        "momentum": "driver_a_dominant",
+        "total_wins_a": 2,
+        "total_wins_b": 0
+      },
+      {
+        "team": "TechSport",
+        "driver_a": "98",
+        "driver_b": "47",
+        "driver_a_name": "Max Schweid",
+        "driver_b_name": "Parker DeLong",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "47",
+            "winner_name": "Parker DeLong",
+            "gap": 0.059,
+            "driver_a_median": 98.66,
+            "driver_b_median": 98.601
+          },
+          {
+            "race": "race_2",
+            "winner": "47",
+            "winner_name": "Parker DeLong",
+            "gap": 0.099,
+            "driver_a_median": 98.5,
+            "driver_b_median": 98.401
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "98",
+              "leader_name": "Max Schweid",
+              "gap": 0.03
+            },
+            "race_2": {
+              "leader": "47",
+              "leader_name": "Parker DeLong",
+              "gap": 0.081
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "47",
+              "leader_name": "Parker DeLong",
+              "gap": 0.0
+            },
+            "race_2": {
+              "leader": "98",
+              "leader_name": "Max Schweid",
+              "gap": 0.164
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "47",
+              "leader_name": "Parker DeLong",
+              "gap": 0.02
+            },
+            "race_2": {
+              "leader": "47",
+              "leader_name": "Parker DeLong",
+              "gap": 0.028
+            }
+          }
+        },
+        "momentum": "driver_b_dominant",
+        "total_wins_a": 0,
+        "total_wins_b": 2
+      },
+      {
+        "team": "TechSport",
+        "driver_a": "98",
+        "driver_b": "72",
+        "driver_a_name": "Max Schweid",
+        "driver_b_name": "Ethan Goulart",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "98",
+            "winner_name": "Max Schweid",
+            "gap": 0.06,
+            "driver_a_median": 98.66,
+            "driver_b_median": 98.72
+          },
+          {
+            "race": "race_2",
+            "winner": "72",
+            "winner_name": "Ethan Goulart",
+            "gap": 0.099,
+            "driver_a_median": 98.5,
+            "driver_b_median": 98.401
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "72",
+              "leader_name": "Ethan Goulart",
+              "gap": 0.091
+            },
+            "race_2": {
+              "leader": "72",
+              "leader_name": "Ethan Goulart",
+              "gap": 0.163
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "72",
+              "leader_name": "Ethan Goulart",
+              "gap": 0.027
+            },
+            "race_2": {
+              "leader": "98",
+              "leader_name": "Max Schweid",
+              "gap": 0.075
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "98",
+              "leader_name": "Max Schweid",
+              "gap": 0.029
+            },
+            "race_2": {
+              "leader": "98",
+              "leader_name": "Max Schweid",
+              "gap": 0.113
+            }
+          }
+        },
+        "momentum": "driver_b_improving",
+        "total_wins_a": 1,
+        "total_wins_b": 1
+      },
+      {
+        "team": "TechSport",
+        "driver_a": "47",
+        "driver_b": "72",
+        "driver_a_name": "Parker DeLong",
+        "driver_b_name": "Ethan Goulart",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "47",
+            "winner_name": "Parker DeLong",
+            "gap": 0.119,
+            "driver_a_median": 98.601,
+            "driver_b_median": 98.72
+          },
+          {
+            "race": "race_2",
+            "winner": "72",
+            "winner_name": "Ethan Goulart",
+            "gap": 0.0,
+            "driver_a_median": 98.401,
+            "driver_b_median": 98.401
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "72",
+              "leader_name": "Ethan Goulart",
+              "gap": 0.121
+            },
+            "race_2": {
+              "leader": "72",
+              "leader_name": "Ethan Goulart",
+              "gap": 0.082
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "72",
+              "leader_name": "Ethan Goulart",
+              "gap": 0.027
+            },
+            "race_2": {
+              "leader": "72",
+              "leader_name": "Ethan Goulart",
+              "gap": 0.09
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "47",
+              "leader_name": "Parker DeLong",
+              "gap": 0.049
+            },
+            "race_2": {
+              "leader": "47",
+              "leader_name": "Parker DeLong",
+              "gap": 0.141
+            }
+          }
+        },
+        "momentum": "driver_b_improving",
+        "total_wins_a": 1,
+        "total_wins_b": 1
+      },
+      {
+        "team": "BSI Racing",
+        "driver_a": "51",
+        "driver_b": "13",
+        "driver_a_name": "Massimo Sunseri",
+        "driver_b_name": "Westin Workman",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "13",
+            "winner_name": "Westin Workman",
+            "gap": 1.98,
+            "driver_a_median": 100.246,
+            "driver_b_median": 98.266
+          },
+          {
+            "race": "race_2",
+            "winner": "13",
+            "winner_name": "Westin Workman",
+            "gap": 1.616,
+            "driver_a_median": 99.332,
+            "driver_b_median": 97.716
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "13",
+              "leader_name": "Westin Workman",
+              "gap": 0.468
+            },
+            "race_2": {
+              "leader": "13",
+              "leader_name": "Westin Workman",
+              "gap": 0.413
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "13",
+              "leader_name": "Westin Workman",
+              "gap": 0.983
+            },
+            "race_2": {
+              "leader": "13",
+              "leader_name": "Westin Workman",
+              "gap": 0.579
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "13",
+              "leader_name": "Westin Workman",
+              "gap": 0.467
+            },
+            "race_2": {
+              "leader": "13",
+              "leader_name": "Westin Workman",
+              "gap": 0.465
+            }
+          }
+        },
+        "momentum": "driver_b_dominant",
+        "total_wins_a": 0,
+        "total_wins_b": 2
+      },
+      {
+        "team": "RVA Graphics Motorsports by Speed Syndicate",
+        "driver_a": "111",
+        "driver_b": "55",
+        "driver_a_name": "Isabella Robusto",
+        "driver_b_name": "Spike Kohlbecker",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "55",
+            "winner_name": "Spike Kohlbecker",
+            "gap": 0.904,
+            "driver_a_median": 99.427,
+            "driver_b_median": 98.523
+          },
+          {
+            "race": "race_2",
+            "winner": "55",
+            "winner_name": "Spike Kohlbecker",
+            "gap": 0.3,
+            "driver_a_median": 98.575,
+            "driver_b_median": 98.274
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "55",
+              "leader_name": "Spike Kohlbecker",
+              "gap": 0.229
+            },
+            "race_2": {
+              "leader": "55",
+              "leader_name": "Spike Kohlbecker",
+              "gap": 0.061
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "55",
+              "leader_name": "Spike Kohlbecker",
+              "gap": 0.476
+            },
+            "race_2": {
+              "leader": "55",
+              "leader_name": "Spike Kohlbecker",
+              "gap": 0.208
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "55",
+              "leader_name": "Spike Kohlbecker",
+              "gap": 0.256
+            },
+            "race_2": {
+              "leader": "55",
+              "leader_name": "Spike Kohlbecker",
+              "gap": 0.094
+            }
+          }
+        },
+        "momentum": "driver_b_dominant",
+        "total_wins_a": 0,
+        "total_wins_b": 2
+      },
+      {
+        "team": "RVA Graphics Motorsports by Speed Syndicate",
+        "driver_a": "111",
+        "driver_b": "2",
+        "driver_a_name": "Isabella Robusto",
+        "driver_b_name": "Will Robusto",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "2",
+            "winner_name": "Will Robusto",
+            "gap": 0.817,
+            "driver_a_median": 99.427,
+            "driver_b_median": 98.61
+          },
+          {
+            "race": "race_2",
+            "winner": "2",
+            "winner_name": "Will Robusto",
+            "gap": 0.393,
+            "driver_a_median": 98.575,
+            "driver_b_median": 98.181
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "2",
+              "leader_name": "Will Robusto",
+              "gap": 0.075
+            },
+            "race_2": {
+              "leader": "2",
+              "leader_name": "Will Robusto",
+              "gap": 0.12
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "2",
+              "leader_name": "Will Robusto",
+              "gap": 0.388
+            },
+            "race_2": {
+              "leader": "2",
+              "leader_name": "Will Robusto",
+              "gap": 0.159
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "2",
+              "leader_name": "Will Robusto",
+              "gap": 0.3
+            },
+            "race_2": {
+              "leader": "2",
+              "leader_name": "Will Robusto",
+              "gap": 0.145
+            }
+          }
+        },
+        "momentum": "driver_b_dominant",
+        "total_wins_a": 0,
+        "total_wins_b": 2
+      },
+      {
+        "team": "RVA Graphics Motorsports by Speed Syndicate",
+        "driver_a": "55",
+        "driver_b": "2",
+        "driver_a_name": "Spike Kohlbecker",
+        "driver_b_name": "Will Robusto",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "55",
+            "winner_name": "Spike Kohlbecker",
+            "gap": 0.087,
+            "driver_a_median": 98.523,
+            "driver_b_median": 98.61
+          },
+          {
+            "race": "race_2",
+            "winner": "2",
+            "winner_name": "Will Robusto",
+            "gap": 0.093,
+            "driver_a_median": 98.274,
+            "driver_b_median": 98.181
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "55",
+              "leader_name": "Spike Kohlbecker",
+              "gap": 0.154
+            },
+            "race_2": {
+              "leader": "2",
+              "leader_name": "Will Robusto",
+              "gap": 0.059
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "55",
+              "leader_name": "Spike Kohlbecker",
+              "gap": 0.088
+            },
+            "race_2": {
+              "leader": "55",
+              "leader_name": "Spike Kohlbecker",
+              "gap": 0.049
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "2",
+              "leader_name": "Will Robusto",
+              "gap": 0.044
+            },
+            "race_2": {
+              "leader": "2",
+              "leader_name": "Will Robusto",
+              "gap": 0.051
+            }
+          }
+        },
+        "momentum": "driver_b_improving",
+        "total_wins_a": 1,
+        "total_wins_b": 1
+      },
+      {
+        "team": "Nitro Motorsports",
+        "driver_a": "31",
+        "driver_b": "113",
+        "driver_a_name": "Jackson Tovo",
+        "driver_b_name": "Ethan Tovo",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "113",
+            "winner_name": "Ethan Tovo",
+            "gap": 0.092,
+            "driver_a_median": 99.366,
+            "driver_b_median": 99.274
+          },
+          {
+            "race": "race_2",
+            "winner": "31",
+            "winner_name": "Jackson Tovo",
+            "gap": 0.322,
+            "driver_a_median": 98.477,
+            "driver_b_median": 98.799
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "113",
+              "leader_name": "Ethan Tovo",
+              "gap": 0.059
+            },
+            "race_2": {
+              "leader": "31",
+              "leader_name": "Jackson Tovo",
+              "gap": 0.034
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "31",
+              "leader_name": "Jackson Tovo",
+              "gap": 0.069
+            },
+            "race_2": {
+              "leader": "31",
+              "leader_name": "Jackson Tovo",
+              "gap": 0.073
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "113",
+              "leader_name": "Ethan Tovo",
+              "gap": 0.007
+            },
+            "race_2": {
+              "leader": "31",
+              "leader_name": "Jackson Tovo",
+              "gap": 0.163
+            }
+          }
+        },
+        "momentum": "driver_a_improving",
+        "total_wins_a": 1,
+        "total_wins_b": 1
+      },
+      {
+        "team": "Nitro Motorsports",
+        "driver_a": "31",
+        "driver_b": "80",
+        "driver_a_name": "Jackson Tovo",
+        "driver_b_name": "Paityn Feyen",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "31",
+            "winner_name": "Jackson Tovo",
+            "gap": 1.124,
+            "driver_a_median": 99.366,
+            "driver_b_median": 100.49
+          },
+          {
+            "race": "race_2",
+            "winner": "31",
+            "winner_name": "Jackson Tovo",
+            "gap": 1.209,
+            "driver_a_median": 98.477,
+            "driver_b_median": 99.686
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "31",
+              "leader_name": "Jackson Tovo",
+              "gap": 0.289
+            },
+            "race_2": {
+              "leader": "31",
+              "leader_name": "Jackson Tovo",
+              "gap": 0.374
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "31",
+              "leader_name": "Jackson Tovo",
+              "gap": 0.517
+            },
+            "race_2": {
+              "leader": "31",
+              "leader_name": "Jackson Tovo",
+              "gap": 0.427
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "31",
+              "leader_name": "Jackson Tovo",
+              "gap": 0.22
+            },
+            "race_2": {
+              "leader": "31",
+              "leader_name": "Jackson Tovo",
+              "gap": 0.448
+            }
+          }
+        },
+        "momentum": "driver_a_dominant",
+        "total_wins_a": 2,
+        "total_wins_b": 0
+      },
+      {
+        "team": "Nitro Motorsports",
+        "driver_a": "113",
+        "driver_b": "80",
+        "driver_a_name": "Ethan Tovo",
+        "driver_b_name": "Paityn Feyen",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "113",
+            "winner_name": "Ethan Tovo",
+            "gap": 1.216,
+            "driver_a_median": 99.274,
+            "driver_b_median": 100.49
+          },
+          {
+            "race": "race_2",
+            "winner": "113",
+            "winner_name": "Ethan Tovo",
+            "gap": 0.887,
+            "driver_a_median": 98.799,
+            "driver_b_median": 99.686
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "113",
+              "leader_name": "Ethan Tovo",
+              "gap": 0.348
+            },
+            "race_2": {
+              "leader": "113",
+              "leader_name": "Ethan Tovo",
+              "gap": 0.34
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "113",
+              "leader_name": "Ethan Tovo",
+              "gap": 0.448
+            },
+            "race_2": {
+              "leader": "113",
+              "leader_name": "Ethan Tovo",
+              "gap": 0.354
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "113",
+              "leader_name": "Ethan Tovo",
+              "gap": 0.227
+            },
+            "race_2": {
+              "leader": "113",
+              "leader_name": "Ethan Tovo",
+              "gap": 0.285
+            }
+          }
+        },
+        "momentum": "driver_a_dominant",
+        "total_wins_a": 2,
+        "total_wins_b": 0
+      },
+      {
+        "team": "Precision Racing LA",
+        "driver_a": "3",
+        "driver_b": "18",
+        "driver_a_name": "Karl Forman",
+        "driver_b_name": "Rutledge Wood",
+        "race_comparisons": [
+          {
+            "race": "race_1",
+            "winner": "3",
+            "winner_name": "Karl Forman",
+            "gap": 2.769,
+            "driver_a_median": 99.975,
+            "driver_b_median": 102.745
+          },
+          {
+            "race": "race_2",
+            "winner": "3",
+            "winner_name": "Karl Forman",
+            "gap": 1.565,
+            "driver_a_median": 99.457,
+            "driver_b_median": 101.022
+          }
+        ],
+        "sector_advantages": {
+          "S1": {
+            "race_1": {
+              "leader": "3",
+              "leader_name": "Karl Forman",
+              "gap": 0.67
+            },
+            "race_2": {
+              "leader": "3",
+              "leader_name": "Karl Forman",
+              "gap": 0.528
+            }
+          },
+          "S2": {
+            "race_1": {
+              "leader": "3",
+              "leader_name": "Karl Forman",
+              "gap": 0.874
+            },
+            "race_2": {
+              "leader": "3",
+              "leader_name": "Karl Forman",
+              "gap": 0.433
+            }
+          },
+          "S3": {
+            "race_1": {
+              "leader": "3",
+              "leader_name": "Karl Forman",
+              "gap": 0.994
+            },
+            "race_2": {
+              "leader": "3",
+              "leader_name": "Karl Forman",
+              "gap": 0.638
+            }
+          }
+        },
+        "momentum": "driver_a_dominant",
+        "total_wins_a": 2,
+        "total_wins_b": 0
+      }
+    ],
+    "consistency_rankings": [
+      {
+        "driver": "13",
+        "driver_name": "Westin Workman",
+        "team": "BSI Racing",
+        "race_1_std_dev": 4.955,
+        "race_2_std_dev": 0.247,
+        "improvement": 4.709,
+        "race_1_median": 98.266,
+        "race_2_median": 97.716,
+        "race_2_rank": 1
+      },
+      {
+        "driver": "21",
+        "driver_name": "Ford Koch",
+        "team": "Copeland Motorsports",
+        "race_1_std_dev": 4.371,
+        "race_2_std_dev": 0.297,
+        "improvement": 4.075,
+        "race_1_median": 99.411,
+        "race_2_median": 98.526,
+        "race_2_rank": 2
+      },
+      {
+        "driver": "88",
+        "driver_name": "Max Stallone",
+        "team": "PT Autosport with Copeland Motorsports",
+        "race_1_std_dev": 10.9,
+        "race_2_std_dev": 0.315,
+        "improvement": 10.586,
+        "race_1_median": 99.941,
+        "race_2_median": 98.606,
+        "race_2_rank": 3
+      },
+      {
+        "driver": "7",
+        "driver_name": "Jaxon Bell",
+        "team": "Copeland Motorsports",
+        "race_1_std_dev": 4.41,
+        "race_2_std_dev": 0.316,
+        "improvement": 4.094,
+        "race_1_median": 98.925,
+        "race_2_median": 98.67,
+        "race_2_rank": 4
+      },
+      {
+        "driver": "2",
+        "driver_name": "Will Robusto",
+        "team": "RVA Graphics Motorsports by Speed Syndicate",
+        "race_1_std_dev": 4.603,
+        "race_2_std_dev": 0.319,
+        "improvement": 4.284,
+        "race_1_median": 98.61,
+        "race_2_median": 98.181,
+        "race_2_rank": 5
+      },
+      {
+        "driver": "3",
+        "driver_name": "Karl Forman",
+        "team": "Precision Racing LA",
+        "race_1_std_dev": 4.447,
+        "race_2_std_dev": 0.324,
+        "improvement": 4.124,
+        "race_1_median": 99.975,
+        "race_2_median": 99.457,
+        "race_2_rank": 6
+      },
+      {
+        "driver": "22",
+        "driver_name": "Jeremy Fletcher",
+        "team": "Copeland Motorsports",
+        "race_1_std_dev": 4.715,
+        "race_2_std_dev": 0.324,
+        "improvement": 4.392,
+        "race_1_median": 98.127,
+        "race_2_median": 97.678,
+        "race_2_rank": 7
+      },
+      {
+        "driver": "5",
+        "driver_name": "Beltre Curtis",
+        "team": "Copeland Motorsports",
+        "race_1_std_dev": 4.68,
+        "race_2_std_dev": 0.368,
+        "improvement": 4.312,
+        "race_1_median": 99.658,
+        "race_2_median": 98.665,
+        "race_2_rank": 8
+      },
+      {
+        "driver": "55",
+        "driver_name": "Spike Kohlbecker",
+        "team": "RVA Graphics Motorsports by Speed Syndicate",
+        "race_1_std_dev": 4.516,
+        "race_2_std_dev": 0.389,
+        "improvement": 4.127,
+        "race_1_median": 98.523,
+        "race_2_median": 98.274,
+        "race_2_rank": 9
+      },
+      {
+        "driver": "46",
+        "driver_name": "Lucas Weisenberg",
+        "team": "Lucas Racing",
+        "race_1_std_dev": 5.643,
+        "race_2_std_dev": 0.39,
+        "improvement": 5.253,
+        "race_1_median": 99.051,
+        "race_2_median": 98.274,
+        "race_2_rank": 10
+      },
+      {
+        "driver": "72",
+        "driver_name": "Ethan Goulart",
+        "team": "TechSport",
+        "race_1_std_dev": 4.888,
+        "race_2_std_dev": 0.427,
+        "improvement": 4.461,
+        "race_1_median": 98.72,
+        "race_2_median": 98.401,
+        "race_2_rank": 11
+      },
+      {
+        "driver": "111",
+        "driver_name": "Isabella Robusto",
+        "team": "RVA Graphics Motorsports by Speed Syndicate",
+        "race_1_std_dev": 4.277,
+        "race_2_std_dev": 0.482,
+        "improvement": 3.795,
+        "race_1_median": 99.427,
+        "race_2_median": 98.575,
+        "race_2_rank": 12
+      },
+      {
+        "driver": "47",
+        "driver_name": "Parker DeLong",
+        "team": "TechSport",
+        "race_1_std_dev": 4.586,
+        "race_2_std_dev": 0.554,
+        "improvement": 4.032,
+        "race_1_median": 98.601,
+        "race_2_median": 98.401,
+        "race_2_rank": 13
+      },
+      {
+        "driver": "51",
+        "driver_name": "Massimo Sunseri",
+        "team": "BSI Racing",
+        "race_1_std_dev": 5.918,
+        "race_2_std_dev": 0.666,
+        "improvement": 5.252,
+        "race_1_median": 100.246,
+        "race_2_median": 99.332,
+        "race_2_rank": 14
+      },
+      {
+        "driver": "18",
+        "driver_name": "Rutledge Wood",
+        "team": "Precision Racing LA",
+        "race_1_std_dev": 4.236,
+        "race_2_std_dev": 1.469,
+        "improvement": 2.767,
+        "race_1_median": 102.745,
+        "race_2_median": 101.022,
+        "race_2_rank": 15
+      },
+      {
+        "driver": "41",
+        "driver_name": "Jenson Sofronas",
+        "team": "Copeland Motorsports",
+        "race_1_std_dev": 4.404,
+        "race_2_std_dev": 1.99,
+        "improvement": 2.414,
+        "race_1_median": 99.001,
+        "race_2_median": 98.403,
+        "race_2_rank": 16
+      },
+      {
+        "driver": "98",
+        "driver_name": "Max Schweid",
+        "team": "TechSport",
+        "race_1_std_dev": 4.551,
+        "race_2_std_dev": 2.011,
+        "improvement": 2.541,
+        "race_1_median": 98.66,
+        "race_2_median": 98.5,
+        "race_2_rank": 17
+      },
+      {
+        "driver": "31",
+        "driver_name": "Jackson Tovo",
+        "team": "Nitro Motorsports",
+        "race_1_std_dev": 4.316,
+        "race_2_std_dev": 2.206,
+        "improvement": 2.109,
+        "race_1_median": 99.366,
+        "race_2_median": 98.477,
+        "race_2_rank": 18
+      },
+      {
+        "driver": "80",
+        "driver_name": "Paityn Feyen",
+        "team": "Nitro Motorsports",
+        "race_1_std_dev": 5.102,
+        "race_2_std_dev": 2.583,
+        "improvement": 2.519,
+        "race_1_median": 100.49,
+        "race_2_median": 99.686,
+        "race_2_rank": 19
+      },
+      {
+        "driver": "58",
+        "driver_name": "Liam Harrison",
+        "team": "Copeland Motorsports",
+        "race_1_std_dev": 4.28,
+        "race_2_std_dev": 2.633,
+        "improvement": 1.647,
+        "race_1_median": 100.933,
+        "race_2_median": 99.552,
+        "race_2_rank": 20
+      },
+      {
+        "driver": "113",
+        "driver_name": "Ethan Tovo",
+        "team": "Nitro Motorsports",
+        "race_1_std_dev": 4.3,
+        "race_2_std_dev": 22.177,
+        "improvement": -17.877,
+        "race_1_median": 99.274,
+        "race_2_median": 98.799,
+        "race_2_rank": 21
+      },
+      {
+        "driver": "93",
+        "driver_name": "Patrick Brunson",
+        "team": "Eagles Canyon Racing Powered by Fast Track",
+        "race_1_std_dev": 4.352,
+        "race_2_std_dev": 32.015,
+        "improvement": -27.663,
+        "race_1_median": 100.074,
+        "race_2_median": 99.754,
+        "race_2_rank": 22
+      }
+    ],
+    "improvement_rankings": [
+      {
+        "driver": "18",
+        "driver_name": "Rutledge Wood",
+        "team": "Precision Racing LA",
+        "improvement_seconds": 1.723,
+        "improvement_percent": 1.68,
+        "race_1_median": 102.745,
+        "race_2_median": 101.022,
+        "rank": 1
+      },
+      {
+        "driver": "58",
+        "driver_name": "Liam Harrison",
+        "team": "Copeland Motorsports",
+        "improvement_seconds": 1.381,
+        "improvement_percent": 1.37,
+        "race_1_median": 100.933,
+        "race_2_median": 99.552,
+        "rank": 2
+      },
+      {
+        "driver": "88",
+        "driver_name": "Max Stallone",
+        "team": "PT Autosport with Copeland Motorsports",
+        "improvement_seconds": 1.335,
+        "improvement_percent": 1.34,
+        "race_1_median": 99.941,
+        "race_2_median": 98.606,
+        "rank": 3
+      },
+      {
+        "driver": "5",
+        "driver_name": "Beltre Curtis",
+        "team": "Copeland Motorsports",
+        "improvement_seconds": 0.993,
+        "improvement_percent": 1.0,
+        "race_1_median": 99.658,
+        "race_2_median": 98.665,
+        "rank": 4
+      },
+      {
+        "driver": "51",
+        "driver_name": "Massimo Sunseri",
+        "team": "BSI Racing",
+        "improvement_seconds": 0.914,
+        "improvement_percent": 0.91,
+        "race_1_median": 100.246,
+        "race_2_median": 99.332,
+        "rank": 5
+      },
+      {
+        "driver": "21",
+        "driver_name": "Ford Koch",
+        "team": "Copeland Motorsports",
+        "improvement_seconds": 0.885,
+        "improvement_percent": 0.89,
+        "race_1_median": 99.411,
+        "race_2_median": 98.526,
+        "rank": 6
+      },
+      {
+        "driver": "31",
+        "driver_name": "Jackson Tovo",
+        "team": "Nitro Motorsports",
+        "improvement_seconds": 0.889,
+        "improvement_percent": 0.89,
+        "race_1_median": 99.366,
+        "race_2_median": 98.477,
+        "rank": 7
+      },
+      {
+        "driver": "111",
+        "driver_name": "Isabella Robusto",
+        "team": "RVA Graphics Motorsports by Speed Syndicate",
+        "improvement_seconds": 0.853,
+        "improvement_percent": 0.86,
+        "race_1_median": 99.427,
+        "race_2_median": 98.575,
+        "rank": 8
+      },
+      {
+        "driver": "80",
+        "driver_name": "Paityn Feyen",
+        "team": "Nitro Motorsports",
+        "improvement_seconds": 0.804,
+        "improvement_percent": 0.8,
+        "race_1_median": 100.49,
+        "race_2_median": 99.686,
+        "rank": 9
+      },
+      {
+        "driver": "46",
+        "driver_name": "Lucas Weisenberg",
+        "team": "Lucas Racing",
+        "improvement_seconds": 0.776,
+        "improvement_percent": 0.78,
+        "race_1_median": 99.051,
+        "race_2_median": 98.274,
+        "rank": 10
+      },
+      {
+        "driver": "41",
+        "driver_name": "Jenson Sofronas",
+        "team": "Copeland Motorsports",
+        "improvement_seconds": 0.598,
+        "improvement_percent": 0.6,
+        "race_1_median": 99.001,
+        "race_2_median": 98.403,
+        "rank": 11
+      },
+      {
+        "driver": "13",
+        "driver_name": "Westin Workman",
+        "team": "BSI Racing",
+        "improvement_seconds": 0.55,
+        "improvement_percent": 0.56,
+        "race_1_median": 98.266,
+        "race_2_median": 97.716,
+        "rank": 12
+      },
+      {
+        "driver": "3",
+        "driver_name": "Karl Forman",
+        "team": "Precision Racing LA",
+        "improvement_seconds": 0.518,
+        "improvement_percent": 0.52,
+        "race_1_median": 99.975,
+        "race_2_median": 99.457,
+        "rank": 13
+      },
+      {
+        "driver": "113",
+        "driver_name": "Ethan Tovo",
+        "team": "Nitro Motorsports",
+        "improvement_seconds": 0.475,
+        "improvement_percent": 0.48,
+        "race_1_median": 99.274,
+        "race_2_median": 98.799,
+        "rank": 14
+      },
+      {
+        "driver": "22",
+        "driver_name": "Jeremy Fletcher",
+        "team": "Copeland Motorsports",
+        "improvement_seconds": 0.45,
+        "improvement_percent": 0.46,
+        "race_1_median": 98.127,
+        "race_2_median": 97.678,
+        "rank": 15
+      },
+      {
+        "driver": "2",
+        "driver_name": "Will Robusto",
+        "team": "RVA Graphics Motorsports by Speed Syndicate",
+        "improvement_seconds": 0.428,
+        "improvement_percent": 0.43,
+        "race_1_median": 98.61,
+        "race_2_median": 98.181,
+        "rank": 16
+      },
+      {
+        "driver": "93",
+        "driver_name": "Patrick Brunson",
+        "team": "Eagles Canyon Racing Powered by Fast Track",
+        "improvement_seconds": 0.32,
+        "improvement_percent": 0.32,
+        "race_1_median": 100.074,
+        "race_2_median": 99.754,
+        "rank": 17
+      },
+      {
+        "driver": "72",
+        "driver_name": "Ethan Goulart",
+        "team": "TechSport",
+        "improvement_seconds": 0.319,
+        "improvement_percent": 0.32,
+        "race_1_median": 98.72,
+        "race_2_median": 98.401,
+        "rank": 18
+      },
+      {
+        "driver": "7",
+        "driver_name": "Jaxon Bell",
+        "team": "Copeland Motorsports",
+        "improvement_seconds": 0.255,
+        "improvement_percent": 0.26,
+        "race_1_median": 98.925,
+        "race_2_median": 98.67,
+        "rank": 19
+      },
+      {
+        "driver": "55",
+        "driver_name": "Spike Kohlbecker",
+        "team": "RVA Graphics Motorsports by Speed Syndicate",
+        "improvement_seconds": 0.249,
+        "improvement_percent": 0.25,
+        "race_1_median": 98.523,
+        "race_2_median": 98.274,
+        "rank": 20
+      },
+      {
+        "driver": "47",
+        "driver_name": "Parker DeLong",
+        "team": "TechSport",
+        "improvement_seconds": 0.2,
+        "improvement_percent": 0.2,
+        "race_1_median": 98.601,
+        "race_2_median": 98.401,
+        "rank": 21
+      },
+      {
+        "driver": "98",
+        "driver_name": "Max Schweid",
+        "team": "TechSport",
+        "improvement_seconds": 0.16,
+        "improvement_percent": 0.16,
+        "race_1_median": 98.66,
+        "race_2_median": 98.5,
+        "rank": 22
+      }
+    ],
+    "visualization_data": {
+      "consistency_quadrant": [
+        {
+          "driver": "13",
+          "driver_name": "Westin Workman",
+          "speed": 97.716,
+          "consistency": 0.247
+        },
+        {
+          "driver": "21",
+          "driver_name": "Ford Koch",
+          "speed": 98.526,
+          "consistency": 0.297
+        },
+        {
+          "driver": "88",
+          "driver_name": "Max Stallone",
+          "speed": 98.606,
+          "consistency": 0.315
+        },
+        {
+          "driver": "7",
+          "driver_name": "Jaxon Bell",
+          "speed": 98.67,
+          "consistency": 0.316
+        },
+        {
+          "driver": "2",
+          "driver_name": "Will Robusto",
+          "speed": 98.181,
+          "consistency": 0.319
+        },
+        {
+          "driver": "3",
+          "driver_name": "Karl Forman",
+          "speed": 99.457,
+          "consistency": 0.324
+        },
+        {
+          "driver": "22",
+          "driver_name": "Jeremy Fletcher",
+          "speed": 97.678,
+          "consistency": 0.324
+        },
+        {
+          "driver": "5",
+          "driver_name": "Beltre Curtis",
+          "speed": 98.665,
+          "consistency": 0.368
+        },
+        {
+          "driver": "55",
+          "driver_name": "Spike Kohlbecker",
+          "speed": 98.274,
+          "consistency": 0.389
+        },
+        {
+          "driver": "46",
+          "driver_name": "Lucas Weisenberg",
+          "speed": 98.274,
+          "consistency": 0.39
+        },
+        {
+          "driver": "72",
+          "driver_name": "Ethan Goulart",
+          "speed": 98.401,
+          "consistency": 0.427
+        },
+        {
+          "driver": "111",
+          "driver_name": "Isabella Robusto",
+          "speed": 98.575,
+          "consistency": 0.482
+        },
+        {
+          "driver": "47",
+          "driver_name": "Parker DeLong",
+          "speed": 98.401,
+          "consistency": 0.554
+        },
+        {
+          "driver": "51",
+          "driver_name": "Massimo Sunseri",
+          "speed": 99.332,
+          "consistency": 0.666
+        },
+        {
+          "driver": "18",
+          "driver_name": "Rutledge Wood",
+          "speed": 101.022,
+          "consistency": 1.469
+        },
+        {
+          "driver": "41",
+          "driver_name": "Jenson Sofronas",
+          "speed": 98.403,
+          "consistency": 1.99
+        },
+        {
+          "driver": "98",
+          "driver_name": "Max Schweid",
+          "speed": 98.5,
+          "consistency": 2.011
+        },
+        {
+          "driver": "31",
+          "driver_name": "Jackson Tovo",
+          "speed": 98.477,
+          "consistency": 2.206
+        },
+        {
+          "driver": "80",
+          "driver_name": "Paityn Feyen",
+          "speed": 99.686,
+          "consistency": 2.583
+        },
+        {
+          "driver": "58",
+          "driver_name": "Liam Harrison",
+          "speed": 99.552,
+          "consistency": 2.633
+        },
+        {
+          "driver": "113",
+          "driver_name": "Ethan Tovo",
+          "speed": 98.799,
+          "consistency": 22.177
+        },
+        {
+          "driver": "93",
+          "driver_name": "Patrick Brunson",
+          "speed": 99.754,
+          "consistency": 32.015
+        }
+      ],
+      "improvement_trends": []
+    }
+  },
+  "metadata": {
+    "races_analyzed": [
+      "race_1",
+      "race_2"
+    ],
+    "total_drivers": 22,
+    "generation_timestamp": "2025-11-17T15:46:36.872057"
+  }
+}

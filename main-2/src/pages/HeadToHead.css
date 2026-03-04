@@ -1,0 +1,328 @@
+/* Head to Head Specific Styles */
+
+.h2h-content {
+  animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.h2h-team-header {
+  margin-bottom: 2rem;
+}
+
+.h2h-team-drivers {
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin-top: 0.5rem;
+}
+
+/* Summary Grid */
+.h2h-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.h2h-summary-card {
+  text-align: center;
+  padding: 2rem 1.5rem;
+  background: linear-gradient(135deg, var(--pit-black), var(--asphalt));
+  border: 2px solid var(--electric-blue);
+  position: relative;
+  overflow: hidden;
+}
+
+.h2h-summary-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--electric-blue), var(--racing-red));
+}
+
+.h2h-summary-label {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 1rem;
+}
+
+.h2h-summary-value {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 900;
+  color: var(--electric-blue);
+  text-shadow: 0 0 20px rgba(0, 217, 255, 0.5);
+}
+
+/* Weekend Scores */
+.h2h-scores {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 1rem 0;
+}
+
+.h2h-score-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.h2h-driver-name {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.h2h-score-bar-container {
+  width: 100%;
+  height: 40px;
+  background: var(--asphalt);
+  border: 1px solid var(--grid-line);
+  border-radius: 6px;
+  overflow: hidden;
+  position: relative;
+}
+
+.h2h-score-bar {
+  height: 100%;
+  background: linear-gradient(90deg, var(--racing-red), var(--electric-blue));
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 1rem;
+  transition: width 0.6s ease;
+  position: relative;
+  box-shadow: 0 0 20px rgba(230, 57, 70, 0.5);
+}
+
+.h2h-score-bar::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+  animation: shimmer 2s infinite;
+}
+
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+.h2h-score-text {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  z-index: 1;
+  position: relative;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Sessions Table */
+.h2h-sessions-table {
+  overflow-x: auto;
+}
+
+.h2h-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--font-body);
+}
+
+.h2h-th {
+  padding: 1rem;
+  text-align: left;
+  font-family: var(--font-display);
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-bottom: 2px solid var(--racing-red);
+  background: var(--asphalt);
+}
+
+.h2h-tr {
+  border-bottom: 1px solid var(--grid-line);
+  transition: all 0.2s ease;
+}
+
+.h2h-tr:hover {
+  background: rgba(230, 57, 70, 0.05);
+  transform: translateX(4px);
+}
+
+.h2h-td {
+  padding: 1rem;
+  font-size: 0.95rem;
+}
+
+.session-name {
+  font-family: var(--font-mono);
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+
+.winner-name {
+  font-family: var(--font-display);
+  color: var(--text-primary);
+  font-weight: 700;
+}
+
+.gap-value {
+  font-family: var(--font-mono);
+  color: var(--electric-blue);
+  font-weight: 700;
+  text-align: right;
+}
+
+/* Metrics Grid */
+.h2h-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.h2h-metric-card {
+  background: var(--asphalt);
+  border: 1px solid var(--grid-line);
+  border-radius: 6px;
+  padding: 1.5rem;
+  transition: all 0.2s ease;
+}
+
+.h2h-metric-card:hover {
+  border-color: var(--racing-red);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(230, 57, 70, 0.2);
+}
+
+.h2h-metric-driver {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--grid-line);
+}
+
+.h2h-metric-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.h2h-metric-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.h2h-metric-label {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.h2h-metric-value {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--electric-blue);
+}
+
+/* Data Container */
+.h2h-data-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+  .h2h-metrics-grid {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .h2h-summary-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .h2h-metrics-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .h2h-th,
+  .h2h-td {
+    padding: 0.75rem 0.5rem;
+    font-size: 0.85rem;
+  }
+  
+  .h2h-summary-value {
+    font-size: 1.5rem;
+  }
+  
+  .h2h-metric-value {
+    font-size: 1.25rem;
+  }
+}
+
+/* Empty State (reusing from DriverProfile.css but ensuring it's available) */
+.empty-state {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.empty-state-content {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.empty-state-icon {
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+  opacity: 0.5;
+}
+
+.empty-state-title {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.empty-state-text {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}

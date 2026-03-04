@@ -1,0 +1,209 @@
+.talent-development {
+  animation: fadeIn 0.3s ease;
+}
+
+.section-description {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.teammate-section {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--grid-line);
+}
+
+.teammate-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+@media (max-width: 1200px) {
+  .teammate-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.teammate-card {
+  background: var(--carbon-black);
+  border: 1px solid var(--grid-line);
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.teammate-card:hover {
+  border-color: var(--racing-red);
+  box-shadow: 0 4px 20px rgba(230, 57, 70, 0.15);
+  transform: translateY(-4px);
+}
+
+.teammate-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--grid-line);
+}
+
+.team-name {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+}
+
+.momentum-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  background: var(--pit-black);
+  border-radius: 20px;
+  border: 1px solid var(--electric-blue);
+}
+
+.momentum-icon {
+  font-size: 1.2rem;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+}
+
+.momentum-text {
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  color: var(--electric-blue);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.drivers-comparison {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+
+.driver-side {
+  flex: 1;
+  text-align: center;
+}
+
+.driver-number {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--electric-blue);
+  margin-bottom: 0.25rem;
+  line-height: 1;
+}
+
+.driver-side.driver-b .driver-number {
+  color: var(--warning-yellow);
+}
+
+.driver-name {
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  color: var(--text-primary);
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.driver-wins {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+}
+
+.vs-divider {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--racing-red);
+  padding: 0 1rem;
+}
+
+.race-results {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.race-result {
+  background: var(--pit-black);
+  border: 1px solid var(--grid-line);
+  border-radius: 4px;
+  padding: 0.75rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.race-label {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+}
+
+.race-winner {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.winner-name {
+  color: var(--neon-green);
+  font-weight: 700;
+}
+
+.race-gap {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.sector-radar {
+  margin-top: 1rem;
+}
+
+.sector-radar h4 {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-align: center;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+@media (max-width: 768px) {
+  .teammate-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .drivers-comparison {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .vs-divider {
+    padding: 0.5rem 0;
+  }
+}

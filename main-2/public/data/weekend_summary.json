@@ -1,0 +1,1539 @@
+{
+  "event_name": "SRO GR Cup at Barber Motorsports Park 2025",
+  "weekend_champions": {
+    "ultimate_fastest_lap": {
+      "value": 96.493,
+      "driver": "Westin Workman",
+      "session": "qualifying_2"
+    },
+    "ultimate_optimal_lap": {
+      "value": 96.493,
+      "driver": "Westin Workman",
+      "session": "qualifying_2"
+    },
+    "best_s1": {
+      "value": 26.237,
+      "driver": "Ethan Goulart",
+      "session": "qualifying_2"
+    },
+    "best_s2": {
+      "value": 42.019,
+      "driver": "Westin Workman",
+      "session": "qualifying_2"
+    },
+    "best_s3": {
+      "value": 28.149,
+      "driver": "Westin Workman",
+      "session": "qualifying_2"
+    },
+    "top_alpha_score": {
+      "value": 1.3318178628501822,
+      "driver": "Jeremy Fletcher",
+      "session": "race_2"
+    }
+  },
+  "weekend_alpha_performance": [
+    {
+      "driver_name": "Westin Workman",
+      "avg_rank": 1.1666666666666667,
+      "weekend_alpha_score": 1.6576964487926822
+    },
+    {
+      "driver_name": "Jeremy Fletcher",
+      "avg_rank": 2.5,
+      "weekend_alpha_score": 1.443800132819433
+    },
+    {
+      "driver_name": "Max Schweid",
+      "avg_rank": 4.833333333333333,
+      "weekend_alpha_score": 1.0694815798662467
+    },
+    {
+      "driver_name": "Ethan Goulart",
+      "avg_rank": 4.833333333333333,
+      "weekend_alpha_score": 1.0694815798662467
+    },
+    {
+      "driver_name": "Will Robusto",
+      "avg_rank": 5.166666666666667,
+      "weekend_alpha_score": 1.0160075008729341
+    },
+    {
+      "driver_name": "Spike Kohlbecker",
+      "avg_rank": 5.166666666666667,
+      "weekend_alpha_score": 1.0160075008729341
+    },
+    {
+      "driver_name": "Parker DeLong",
+      "avg_rank": 6.0,
+      "weekend_alpha_score": 0.8823223033896535
+    },
+    {
+      "driver_name": "Lucas Weisenberg",
+      "avg_rank": 7.0,
+      "weekend_alpha_score": 0.7219000664097165
+    },
+    {
+      "driver_name": "Jackson Tovo",
+      "avg_rank": 10.0,
+      "weekend_alpha_score": 0.24063335546990547
+    },
+    {
+      "driver_name": "Jaxon Bell",
+      "avg_rank": 11.333333333333334,
+      "weekend_alpha_score": 0.02673703949665607
+    },
+    {
+      "driver_name": "Jenson Sofronas",
+      "avg_rank": 11.5,
+      "weekend_alpha_score": 0.0
+    },
+    {
+      "driver_name": "Ford Koch",
+      "avg_rank": 12.166666666666666,
+      "weekend_alpha_score": -0.10694815798662456
+    },
+    {
+      "driver_name": "Isabella Robusto",
+      "avg_rank": 12.666666666666666,
+      "weekend_alpha_score": -0.18715927647659306
+    },
+    {
+      "driver_name": "Max Stallone",
+      "avg_rank": 13.833333333333334,
+      "weekend_alpha_score": -0.3743185529531864
+    },
+    {
+      "driver_name": "Ethan Tovo",
+      "avg_rank": 14.5,
+      "weekend_alpha_score": -0.48126671093981094
+    },
+    {
+      "driver_name": "Beltre Curtis",
+      "avg_rank": 14.833333333333334,
+      "weekend_alpha_score": -0.5347407899331234
+    },
+    {
+      "driver_name": "Massimo Sunseri",
+      "avg_rank": 17.0,
+      "weekend_alpha_score": -0.8823223033896535
+    },
+    {
+      "driver_name": "Karl Forman",
+      "avg_rank": 17.166666666666668,
+      "weekend_alpha_score": -0.9090593428863097
+    },
+    {
+      "driver_name": "Patrick Brunson",
+      "avg_rank": 19.333333333333332,
+      "weekend_alpha_score": -1.2566408563428395
+    },
+    {
+      "driver_name": "Paityn Feyen",
+      "avg_rank": 19.5,
+      "weekend_alpha_score": -1.283377895839496
+    },
+    {
+      "driver_name": "Liam Harrison",
+      "avg_rank": 20.5,
+      "weekend_alpha_score": -1.443800132819433
+    },
+    {
+      "driver_name": "Rutledge Wood",
+      "avg_rank": 22.0,
+      "weekend_alpha_score": -1.6844334882893384
+    }
+  ],
+  "performance_progression": {
+    "drivers": [
+      {
+        "driver_name": "Beltre Curtis",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 98.94800000000001,
+            "optimal_lap": 98.75800000000001,
+            "alpha_score": -0.06605521566452215
+          },
+          "practice_2": {
+            "fastest_lap": 99.961,
+            "optimal_lap": 99.371,
+            "alpha_score": -0.2690978352171842
+          },
+          "qualifying": {
+            "fastest_lap": 98.336,
+            "optimal_lap": 98.137,
+            "alpha_score": -0.16512885733589963
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.59700000000001,
+            "optimal_lap": 97.316,
+            "alpha_score": 0.44303064336124676
+          },
+          "race_1": {
+            "fastest_lap": 99.083,
+            "optimal_lap": 98.692,
+            "alpha_score": -0.07447971066105347
+          },
+          "race_2": {
+            "fastest_lap": 98.185,
+            "optimal_lap": 98.063,
+            "alpha_score": -0.05545790074645494
+          }
+        }
+      },
+      {
+        "driver_name": "Ethan Goulart",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 98.666,
+            "optimal_lap": 98.59199999999998,
+            "alpha_score": 0.40662182006593817
+          },
+          "practice_2": {
+            "fastest_lap": 98.424,
+            "optimal_lap": 98.277,
+            "alpha_score": 0.7102283336744067
+          },
+          "qualifying": {
+            "fastest_lap": 97.112,
+            "optimal_lap": 96.95599999999999,
+            "alpha_score": 0.8542072037575453
+          },
+          "qualifying_2": {
+            "fastest_lap": 96.846,
+            "optimal_lap": 96.75699999999999,
+            "alpha_score": 0.3679828047404095
+          },
+          "race_1": {
+            "fastest_lap": 97.737,
+            "optimal_lap": 97.712,
+            "alpha_score": 0.8481483793627063
+          },
+          "race_2": {
+            "fastest_lap": 97.945,
+            "optimal_lap": 97.69200000000001,
+            "alpha_score": 0.5329060263653783
+          }
+        }
+      },
+      {
+        "driver_name": "Ethan Tovo",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 99.181,
+            "optimal_lap": 98.73599999999999,
+            "alpha_score": 0.1916308959282039
+          },
+          "practice_2": {
+            "fastest_lap": 99.419,
+            "optimal_lap": 99.16,
+            "alpha_score": -0.13653350777074832
+          },
+          "qualifying": {
+            "fastest_lap": 97.922,
+            "optimal_lap": 97.667,
+            "alpha_score": 0.21443254978331305
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.581,
+            "optimal_lap": 97.417,
+            "alpha_score": 0.09080584694071661
+          },
+          "race_1": {
+            "fastest_lap": 99.056,
+            "optimal_lap": 98.554,
+            "alpha_score": 0.1375805003515114
+          },
+          "race_2": {
+            "fastest_lap": 98.382,
+            "optimal_lap": 97.95,
+            "alpha_score": 0.063647817061206
+          }
+        }
+      },
+      {
+        "driver_name": "Ford Koch",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 98.815,
+            "optimal_lap": 98.66000000000001,
+            "alpha_score": 0.21987676496601813
+          },
+          "practice_2": {
+            "fastest_lap": 99.479,
+            "optimal_lap": 99.11,
+            "alpha_score": -0.038633136825019336
+          },
+          "qualifying": {
+            "fastest_lap": 97.946,
+            "optimal_lap": 97.83,
+            "alpha_score": -0.05436923189884231
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.465,
+            "optimal_lap": 97.379,
+            "alpha_score": 0.10235685093628605
+          },
+          "race_1": {
+            "fastest_lap": 98.775,
+            "optimal_lap": 98.564,
+            "alpha_score": -0.006302376661952609
+          },
+          "race_2": {
+            "fastest_lap": 98.074,
+            "optimal_lap": 97.86699999999999,
+            "alpha_score": 0.271916326378162
+          }
+        }
+      },
+      {
+        "driver_name": "Isabella Robusto",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 99.767,
+            "optimal_lap": 99.576,
+            "alpha_score": -0.19600646253593784
+          },
+          "practice_2": {
+            "fastest_lap": 98.876,
+            "optimal_lap": 98.734,
+            "alpha_score": -0.1717211875833169
+          },
+          "qualifying": {
+            "fastest_lap": 97.908,
+            "optimal_lap": 97.794,
+            "alpha_score": 0.16672988654273602
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.36500000000001,
+            "optimal_lap": 97.36500000000001,
+            "alpha_score": 0.06850424900696749
+          },
+          "race_1": {
+            "fastest_lap": 98.944,
+            "optimal_lap": 98.778,
+            "alpha_score": -0.1092352543287703
+          },
+          "race_2": {
+            "fastest_lap": 98.304,
+            "optimal_lap": 97.944,
+            "alpha_score": 0.14179974423925323
+          }
+        }
+      },
+      {
+        "driver_name": "Jackson Tovo",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 99.07,
+            "optimal_lap": 98.737,
+            "alpha_score": 0.09915324035377031
+          },
+          "practice_2": {
+            "fastest_lap": 99.24799999999999,
+            "optimal_lap": 98.992,
+            "alpha_score": 0.20683807359149226
+          },
+          "qualifying": {
+            "fastest_lap": 97.559,
+            "optimal_lap": 97.392,
+            "alpha_score": 0.40420979255288453
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.381,
+            "optimal_lap": 97.271,
+            "alpha_score": 0.21057194884665312
+          },
+          "race_1": {
+            "fastest_lap": 98.542,
+            "optimal_lap": 98.37400000000001,
+            "alpha_score": 0.027383478806771267
+          },
+          "race_2": {
+            "fastest_lap": 97.882,
+            "optimal_lap": 97.69200000000001,
+            "alpha_score": 0.4596498251642905
+          }
+        }
+      },
+      {
+        "driver_name": "Jaxon Bell",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 98.821,
+            "optimal_lap": 98.571,
+            "alpha_score": 0.5118105879188447
+          },
+          "practice_2": {
+            "fastest_lap": 98.929,
+            "optimal_lap": 98.828,
+            "alpha_score": 0.11952339226698287
+          },
+          "qualifying": {
+            "fastest_lap": 97.674,
+            "optimal_lap": 97.535,
+            "alpha_score": -0.04662437612696485
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.48400000000001,
+            "optimal_lap": 97.32300000000001,
+            "alpha_score": 0.21799105441300037
+          },
+          "race_1": {
+            "fastest_lap": 98.581,
+            "optimal_lap": 98.275,
+            "alpha_score": 0.432292770681871
+          },
+          "race_2": {
+            "fastest_lap": 98.237,
+            "optimal_lap": 97.946,
+            "alpha_score": 0.14135136815312593
+          }
+        }
+      },
+      {
+        "driver_name": "Jenson Sofronas",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 99.261,
+            "optimal_lap": 99.053,
+            "alpha_score": -0.07550259281042222
+          },
+          "practice_2": {
+            "fastest_lap": 99.169,
+            "optimal_lap": 98.944,
+            "alpha_score": 0.18524901356206533
+          },
+          "qualifying": {
+            "fastest_lap": 98.12299999999999,
+            "optimal_lap": 97.847,
+            "alpha_score": 0.17481500572978406
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.456,
+            "optimal_lap": 97.28200000000001,
+            "alpha_score": 0.4518418258474675
+          },
+          "race_1": {
+            "fastest_lap": 98.39099999999999,
+            "optimal_lap": 98.272,
+            "alpha_score": 0.34010141037710134
+          },
+          "race_2": {
+            "fastest_lap": 97.945,
+            "optimal_lap": 97.678,
+            "alpha_score": 0.5334686632616947
+          }
+        }
+      },
+      {
+        "driver_name": "Jeremy Fletcher",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 98.03399999999999,
+            "optimal_lap": 97.91300000000001,
+            "alpha_score": 0.9496473550498901
+          },
+          "practice_2": {
+            "fastest_lap": 98.09899999999999,
+            "optimal_lap": 97.97099999999999,
+            "alpha_score": 1.0502072237156237
+          },
+          "qualifying": {
+            "fastest_lap": 97.201,
+            "optimal_lap": 97.091,
+            "alpha_score": 0.45985271873585515
+          },
+          "qualifying_2": {
+            "fastest_lap": 96.875,
+            "optimal_lap": 96.86399999999999,
+            "alpha_score": 0.5837356965188517
+          },
+          "race_1": {
+            "fastest_lap": 97.74600000000001,
+            "optimal_lap": 97.702,
+            "alpha_score": 1.015507138979515
+          },
+          "race_2": {
+            "fastest_lap": 97.304,
+            "optimal_lap": 97.082,
+            "alpha_score": 1.3318178628501822
+          }
+        }
+      },
+      {
+        "driver_name": "Karl Forman",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 100.006,
+            "optimal_lap": 99.768,
+            "alpha_score": -0.458903703460872
+          },
+          "practice_2": {
+            "fastest_lap": 99.326,
+            "optimal_lap": 99.071,
+            "alpha_score": -0.21748741751138162
+          },
+          "qualifying": {
+            "fastest_lap": 98.681,
+            "optimal_lap": 98.465,
+            "alpha_score": -0.37245738495281266
+          },
+          "qualifying_2": {
+            "fastest_lap": 98.10900000000001,
+            "optimal_lap": 98.10900000000001,
+            "alpha_score": -0.5633995235515478
+          },
+          "race_1": {
+            "fastest_lap": 99.167,
+            "optimal_lap": 98.99700000000001,
+            "alpha_score": -0.47953922868234
+          },
+          "race_2": {
+            "fastest_lap": 98.92,
+            "optimal_lap": 98.664,
+            "alpha_score": -0.9864048973335411
+          }
+        }
+      },
+      {
+        "driver_name": "Liam Harrison",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 100.868,
+            "optimal_lap": 100.63499999999999,
+            "alpha_score": -1.4202430692090027
+          },
+          "practice_2": {
+            "fastest_lap": 100.703,
+            "optimal_lap": 100.659,
+            "alpha_score": -1.480732419619044
+          },
+          "qualifying": {
+            "fastest_lap": 99.863,
+            "optimal_lap": 99.458,
+            "alpha_score": -0.9974155063112439
+          },
+          "qualifying_2": {
+            "fastest_lap": 98.884,
+            "optimal_lap": 98.595,
+            "alpha_score": -0.8993730525226559
+          },
+          "race_1": {
+            "fastest_lap": 100.156,
+            "optimal_lap": 99.887,
+            "alpha_score": -1.259684110908124
+          },
+          "race_2": {
+            "fastest_lap": 98.84,
+            "optimal_lap": 98.611,
+            "alpha_score": -1.1622387288349174
+          }
+        }
+      },
+      {
+        "driver_name": "Lucas Weisenberg",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 98.523,
+            "optimal_lap": 98.271,
+            "alpha_score": 0.8918294188227897
+          },
+          "practice_2": {
+            "fastest_lap": 98.63300000000001,
+            "optimal_lap": 98.429,
+            "alpha_score": 0.46980219345503454
+          },
+          "qualifying": {
+            "fastest_lap": 97.408,
+            "optimal_lap": 97.289,
+            "alpha_score": 0.6428605743933733
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.298,
+            "optimal_lap": 97.129,
+            "alpha_score": 0.6532687027361531
+          },
+          "race_1": {
+            "fastest_lap": 98.202,
+            "optimal_lap": 98.048,
+            "alpha_score": 0.43308068744933514
+          },
+          "race_2": {
+            "fastest_lap": 97.91,
+            "optimal_lap": 97.727,
+            "alpha_score": 0.4472910760773704
+          }
+        }
+      },
+      {
+        "driver_name": "Massimo Sunseri",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 99.331,
+            "optimal_lap": 99.137,
+            "alpha_score": -0.27108897311726426
+          },
+          "practice_2": {
+            "fastest_lap": 99.59100000000001,
+            "optimal_lap": 99.312,
+            "alpha_score": -0.21076745756811838
+          },
+          "qualifying": {
+            "fastest_lap": 98.69200000000001,
+            "optimal_lap": 98.352,
+            "alpha_score": -0.20820105108326015
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.85,
+            "optimal_lap": 97.819,
+            "alpha_score": -0.21265615373831373
+          },
+          "race_1": {
+            "fastest_lap": 99.41,
+            "optimal_lap": 99.221,
+            "alpha_score": -0.5464446727030009
+          },
+          "race_2": {
+            "fastest_lap": 98.345,
+            "optimal_lap": 98.193,
+            "alpha_score": -0.5561308811475968
+          }
+        }
+      },
+      {
+        "driver_name": "Max Schweid",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 98.553,
+            "optimal_lap": 98.435,
+            "alpha_score": 0.5448769215041291
+          },
+          "practice_2": {
+            "fastest_lap": 98.294,
+            "optimal_lap": 98.243,
+            "alpha_score": 0.6888567927547665
+          },
+          "qualifying": {
+            "fastest_lap": 97.235,
+            "optimal_lap": 97.183,
+            "alpha_score": 0.7150922958866789
+          },
+          "qualifying_2": {
+            "fastest_lap": 96.928,
+            "optimal_lap": 96.909,
+            "alpha_score": 0.7596731290696106
+          },
+          "race_1": {
+            "fastest_lap": 98.086,
+            "optimal_lap": 98.033,
+            "alpha_score": 0.49319686768080356
+          },
+          "race_2": {
+            "fastest_lap": 97.693,
+            "optimal_lap": 97.422,
+            "alpha_score": 0.5672245098939137
+          }
+        }
+      },
+      {
+        "driver_name": "Max Stallone",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 99.051,
+            "optimal_lap": 98.943,
+            "alpha_score": -0.03561182330438399
+          },
+          "practice_2": {
+            "fastest_lap": 99.378,
+            "optimal_lap": 99.125,
+            "alpha_score": -0.03573384751085664
+          },
+          "qualifying": {
+            "fastest_lap": 98.22200000000001,
+            "optimal_lap": 97.973,
+            "alpha_score": 0.17731908095382093
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.936,
+            "optimal_lap": 97.861,
+            "alpha_score": -0.4830519817699078
+          },
+          "race_1": {
+            "fastest_lap": 98.845,
+            "optimal_lap": 98.83900000000001,
+            "alpha_score": -0.718010414945996
+          },
+          "race_2": {
+            "fastest_lap": 98.176,
+            "optimal_lap": 97.747,
+            "alpha_score": 0.31942177751312206
+          }
+        }
+      },
+      {
+        "driver_name": "Paityn Feyen",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 99.756,
+            "optimal_lap": 99.75599999999999,
+            "alpha_score": -0.8133962991582181
+          },
+          "practice_2": {
+            "fastest_lap": 100.118,
+            "optimal_lap": 99.78,
+            "alpha_score": -0.9756774622193581
+          },
+          "qualifying": {
+            "fastest_lap": 99.527,
+            "optimal_lap": 98.90899999999999,
+            "alpha_score": -0.6650125703523916
+          },
+          "qualifying_2": {
+            "fastest_lap": 98.339,
+            "optimal_lap": 98.239,
+            "alpha_score": -0.4584364916250894
+          },
+          "race_1": {
+            "fastest_lap": 99.807,
+            "optimal_lap": 99.282,
+            "alpha_score": -0.6245184159661769
+          },
+          "race_2": {
+            "fastest_lap": 99.00999999999999,
+            "optimal_lap": 98.724,
+            "alpha_score": -1.1829976443935197
+          }
+        }
+      },
+      {
+        "driver_name": "Parker DeLong",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 98.416,
+            "optimal_lap": 98.328,
+            "alpha_score": 0.42397067672473027
+          },
+          "practice_2": {
+            "fastest_lap": 98.307,
+            "optimal_lap": 98.07999999999998,
+            "alpha_score": 0.5915560527493667
+          },
+          "qualifying": {
+            "fastest_lap": 97.113,
+            "optimal_lap": 96.965,
+            "alpha_score": 0.4406747966025869
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.03999999999999,
+            "optimal_lap": 96.979,
+            "alpha_score": 0.7148996837148177
+          },
+          "race_1": {
+            "fastest_lap": 98.251,
+            "optimal_lap": 97.97500000000001,
+            "alpha_score": 0.6791991183335643
+          },
+          "race_2": {
+            "fastest_lap": 97.968,
+            "optimal_lap": 97.61500000000001,
+            "alpha_score": 0.5910560631318611
+          }
+        }
+      },
+      {
+        "driver_name": "Patrick Brunson",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 100.15899999999999,
+            "optimal_lap": 100.01500000000001,
+            "alpha_score": -1.1444188996628675
+          },
+          "practice_2": {
+            "fastest_lap": 100.167,
+            "optimal_lap": 99.626,
+            "alpha_score": -0.4639213463428725
+          },
+          "qualifying": {
+            "fastest_lap": 99.42,
+            "optimal_lap": 98.995,
+            "alpha_score": -0.9017710500716638
+          },
+          "qualifying_2": {
+            "fastest_lap": 98.313,
+            "optimal_lap": 98.31300000000002,
+            "alpha_score": -0.7585798716151947
+          },
+          "race_1": {
+            "fastest_lap": 99.332,
+            "optimal_lap": 99.266,
+            "alpha_score": -0.7401189662034019
+          },
+          "race_2": {
+            "fastest_lap": 98.961,
+            "optimal_lap": 98.874,
+            "alpha_score": -1.3336779851793656
+          }
+        }
+      },
+      {
+        "driver_name": "Rutledge Wood",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 101.97,
+            "optimal_lap": 101.368,
+            "alpha_score": -2.470151676534914
+          },
+          "practice_2": {
+            "fastest_lap": 102.491,
+            "optimal_lap": 101.69300000000001,
+            "alpha_score": -2.6321679178098463
+          },
+          "qualifying": {
+            "fastest_lap": 101.78,
+            "optimal_lap": 101.429,
+            "alpha_score": -2.831958567155859
+          },
+          "qualifying_2": {
+            "fastest_lap": 100.894,
+            "optimal_lap": 100.71199999999999,
+            "alpha_score": -3.058288429949133
+          },
+          "race_1": {
+            "fastest_lap": 101.37899999999999,
+            "optimal_lap": 101.059,
+            "alpha_score": -2.5884588937830952
+          },
+          "race_2": {
+            "fastest_lap": 100.29599999999999,
+            "optimal_lap": 99.71199999999999,
+            "alpha_score": -2.4836202645097427
+          }
+        }
+      },
+      {
+        "driver_name": "Spike Kohlbecker",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 98.52000000000001,
+            "optimal_lap": 98.40799999999999,
+            "alpha_score": 0.5632047250240951
+          },
+          "practice_2": {
+            "fastest_lap": 98.137,
+            "optimal_lap": 97.89399999999999,
+            "alpha_score": 0.761082399295205
+          },
+          "qualifying": {
+            "fastest_lap": 97.455,
+            "optimal_lap": 97.4,
+            "alpha_score": 0.5562786722087052
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.02600000000001,
+            "optimal_lap": 96.99000000000001,
+            "alpha_score": 0.4667791025198648
+          },
+          "race_1": {
+            "fastest_lap": 98.094,
+            "optimal_lap": 97.926,
+            "alpha_score": 0.7623621765986464
+          },
+          "race_2": {
+            "fastest_lap": 97.792,
+            "optimal_lap": 97.59100000000001,
+            "alpha_score": 0.5876062570264017
+          }
+        }
+      },
+      {
+        "driver_name": "Westin Workman",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 97.878,
+            "optimal_lap": 97.686,
+            "alpha_score": 1.2116522777212555
+          },
+          "practice_2": {
+            "fastest_lap": 98.063,
+            "optimal_lap": 97.919,
+            "alpha_score": 1.096257175733072
+          },
+          "qualifying": {
+            "fastest_lap": 96.926,
+            "optimal_lap": 96.821,
+            "alpha_score": 1.016176298640809
+          },
+          "qualifying_2": {
+            "fastest_lap": 96.493,
+            "optimal_lap": 96.493,
+            "alpha_score": 0.999241809731778
+          },
+          "race_1": {
+            "fastest_lap": 97.428,
+            "optimal_lap": 97.39000000000001,
+            "alpha_score": 1.2656196489857434
+          },
+          "race_2": {
+            "fastest_lap": 97.35,
+            "optimal_lap": 97.07300000000001,
+            "alpha_score": 1.2665151842828561
+          }
+        }
+      },
+      {
+        "driver_name": "Will Robusto",
+        "sessions": {
+          "practice_1": {
+            "fastest_lap": 98.188,
+            "optimal_lap": 98.048,
+            "alpha_score": 0.937104031378805
+          },
+          "practice_2": {
+            "fastest_lap": 98.219,
+            "optimal_lap": 97.991,
+            "alpha_score": 0.7528728851797883
+          },
+          "qualifying": {
+            "fastest_lap": 97.358,
+            "optimal_lap": 97.241,
+            "alpha_score": 0.42028971950090427
+          },
+          "qualifying_2": {
+            "fastest_lap": 97.243,
+            "optimal_lap": 97.18299999999999,
+            "alpha_score": 0.3031021563882616
+          },
+          "race_1": {
+            "fastest_lap": 98.326,
+            "optimal_lap": 97.995,
+            "alpha_score": 0.7123198672362565
+          },
+          "race_2": {
+            "fastest_lap": 97.678,
+            "optimal_lap": 97.508,
+            "alpha_score": 0.5048558007461381
+          }
+        }
+      }
+    ],
+    "teams": [
+      {
+        "team_name": "BSI Racing",
+        "sessions": {
+          "practice_1": {
+            "best_lap": 97.878,
+            "optimal_lap": 97.686
+          },
+          "practice_2": {
+            "best_lap": 98.063,
+            "optimal_lap": 97.919
+          },
+          "qualifying": {
+            "best_lap": 96.926,
+            "optimal_lap": 96.821
+          },
+          "qualifying_2": {
+            "best_lap": 96.493,
+            "optimal_lap": 96.493
+          },
+          "race_1": {
+            "best_lap": 97.428,
+            "optimal_lap": 97.39000000000001
+          },
+          "race_2": {
+            "best_lap": 97.35,
+            "optimal_lap": 97.07300000000001
+          }
+        }
+      },
+      {
+        "team_name": "Copeland Motorsports",
+        "sessions": {
+          "practice_1": {
+            "best_lap": 98.03399999999999,
+            "optimal_lap": 97.91300000000001
+          },
+          "practice_2": {
+            "best_lap": 98.09899999999999,
+            "optimal_lap": 97.97099999999999
+          },
+          "qualifying": {
+            "best_lap": 97.201,
+            "optimal_lap": 97.091
+          },
+          "qualifying_2": {
+            "best_lap": 96.875,
+            "optimal_lap": 96.77499999999999
+          },
+          "race_1": {
+            "best_lap": 97.74600000000001,
+            "optimal_lap": 97.702
+          },
+          "race_2": {
+            "best_lap": 97.304,
+            "optimal_lap": 97.082
+          }
+        }
+      },
+      {
+        "team_name": "Eagles Canyon Racing Powered by Fast Track",
+        "sessions": {
+          "practice_1": {
+            "best_lap": 100.15899999999999,
+            "optimal_lap": 100.01500000000001
+          },
+          "practice_2": {
+            "best_lap": 100.167,
+            "optimal_lap": 99.626
+          },
+          "qualifying": {
+            "best_lap": 99.42,
+            "optimal_lap": 98.995
+          },
+          "qualifying_2": {
+            "best_lap": 98.313,
+            "optimal_lap": 98.31300000000002
+          },
+          "race_1": {
+            "best_lap": 99.332,
+            "optimal_lap": 99.266
+          },
+          "race_2": {
+            "best_lap": 98.961,
+            "optimal_lap": 98.874
+          }
+        }
+      },
+      {
+        "team_name": "Lucas Racing",
+        "sessions": {
+          "practice_1": {
+            "best_lap": 98.523,
+            "optimal_lap": 98.271
+          },
+          "practice_2": {
+            "best_lap": 98.63300000000001,
+            "optimal_lap": 98.429
+          },
+          "qualifying": {
+            "best_lap": 97.408,
+            "optimal_lap": 97.289
+          },
+          "qualifying_2": {
+            "best_lap": 97.298,
+            "optimal_lap": 97.129
+          },
+          "race_1": {
+            "best_lap": 98.202,
+            "optimal_lap": 98.048
+          },
+          "race_2": {
+            "best_lap": 97.91,
+            "optimal_lap": 97.727
+          }
+        }
+      },
+      {
+        "team_name": "Nitro Motorsports",
+        "sessions": {
+          "practice_1": {
+            "best_lap": 99.07,
+            "optimal_lap": 98.446
+          },
+          "practice_2": {
+            "best_lap": 99.24799999999999,
+            "optimal_lap": 98.992
+          },
+          "qualifying": {
+            "best_lap": 97.559,
+            "optimal_lap": 97.392
+          },
+          "qualifying_2": {
+            "best_lap": 97.381,
+            "optimal_lap": 97.244
+          },
+          "race_1": {
+            "best_lap": 98.542,
+            "optimal_lap": 98.309
+          },
+          "race_2": {
+            "best_lap": 97.882,
+            "optimal_lap": 97.68900000000001
+          }
+        }
+      },
+      {
+        "team_name": "PT Autosport with Copeland Motorsports",
+        "sessions": {
+          "practice_1": {
+            "best_lap": 99.051,
+            "optimal_lap": 98.943
+          },
+          "practice_2": {
+            "best_lap": 99.378,
+            "optimal_lap": 99.125
+          },
+          "qualifying": {
+            "best_lap": 98.22200000000001,
+            "optimal_lap": 97.973
+          },
+          "qualifying_2": {
+            "best_lap": 97.936,
+            "optimal_lap": 97.861
+          },
+          "race_1": {
+            "best_lap": 98.845,
+            "optimal_lap": 98.83900000000001
+          },
+          "race_2": {
+            "best_lap": 98.176,
+            "optimal_lap": 97.747
+          }
+        }
+      },
+      {
+        "team_name": "Precision Racing LA",
+        "sessions": {
+          "practice_1": {
+            "best_lap": 100.006,
+            "optimal_lap": 99.768
+          },
+          "practice_2": {
+            "best_lap": 99.326,
+            "optimal_lap": 99.071
+          },
+          "qualifying": {
+            "best_lap": 98.681,
+            "optimal_lap": 98.465
+          },
+          "qualifying_2": {
+            "best_lap": 98.10900000000001,
+            "optimal_lap": 98.10900000000001
+          },
+          "race_1": {
+            "best_lap": 99.167,
+            "optimal_lap": 98.99700000000001
+          },
+          "race_2": {
+            "best_lap": 98.92,
+            "optimal_lap": 98.664
+          }
+        }
+      },
+      {
+        "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+        "sessions": {
+          "practice_1": {
+            "best_lap": 98.188,
+            "optimal_lap": 98.048
+          },
+          "practice_2": {
+            "best_lap": 98.137,
+            "optimal_lap": 97.89399999999999
+          },
+          "qualifying": {
+            "best_lap": 97.358,
+            "optimal_lap": 97.176
+          },
+          "qualifying_2": {
+            "best_lap": 97.02600000000001,
+            "optimal_lap": 96.99000000000001
+          },
+          "race_1": {
+            "best_lap": 98.094,
+            "optimal_lap": 97.834
+          },
+          "race_2": {
+            "best_lap": 97.678,
+            "optimal_lap": 97.455
+          }
+        }
+      },
+      {
+        "team_name": "TechSport",
+        "sessions": {
+          "practice_1": {
+            "best_lap": 98.416,
+            "optimal_lap": 98.25299999999999
+          },
+          "practice_2": {
+            "best_lap": 98.294,
+            "optimal_lap": 98.06
+          },
+          "qualifying": {
+            "best_lap": 97.112,
+            "optimal_lap": 96.905
+          },
+          "qualifying_2": {
+            "best_lap": 96.846,
+            "optimal_lap": 96.645
+          },
+          "race_1": {
+            "best_lap": 97.737,
+            "optimal_lap": 97.712
+          },
+          "race_2": {
+            "best_lap": 97.693,
+            "optimal_lap": 97.368
+          }
+        }
+      }
+    ]
+  },
+  "improvement_analysis": {
+    "most_improved_p1_to_q": [
+      {
+        "driver_name": "Isabella Robusto",
+        "improvement": -1.8589999999999947,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Ethan Goulart",
+        "improvement": -1.554000000000002,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Jackson Tovo",
+        "improvement": -1.5109999999999957,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Karl Forman",
+        "improvement": -1.3250000000000028,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Max Schweid",
+        "improvement": -1.3179999999999978,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Parker DeLong",
+        "improvement": -1.3029999999999973,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Ethan Tovo",
+        "improvement": -1.2590000000000003,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Jaxon Bell",
+        "improvement": -1.1469999999999914,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Jenson Sofronas",
+        "improvement": -1.1380000000000052,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Lucas Weisenberg",
+        "improvement": -1.1149999999999949,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Spike Kohlbecker",
+        "improvement": -1.065000000000012,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Liam Harrison",
+        "improvement": -1.0049999999999955,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Westin Workman",
+        "improvement": -0.9519999999999982,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Ford Koch",
+        "improvement": -0.8689999999999998,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Jeremy Fletcher",
+        "improvement": -0.8329999999999984,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Will Robusto",
+        "improvement": -0.8299999999999983,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Max Stallone",
+        "improvement": -0.8289999999999935,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Patrick Brunson",
+        "improvement": -0.7389999999999901,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Massimo Sunseri",
+        "improvement": -0.6389999999999958,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Beltre Curtis",
+        "improvement": -0.612000000000009,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Paityn Feyen",
+        "improvement": -0.2289999999999992,
+        "from_session": "practice_1"
+      },
+      {
+        "driver_name": "Rutledge Wood",
+        "improvement": -0.18999999999999773,
+        "from_session": "practice_1"
+      }
+    ],
+    "sandbagging_watchlist": [
+      {
+        "driver_name": "Isabella Robusto",
+        "improvement": -1.8589999999999947,
+        "from_session": "practice_1"
+      }
+    ]
+  },
+  "teammate_head_to_head": [
+    {
+      "team_name": "Copeland Motorsports",
+      "drivers": [
+        "Beltre Curtis",
+        "Ford Koch",
+        "Jaxon Bell",
+        "Jenson Sofronas",
+        "Jeremy Fletcher",
+        "Liam Harrison"
+      ],
+      "sessions": {
+        "practice_1": {
+          "winner": "Jeremy Fletcher",
+          "gap": 0.7810000000000059
+        },
+        "practice_2": {
+          "winner": "Jeremy Fletcher",
+          "gap": 0.8300000000000125
+        },
+        "qualifying": {
+          "winner": "Jeremy Fletcher",
+          "gap": 0.4730000000000132
+        },
+        "qualifying_2": {
+          "winner": "Jeremy Fletcher",
+          "gap": 0.5810000000000031
+        },
+        "race_1": {
+          "winner": "Jeremy Fletcher",
+          "gap": 0.6449999999999818
+        },
+        "race_2": {
+          "winner": "Jeremy Fletcher",
+          "gap": 0.6409999999999911
+        }
+      },
+      "weekend_score": {
+        "Jeremy Fletcher": 6
+      },
+      "average_gap": 0.6585000000000013
+    },
+    {
+      "team_name": "TechSport",
+      "drivers": [
+        "Ethan Goulart",
+        "Max Schweid",
+        "Parker DeLong"
+      ],
+      "sessions": {
+        "practice_1": {
+          "winner": "Parker DeLong",
+          "gap": 0.13700000000000045
+        },
+        "practice_2": {
+          "winner": "Max Schweid",
+          "gap": 0.01300000000000523
+        },
+        "qualifying": {
+          "winner": "Ethan Goulart",
+          "gap": 0.0010000000000047748
+        },
+        "qualifying_2": {
+          "winner": "Ethan Goulart",
+          "gap": 0.08199999999999363
+        },
+        "race_1": {
+          "winner": "Ethan Goulart",
+          "gap": 0.34900000000000375
+        },
+        "race_2": {
+          "winner": "Max Schweid",
+          "gap": 0.25199999999999534
+        }
+      },
+      "weekend_score": {
+        "Parker DeLong": 1,
+        "Max Schweid": 2,
+        "Ethan Goulart": 3
+      },
+      "average_gap": 0.13900000000000054
+    },
+    {
+      "team_name": "Nitro Motorsports",
+      "drivers": [
+        "Ethan Tovo",
+        "Jackson Tovo",
+        "Paityn Feyen"
+      ],
+      "sessions": {
+        "practice_1": {
+          "winner": "Jackson Tovo",
+          "gap": 0.1110000000000042
+        },
+        "practice_2": {
+          "winner": "Jackson Tovo",
+          "gap": 0.17100000000000648
+        },
+        "qualifying": {
+          "winner": "Jackson Tovo",
+          "gap": 0.36299999999999955
+        },
+        "qualifying_2": {
+          "winner": "Jackson Tovo",
+          "gap": 0.20000000000000284
+        },
+        "race_1": {
+          "winner": "Jackson Tovo",
+          "gap": 0.5139999999999958
+        },
+        "race_2": {
+          "winner": "Jackson Tovo",
+          "gap": 0.5
+        }
+      },
+      "weekend_score": {
+        "Jackson Tovo": 6
+      },
+      "average_gap": 0.3098333333333348
+    },
+    {
+      "team_name": "RVA Graphics Motorsports by Speed Syndicate",
+      "drivers": [
+        "Isabella Robusto",
+        "Spike Kohlbecker",
+        "Will Robusto"
+      ],
+      "sessions": {
+        "practice_1": {
+          "winner": "Will Robusto",
+          "gap": 0.33200000000000784
+        },
+        "practice_2": {
+          "winner": "Spike Kohlbecker",
+          "gap": 0.08199999999999363
+        },
+        "qualifying": {
+          "winner": "Will Robusto",
+          "gap": 0.0969999999999942
+        },
+        "qualifying_2": {
+          "winner": "Spike Kohlbecker",
+          "gap": 0.21699999999998454
+        },
+        "race_1": {
+          "winner": "Spike Kohlbecker",
+          "gap": 0.23199999999999932
+        },
+        "race_2": {
+          "winner": "Will Robusto",
+          "gap": 0.11400000000000432
+        }
+      },
+      "weekend_score": {
+        "Will Robusto": 3,
+        "Spike Kohlbecker": 3
+      },
+      "average_gap": 0.1789999999999973
+    },
+    {
+      "team_name": "Precision Racing LA",
+      "drivers": [
+        "Karl Forman",
+        "Rutledge Wood"
+      ],
+      "sessions": {
+        "practice_1": {
+          "winner": "Karl Forman",
+          "gap": 1.9639999999999986
+        },
+        "practice_2": {
+          "winner": "Karl Forman",
+          "gap": 3.1650000000000063
+        },
+        "qualifying": {
+          "winner": "Karl Forman",
+          "gap": 3.0990000000000038
+        },
+        "qualifying_2": {
+          "winner": "Karl Forman",
+          "gap": 2.7849999999999966
+        },
+        "race_1": {
+          "winner": "Karl Forman",
+          "gap": 2.211999999999989
+        },
+        "race_2": {
+          "winner": "Karl Forman",
+          "gap": 1.3759999999999906
+        }
+      },
+      "weekend_score": {
+        "Karl Forman": 6
+      },
+      "average_gap": 2.4334999999999973
+    },
+    {
+      "team_name": "BSI Racing",
+      "drivers": [
+        "Massimo Sunseri",
+        "Westin Workman"
+      ],
+      "sessions": {
+        "practice_1": {
+          "winner": "Westin Workman",
+          "gap": 1.453000000000003
+        },
+        "practice_2": {
+          "winner": "Westin Workman",
+          "gap": 1.5280000000000058
+        },
+        "qualifying": {
+          "winner": "Westin Workman",
+          "gap": 1.7660000000000053
+        },
+        "qualifying_2": {
+          "winner": "Westin Workman",
+          "gap": 1.3569999999999993
+        },
+        "race_1": {
+          "winner": "Westin Workman",
+          "gap": 1.9819999999999993
+        },
+        "race_2": {
+          "winner": "Westin Workman",
+          "gap": 0.9950000000000045
+        }
+      },
+      "weekend_score": {
+        "Westin Workman": 6
+      },
+      "average_gap": 1.513500000000003
+    }
+  ]
+}

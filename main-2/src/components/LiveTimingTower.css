@@ -1,0 +1,236 @@
+.live-timing-container {
+    background: rgba(10, 10, 12, 0.9);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    font-family: 'Rajdhani', sans-serif;
+    color: #fff;
+    width: 100%;
+    max-width: 700px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+}
+
+.timing-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    background: rgba(20, 20, 25, 0.95);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.timing-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: #e63946;
+}
+
+.live-dot {
+    width: 8px;
+    height: 8px;
+    background-color: #e63946;
+    border-radius: 50%;
+    animation: pulse-red 1.5s infinite;
+}
+
+@keyframes pulse-red {
+    0% {
+        box-shadow: 0 0 0 0 rgba(230, 57, 70, 0.7);
+    }
+
+    70% {
+        box-shadow: 0 0 0 6px rgba(230, 57, 70, 0);
+    }
+
+    100% {
+        box-shadow: 0 0 0 0 rgba(230, 57, 70, 0);
+    }
+}
+
+.timing-session {
+    font-size: 0.85rem;
+    color: #777;
+    letter-spacing: 0.05em;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.timing-table-header {
+    display: flex;
+    padding: 0.5rem 1.5rem;
+    background: rgba(30, 30, 35, 0.6);
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.75rem;
+    color: #888;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.timing-rows {
+    display: flex;
+    flex-direction: column;
+}
+
+.timing-row {
+    display: flex;
+    padding: 0.6rem 1.5rem;
+    align-items: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+    transition: background-color 0.3s ease;
+}
+
+.timing-row:hover {
+    background: rgba(255, 255, 255, 0.02);
+}
+
+.flash-update {
+    animation: bg-flash 1.5s ease-out forwards;
+}
+
+@keyframes bg-flash {
+    0% {
+        background: rgba(255, 255, 255, 0.1);
+    }
+
+    100% {
+        background: transparent;
+    }
+}
+
+/* Columns */
+.t-col {
+    display: flex;
+    align-items: center;
+}
+
+.t-pos {
+    width: 8%;
+    font-weight: 600;
+    color: #555;
+}
+
+.t-num {
+    width: 10%;
+}
+
+.t-name {
+    width: 22%;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.95rem;
+    letter-spacing: 0.05em;
+}
+
+.t-gap {
+    width: 15%;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.9rem;
+    color: #999;
+}
+
+.t-sec {
+    width: 10%;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.9rem;
+    color: #bbb;
+    justify-content: flex-end;
+    padding-right: 0.5rem;
+}
+
+.t-lap {
+    width: 15%;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.95rem;
+    font-weight: 600;
+    justify-content: flex-end;
+    margin-left: auto;
+    padding: 2px 6px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.num-box {
+    background: #fff;
+    color: #000;
+    font-family: 'Roboto Mono', sans-serif;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 2px;
+    font-size: 0.8rem;
+}
+
+/* Indicators */
+.text-purple {
+    color: #b700ff !important;
+    font-weight: 700;
+    text-shadow: 0 0 8px rgba(183, 0, 255, 0.5);
+}
+
+.text-green {
+    color: #00ff88 !important;
+    font-weight: 700;
+    text-shadow: 0 0 8px rgba(0, 255, 136, 0.5);
+}
+
+.bg-purple {
+    background-color: rgba(183, 0, 255, 0.2);
+    color: #e499ff !important;
+    border: 1px solid rgba(183, 0, 255, 0.5);
+}
+
+.bg-green {
+    background-color: rgba(0, 255, 136, 0.15);
+    color: #88ffc8 !important;
+    border: 1px solid rgba(0, 255, 136, 0.5);
+}
+
+.timing-footer {
+    display: flex;
+    gap: 1.5rem;
+    padding: 0.75rem 1.5rem;
+    background: rgba(15, 15, 18, 0.95);
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.7rem;
+    color: #666;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.legend-color {
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+}
+
+.legend-purple {
+    background: #b700ff;
+    box-shadow: 0 0 5px #b700ff;
+}
+
+.legend-green {
+    background: #00ff88;
+    box-shadow: 0 0 5px #00ff88;
+}
+
+@media (max-width: 768px) {
+    .t-sec {
+        display: none;
+    }
+
+    .t-gap {
+        width: 25%;
+    }
+
+    .t-name {
+        width: 35%;
+    }
+}

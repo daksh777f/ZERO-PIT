@@ -1,0 +1,2072 @@
+{
+  "driver_number": "72",
+  "driver_name": "Ethan Goulart",
+  "total_events": 81,
+  "events": [
+    {
+      "event_id": 2,
+      "elapsed_race_time": 27.875,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 1,
+      "sector_time": 27.875,
+      "cumulative_lap_time": 27.875,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.227,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.227
+        }
+      },
+      "gap_distance_meters": 9.5,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 24,
+      "elapsed_race_time": 70.853,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 1,
+      "sector_time": 42.978,
+      "cumulative_lap_time": 70.853,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.288,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.288
+        }
+      },
+      "gap_distance_meters": 12.0,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 46,
+      "elapsed_race_time": 102.658,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 1,
+      "sector_time": 31.805,
+      "cumulative_lap_time": 102.658,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.374,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.374
+        }
+      },
+      "gap_distance_meters": 15.6,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 68,
+      "elapsed_race_time": 140.573,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 2,
+      "sector_time": 37.915,
+      "cumulative_lap_time": 37.915,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.425,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.425
+        }
+      },
+      "gap_distance_meters": 17.7,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 90,
+      "elapsed_race_time": 200.828,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 2,
+      "sector_time": 60.255,
+      "cumulative_lap_time": 98.17,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.499,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.499
+        }
+      },
+      "gap_distance_meters": 20.8,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 112,
+      "elapsed_race_time": 237.551,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 2,
+      "sector_time": 36.723,
+      "cumulative_lap_time": 134.893,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.302,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.302
+        }
+      },
+      "gap_distance_meters": 12.6,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 134,
+      "elapsed_race_time": 271.803,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 3,
+      "sector_time": 34.252,
+      "cumulative_lap_time": 34.252,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.346,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.346
+        }
+      },
+      "gap_distance_meters": 14.4,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 156,
+      "elapsed_race_time": 323.842,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 3,
+      "sector_time": 52.039,
+      "cumulative_lap_time": 86.291,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.245,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.245
+        }
+      },
+      "gap_distance_meters": 10.2,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 178,
+      "elapsed_race_time": 360.752,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 3,
+      "sector_time": 36.91,
+      "cumulative_lap_time": 123.201,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.381,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.381
+        }
+      },
+      "gap_distance_meters": 15.9,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 200,
+      "elapsed_race_time": 387.66,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 4,
+      "sector_time": 26.908,
+      "cumulative_lap_time": 26.908,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.387,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.387
+        }
+      },
+      "gap_distance_meters": 16.1,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 222,
+      "elapsed_race_time": 430.521,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 4,
+      "sector_time": 42.861,
+      "cumulative_lap_time": 69.769,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.793,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.793
+        }
+      },
+      "gap_distance_meters": 33.0,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 244,
+      "elapsed_race_time": 459.178,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 4,
+      "sector_time": 28.657,
+      "cumulative_lap_time": 98.426,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.943,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.943
+        }
+      },
+      "gap_distance_meters": 39.3,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 266,
+      "elapsed_race_time": 485.898,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 5,
+      "sector_time": 26.72,
+      "cumulative_lap_time": 26.72,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.962,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.962
+        }
+      },
+      "gap_distance_meters": 40.1,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 288,
+      "elapsed_race_time": 528.528,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 5,
+      "sector_time": 42.63,
+      "cumulative_lap_time": 69.35,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.99,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -0.99
+        }
+      },
+      "gap_distance_meters": 41.3,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 310,
+      "elapsed_race_time": 557.116,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 5,
+      "sector_time": 28.588,
+      "cumulative_lap_time": 97.938,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.083,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.083
+        }
+      },
+      "gap_distance_meters": 45.1,
+      "sector_performance": "fastest",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 332,
+      "elapsed_race_time": 583.759,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 6,
+      "sector_time": 26.643,
+      "cumulative_lap_time": 26.643,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.134,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.134
+        }
+      },
+      "gap_distance_meters": 47.3,
+      "sector_performance": "fastest",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 354,
+      "elapsed_race_time": 626.323,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 6,
+      "sector_time": 42.564,
+      "cumulative_lap_time": 69.207,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.246,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.246
+        }
+      },
+      "gap_distance_meters": 51.9,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 376,
+      "elapsed_race_time": 654.95,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 6,
+      "sector_time": 28.627,
+      "cumulative_lap_time": 97.834,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.374,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.374
+        }
+      },
+      "gap_distance_meters": 57.3,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 397,
+      "elapsed_race_time": 681.618,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 7,
+      "sector_time": 26.668,
+      "cumulative_lap_time": 26.668,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.43,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.43
+        }
+      },
+      "gap_distance_meters": 59.6,
+      "sector_performance": "fastest",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 420,
+      "elapsed_race_time": 724.1,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 7,
+      "sector_time": 42.482,
+      "cumulative_lap_time": 69.15,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.476,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.476
+        }
+      },
+      "gap_distance_meters": 61.5,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 441,
+      "elapsed_race_time": 752.687,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 7,
+      "sector_time": 28.587,
+      "cumulative_lap_time": 97.737,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.598,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.598
+        }
+      },
+      "gap_distance_meters": 66.6,
+      "sector_performance": "fastest",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 462,
+      "elapsed_race_time": 779.388,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 8,
+      "sector_time": 26.701,
+      "cumulative_lap_time": 26.701,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.669,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.669
+        }
+      },
+      "gap_distance_meters": 69.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 486,
+      "elapsed_race_time": 822.017,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 8,
+      "sector_time": 42.629,
+      "cumulative_lap_time": 69.33,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.918,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -1.918
+        }
+      },
+      "gap_distance_meters": 79.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 506,
+      "elapsed_race_time": 850.79,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 8,
+      "sector_time": 28.773,
+      "cumulative_lap_time": 98.103,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.273,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -2.273
+        }
+      },
+      "gap_distance_meters": 94.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 528,
+      "elapsed_race_time": 877.614,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 9,
+      "sector_time": 26.824,
+      "cumulative_lap_time": 26.824,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.454,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -2.454
+        }
+      },
+      "gap_distance_meters": 102.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 552,
+      "elapsed_race_time": 920.191,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 9,
+      "sector_time": 42.577,
+      "cumulative_lap_time": 69.401,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.582,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -2.582
+        }
+      },
+      "gap_distance_meters": 107.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 571,
+      "elapsed_race_time": 948.911,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 9,
+      "sector_time": 28.72,
+      "cumulative_lap_time": 98.121,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.752,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -2.752
+        }
+      },
+      "gap_distance_meters": 114.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 593,
+      "elapsed_race_time": 975.705,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 10,
+      "sector_time": 26.794,
+      "cumulative_lap_time": 26.794,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.849,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -2.849
+        }
+      },
+      "gap_distance_meters": 118.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 618,
+      "elapsed_race_time": 1018.493,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 10,
+      "sector_time": 42.788,
+      "cumulative_lap_time": 69.582,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.206,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -3.206
+        }
+      },
+      "gap_distance_meters": 133.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 637,
+      "elapsed_race_time": 1047.189,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 10,
+      "sector_time": 28.696,
+      "cumulative_lap_time": 98.278,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.351,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -3.351
+        }
+      },
+      "gap_distance_meters": 139.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 659,
+      "elapsed_race_time": 1074.008,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 11,
+      "sector_time": 26.819,
+      "cumulative_lap_time": 26.819,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.449,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -3.449
+        }
+      },
+      "gap_distance_meters": 143.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 683,
+      "elapsed_race_time": 1116.723,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 11,
+      "sector_time": 42.715,
+      "cumulative_lap_time": 69.534,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.781,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -3.781
+        }
+      },
+      "gap_distance_meters": 157.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 703,
+      "elapsed_race_time": 1145.595,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 11,
+      "sector_time": 28.872,
+      "cumulative_lap_time": 98.406,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 4.063,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -4.063
+        }
+      },
+      "gap_distance_meters": 169.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 724,
+      "elapsed_race_time": 1172.399,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 12,
+      "sector_time": 26.804,
+      "cumulative_lap_time": 26.804,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 4.142,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -4.142
+        }
+      },
+      "gap_distance_meters": 172.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 749,
+      "elapsed_race_time": 1215.222,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 12,
+      "sector_time": 42.823,
+      "cumulative_lap_time": 69.627,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 4.478,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -4.478
+        }
+      },
+      "gap_distance_meters": 186.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 768,
+      "elapsed_race_time": 1243.943,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 12,
+      "sector_time": 28.721,
+      "cumulative_lap_time": 98.348,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 4.463,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -4.463
+        }
+      },
+      "gap_distance_meters": 186.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 789,
+      "elapsed_race_time": 1270.856,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 13,
+      "sector_time": 26.913,
+      "cumulative_lap_time": 26.913,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 4.603,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -4.603
+        }
+      },
+      "gap_distance_meters": 191.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 815,
+      "elapsed_race_time": 1313.742,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 13,
+      "sector_time": 42.886,
+      "cumulative_lap_time": 69.799,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 5.051,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -5.051
+        }
+      },
+      "gap_distance_meters": 210.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 834,
+      "elapsed_race_time": 1342.718,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 13,
+      "sector_time": 28.976,
+      "cumulative_lap_time": 98.775,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 5.315,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -5.315
+        }
+      },
+      "gap_distance_meters": 221.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 854,
+      "elapsed_race_time": 1369.585,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 14,
+      "sector_time": 26.867,
+      "cumulative_lap_time": 26.867,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 5.36,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -5.36
+        }
+      },
+      "gap_distance_meters": 223.4,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 879,
+      "elapsed_race_time": 1412.656,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 14,
+      "sector_time": 43.071,
+      "cumulative_lap_time": 69.938,
+      "race_position": 2,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 5.855,
+        "car_ahead_number": "13",
+        "to_all_cars": {
+          "13": -5.855
+        }
+      },
+      "gap_distance_meters": 244.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 898,
+      "elapsed_race_time": 1442.013,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 14,
+      "sector_time": 29.357,
+      "cumulative_lap_time": 99.295,
+      "race_position": 3,
+      "position_change": -1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.105,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -6.509,
+          "22": -0.105
+        }
+      },
+      "gap_distance_meters": 4.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 918,
+      "elapsed_race_time": 1469.038,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 15,
+      "sector_time": 27.025,
+      "cumulative_lap_time": 27.025,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.169,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -6.823,
+          "22": -0.169
+        }
+      },
+      "gap_distance_meters": 7.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 943,
+      "elapsed_race_time": 1512.139,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 15,
+      "sector_time": 43.101,
+      "cumulative_lap_time": 70.126,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.27,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.192,
+          "22": -0.27
+        }
+      },
+      "gap_distance_meters": 11.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 960,
+      "elapsed_race_time": 1541.028,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 15,
+      "sector_time": 28.889,
+      "cumulative_lap_time": 99.015,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.371,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.262,
+          "22": -0.371
+        }
+      },
+      "gap_distance_meters": 15.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 980,
+      "elapsed_race_time": 1567.811,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 16,
+      "sector_time": 26.783,
+      "cumulative_lap_time": 26.783,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.35,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.354,
+          "22": -0.35
+        }
+      },
+      "gap_distance_meters": 14.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1006,
+      "elapsed_race_time": 1610.535,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 16,
+      "sector_time": 42.724,
+      "cumulative_lap_time": 69.507,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.348,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.026,
+          "22": -0.348
+        }
+      },
+      "gap_distance_meters": 14.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1024,
+      "elapsed_race_time": 1639.274,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 16,
+      "sector_time": 28.739,
+      "cumulative_lap_time": 98.246,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.355,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -6.673,
+          "22": -0.355
+        }
+      },
+      "gap_distance_meters": 14.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1043,
+      "elapsed_race_time": 1666.044,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 17,
+      "sector_time": 26.77,
+      "cumulative_lap_time": 26.77,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.466,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -6.597,
+          "22": -0.466
+        }
+      },
+      "gap_distance_meters": 19.4,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1069,
+      "elapsed_race_time": 1708.782,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 17,
+      "sector_time": 42.738,
+      "cumulative_lap_time": 69.508,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.516,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -6.783,
+          "22": -0.516
+        }
+      },
+      "gap_distance_meters": 21.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1087,
+      "elapsed_race_time": 1737.723,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 17,
+      "sector_time": 28.941,
+      "cumulative_lap_time": 98.449,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.766,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -6.827,
+          "22": -0.766
+        }
+      },
+      "gap_distance_meters": 31.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1104,
+      "elapsed_race_time": 1764.651,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 18,
+      "sector_time": 26.928,
+      "cumulative_lap_time": 26.928,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.966,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -6.861,
+          "22": -0.966
+        }
+      },
+      "gap_distance_meters": 40.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1131,
+      "elapsed_race_time": 1807.41,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 18,
+      "sector_time": 42.759,
+      "cumulative_lap_time": 69.687,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.047,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -6.97,
+          "22": -1.047
+        }
+      },
+      "gap_distance_meters": 43.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1148,
+      "elapsed_race_time": 1836.182,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 18,
+      "sector_time": 28.772,
+      "cumulative_lap_time": 98.459,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.913,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.0,
+          "22": -0.913
+        }
+      },
+      "gap_distance_meters": 38.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1167,
+      "elapsed_race_time": 1862.982,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 19,
+      "sector_time": 26.8,
+      "cumulative_lap_time": 26.8,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.941,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -6.941,
+          "22": -0.941
+        }
+      },
+      "gap_distance_meters": 39.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1193,
+      "elapsed_race_time": 1906.258,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 19,
+      "sector_time": 43.276,
+      "cumulative_lap_time": 70.076,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.581,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.446,
+          "22": -1.581
+        }
+      },
+      "gap_distance_meters": 65.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1210,
+      "elapsed_race_time": 1935.163,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 19,
+      "sector_time": 28.905,
+      "cumulative_lap_time": 98.981,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.727,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.496,
+          "22": -1.727
+        }
+      },
+      "gap_distance_meters": 72.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1230,
+      "elapsed_race_time": 1962.03,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 20,
+      "sector_time": 26.867,
+      "cumulative_lap_time": 26.867,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.908,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.486,
+          "22": -1.908
+        }
+      },
+      "gap_distance_meters": 79.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1256,
+      "elapsed_race_time": 2004.85,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 20,
+      "sector_time": 42.82,
+      "cumulative_lap_time": 69.687,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.051,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.655,
+          "22": -2.051
+        }
+      },
+      "gap_distance_meters": 85.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1272,
+      "elapsed_race_time": 2033.726,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 20,
+      "sector_time": 28.876,
+      "cumulative_lap_time": 98.563,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.204,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.643,
+          "22": -2.204
+        }
+      },
+      "gap_distance_meters": 91.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1293,
+      "elapsed_race_time": 2060.576,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 21,
+      "sector_time": 26.85,
+      "cumulative_lap_time": 26.85,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.329,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.645,
+          "22": -2.329
+        }
+      },
+      "gap_distance_meters": 97.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1319,
+      "elapsed_race_time": 2103.254,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 21,
+      "sector_time": 42.678,
+      "cumulative_lap_time": 69.528,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.383,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.786,
+          "22": -2.383
+        }
+      },
+      "gap_distance_meters": 99.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1335,
+      "elapsed_race_time": 2132.446,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 21,
+      "sector_time": 29.192,
+      "cumulative_lap_time": 98.72,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.849,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -8.082,
+          "22": -2.849
+        }
+      },
+      "gap_distance_meters": 118.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1355,
+      "elapsed_race_time": 2159.321,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 22,
+      "sector_time": 26.875,
+      "cumulative_lap_time": 26.875,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.987,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -8.165,
+          "22": -2.987
+        }
+      },
+      "gap_distance_meters": 124.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1382,
+      "elapsed_race_time": 2202.076,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 22,
+      "sector_time": 42.755,
+      "cumulative_lap_time": 69.63,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.056,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -8.24,
+          "22": -3.056
+        }
+      },
+      "gap_distance_meters": 127.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1398,
+      "elapsed_race_time": 2231.214,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 22,
+      "sector_time": 29.138,
+      "cumulative_lap_time": 98.768,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.49,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -8.584,
+          "22": -3.49
+        }
+      },
+      "gap_distance_meters": 145.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1418,
+      "elapsed_race_time": 2258.032,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 23,
+      "sector_time": 26.818,
+      "cumulative_lap_time": 26.818,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.644,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -8.652,
+          "22": -3.644
+        }
+      },
+      "gap_distance_meters": 151.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1445,
+      "elapsed_race_time": 2300.949,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 23,
+      "sector_time": 42.917,
+      "cumulative_lap_time": 69.735,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.859,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -9.003,
+          "22": -3.859
+        }
+      },
+      "gap_distance_meters": 160.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1461,
+      "elapsed_race_time": 2330.002,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 23,
+      "sector_time": 29.053,
+      "cumulative_lap_time": 98.788,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 4.17,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -9.173,
+          "22": -4.17
+        }
+      },
+      "gap_distance_meters": 173.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1481,
+      "elapsed_race_time": 2356.994,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 24,
+      "sector_time": 26.992,
+      "cumulative_lap_time": 26.992,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 4.467,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -9.271,
+          "22": -4.467
+        }
+      },
+      "gap_distance_meters": 186.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1507,
+      "elapsed_race_time": 2399.924,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 24,
+      "sector_time": 42.93,
+      "cumulative_lap_time": 69.922,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 4.814,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -9.741,
+          "22": -4.814
+        }
+      },
+      "gap_distance_meters": 200.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1524,
+      "elapsed_race_time": 2428.973,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 24,
+      "sector_time": 29.049,
+      "cumulative_lap_time": 98.971,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 5.257,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -9.816,
+          "22": -5.257
+        }
+      },
+      "gap_distance_meters": 219.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1542,
+      "elapsed_race_time": 2455.819,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 25,
+      "sector_time": 26.846,
+      "cumulative_lap_time": 26.846,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 5.418,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -9.63,
+          "22": -5.418
+        }
+      },
+      "gap_distance_meters": 225.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1569,
+      "elapsed_race_time": 2498.799,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 25,
+      "sector_time": 42.98,
+      "cumulative_lap_time": 69.826,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 5.753,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -10.003,
+          "22": -5.753
+        }
+      },
+      "gap_distance_meters": 239.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1587,
+      "elapsed_race_time": 2527.937,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 25,
+      "sector_time": 29.138,
+      "cumulative_lap_time": 98.964,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 6.085,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -10.145,
+          "22": -6.085
+        }
+      },
+      "gap_distance_meters": 253.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1605,
+      "elapsed_race_time": 2554.776,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 26,
+      "sector_time": 26.839,
+      "cumulative_lap_time": 26.839,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 6.237,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -10.072,
+          "22": -6.237
+        }
+      },
+      "gap_distance_meters": 259.9,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1632,
+      "elapsed_race_time": 2597.652,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 26,
+      "sector_time": 42.876,
+      "cumulative_lap_time": 69.715,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 6.581,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -10.225,
+          "22": -6.581
+        }
+      },
+      "gap_distance_meters": 274.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1649,
+      "elapsed_race_time": 2626.816,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 26,
+      "sector_time": 29.164,
+      "cumulative_lap_time": 98.879,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 7.083,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -10.474,
+          "22": -7.083
+        }
+      },
+      "gap_distance_meters": 295.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1668,
+      "elapsed_race_time": 2653.719,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 27,
+      "sector_time": 26.903,
+      "cumulative_lap_time": 26.903,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 7.261,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -10.406,
+          "22": -7.261
+        }
+      },
+      "gap_distance_meters": 302.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1694,
+      "elapsed_race_time": 2696.546,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 27,
+      "sector_time": 42.827,
+      "cumulative_lap_time": 69.73,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 7.401,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -10.624,
+          "22": -7.401
+        }
+      },
+      "gap_distance_meters": 308.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1711,
+      "elapsed_race_time": 2725.69,
+      "driver_number": "72",
+      "driver_name": "Ethan Goulart",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 27,
+      "sector_time": 29.144,
+      "cumulative_lap_time": 98.874,
+      "race_position": 3,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 7.915,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -10.655,
+          "22": -7.915
+        }
+      },
+      "gap_distance_meters": 329.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    }
+  ]
+}

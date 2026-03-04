@@ -1,0 +1,290 @@
+.executive-summary {
+  animation: fadeIn 0.3s ease;
+}
+
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 1200px) {
+  .summary-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.summary-card {
+  background: var(--carbon-black);
+  border: 1px solid var(--grid-line);
+  border-radius: 8px;
+  padding: 1.5rem;
+  display: flex;
+  gap: 1rem;
+  transition: all 0.3s ease;
+}
+
+.summary-card:hover {
+  border-color: var(--racing-red);
+  box-shadow: 0 4px 20px rgba(230, 57, 70, 0.15);
+  transform: translateY(-2px);
+}
+
+.card-icon {
+  font-size: 2.5rem;
+  flex-shrink: 0;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-content {
+  flex: 1;
+}
+
+.card-content h3 {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 0 0 0.75rem 0;
+  font-weight: 600;
+}
+
+.card-value {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--electric-blue);
+  margin-bottom: 0.25rem;
+  letter-spacing: 0.05em;
+}
+
+.card-detail {
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+}
+
+/* Technical Compliance Card */
+.card-metrics {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: space-around;
+}
+
+.metric {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.metric-value {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--electric-blue);
+  line-height: 1;
+}
+
+.metric-value.anomalous {
+  color: var(--warning-yellow);
+}
+
+.metric-label {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  text-align: center;
+  margin-top: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Driver Highlight */
+.driver-highlight {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.driver-number {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--racing-red);
+  background: rgba(230, 57, 70, 0.1);
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  border: 2px solid var(--racing-red);
+  line-height: 1;
+}
+
+.driver-info {
+  flex: 1;
+}
+
+.driver-name {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+}
+
+.improvement-percent {
+  font-family: var(--font-mono);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--neon-green);
+}
+
+.consistency-value {
+  font-family: var(--font-mono);
+  font-size: 0.95rem;
+  color: var(--electric-blue);
+  font-weight: 600;
+}
+
+/* Field Health Card */
+.field-status {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.field-card.converging .status-badge {
+  background: rgba(57, 255, 20, 0.2);
+  color: var(--neon-green);
+  border: 2px solid var(--neon-green);
+}
+
+.field-card.diverging .status-badge {
+  background: rgba(230, 57, 70, 0.2);
+  color: var(--racing-red);
+  border: 2px solid var(--racing-red);
+}
+
+.field-metrics {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.field-metric {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.field-label {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.field-value {
+  font-family: var(--font-mono);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+/* Key Findings */
+.insights-summary-text {
+  background: var(--carbon-black);
+  border: 1px solid var(--grid-line);
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+.findings-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.finding-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 1rem;
+  border-radius: 4px;
+  background: var(--pit-black);
+  border-left: 4px solid;
+  transition: all 0.2s ease;
+}
+
+.finding-item:hover {
+  transform: translateX(4px);
+}
+
+.finding-item.warning {
+  border-left-color: var(--warning-yellow);
+  background: rgba(255, 214, 10, 0.05);
+}
+
+.finding-item.alert {
+  border-left-color: var(--racing-red);
+  background: rgba(230, 57, 70, 0.05);
+}
+
+.finding-item.success {
+  border-left-color: var(--neon-green);
+  background: rgba(57, 255, 20, 0.05);
+}
+
+.finding-item.info {
+  border-left-color: var(--electric-blue);
+  background: rgba(0, 217, 255, 0.05);
+}
+
+.finding-icon {
+  font-size: 1.5rem;
+  flex-shrink: 0;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+}
+
+.finding-text {
+  flex: 1;
+  font-family: var(--font-body);
+  color: var(--text-primary);
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+@media (max-width: 768px) {
+  .summary-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .card-metrics {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .driver-highlight {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

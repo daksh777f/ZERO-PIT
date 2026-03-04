@@ -1,0 +1,1817 @@
+{
+  "driver_number": "113",
+  "driver_name": "Ethan Tovo",
+  "total_events": 72,
+  "events": [
+    {
+      "event_id": 14,
+      "elapsed_race_time": 30.257,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 1,
+      "sector_time": 30.257,
+      "cumulative_lap_time": 30.257,
+      "race_position": 14,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.338,
+        "car_ahead_number": "7",
+        "to_all_cars": {
+          "13": -2.676,
+          "72": -2.373,
+          "22": -2.115,
+          "98": -1.713,
+          "55": -1.656,
+          "47": -1.352,
+          "2": -1.302,
+          "46": -1.129,
+          "111": -1.123,
+          "41": -0.856,
+          "31": -0.557,
+          "21": -0.447,
+          "7": -0.338
+        }
+      },
+      "gap_distance_meters": 14.1,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 36,
+      "elapsed_race_time": 74.202,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 1,
+      "sector_time": 43.945,
+      "cumulative_lap_time": 74.202,
+      "race_position": 14,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.239,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "13": -4.343,
+          "72": -3.794,
+          "22": -3.484,
+          "55": -2.925,
+          "98": -2.744,
+          "2": -2.289,
+          "47": -1.989,
+          "46": -1.48,
+          "111": -1.174,
+          "21": -0.62,
+          "7": -0.501,
+          "41": -0.471,
+          "31": -0.239
+        }
+      },
+      "gap_distance_meters": 10.0,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 58,
+      "elapsed_race_time": 103.793,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 1,
+      "sector_time": 29.591,
+      "cumulative_lap_time": 103.793,
+      "race_position": 14,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.106,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "13": -5.571,
+          "72": -4.161,
+          "22": -4.135,
+          "55": -3.825,
+          "98": -3.551,
+          "2": -3.107,
+          "47": -2.902,
+          "46": -2.314,
+          "111": -1.762,
+          "21": -0.969,
+          "7": -0.498,
+          "41": -0.367,
+          "31": -0.106
+        }
+      },
+      "gap_distance_meters": 4.4,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 80,
+      "elapsed_race_time": 130.9,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 2,
+      "sector_time": 27.107,
+      "cumulative_lap_time": 27.107,
+      "race_position": 14,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.301,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "13": -5.942,
+          "22": -4.47,
+          "72": -4.249,
+          "55": -3.973,
+          "98": -3.74,
+          "2": -3.431,
+          "47": -3.172,
+          "46": -2.635,
+          "111": -1.937,
+          "21": -1.372,
+          "7": -0.816,
+          "41": -0.623,
+          "31": -0.301
+        }
+      },
+      "gap_distance_meters": 12.5,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 102,
+      "elapsed_race_time": 173.68,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 2,
+      "sector_time": 42.78,
+      "cumulative_lap_time": 69.887,
+      "race_position": 14,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.364,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "13": -6.44,
+          "22": -4.777,
+          "72": -4.514,
+          "55": -4.228,
+          "98": -4.031,
+          "2": -3.578,
+          "47": -3.306,
+          "46": -2.88,
+          "111": -2.107,
+          "21": -1.532,
+          "7": -0.966,
+          "41": -0.756,
+          "31": -0.364
+        }
+      },
+      "gap_distance_meters": 15.2,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 124,
+      "elapsed_race_time": 202.313,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 2,
+      "sector_time": 28.633,
+      "cumulative_lap_time": 98.52,
+      "race_position": 14,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.094,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "13": -6.741,
+          "22": -4.772,
+          "72": -4.321,
+          "55": -4.001,
+          "98": -3.835,
+          "2": -3.504,
+          "47": -2.977,
+          "46": -2.516,
+          "111": -1.834,
+          "21": -1.247,
+          "7": -0.753,
+          "41": -0.424,
+          "31": -0.094
+        }
+      },
+      "gap_distance_meters": 3.9,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 146,
+      "elapsed_race_time": 229.47,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 3,
+      "sector_time": 27.157,
+      "cumulative_lap_time": 27.157,
+      "race_position": 14,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.181,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "13": -7.287,
+          "22": -5.392,
+          "72": -4.843,
+          "55": -4.297,
+          "98": -4.109,
+          "2": -3.939,
+          "47": -3.518,
+          "46": -2.892,
+          "111": -2.161,
+          "21": -1.658,
+          "7": -1.047,
+          "41": -0.494,
+          "31": -0.181
+        }
+      },
+      "gap_distance_meters": 7.5,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 168,
+      "elapsed_race_time": 272.274,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 3,
+      "sector_time": 42.804,
+      "cumulative_lap_time": 69.961,
+      "race_position": 14,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.352,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "13": -7.873,
+          "22": -5.756,
+          "72": -5.047,
+          "55": -4.484,
+          "98": -3.995,
+          "2": -3.652,
+          "47": -3.407,
+          "46": -3.01,
+          "111": -2.187,
+          "21": -1.927,
+          "7": -1.204,
+          "41": -0.692,
+          "31": -0.352
+        }
+      },
+      "gap_distance_meters": 14.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 190,
+      "elapsed_race_time": 301.064,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 3,
+      "sector_time": 28.79,
+      "cumulative_lap_time": 98.751,
+      "race_position": 14,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.432,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "13": -8.055,
+          "22": -6.007,
+          "72": -5.006,
+          "55": -4.515,
+          "98": -4.273,
+          "2": -3.877,
+          "47": -3.466,
+          "46": -3.02,
+          "111": -2.073,
+          "21": -1.796,
+          "7": -1.154,
+          "41": -0.726,
+          "31": -0.432
+        }
+      },
+      "gap_distance_meters": 18.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 213,
+      "elapsed_race_time": 328.957,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 4,
+      "sector_time": 27.893,
+      "cumulative_lap_time": 27.893,
+      "race_position": 15,
+      "position_change": -1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.152,
+        "car_ahead_number": "5",
+        "to_all_cars": {
+          "13": -9.254,
+          "22": -7.319,
+          "72": -6.189,
+          "55": -5.769,
+          "98": -5.526,
+          "2": -5.12,
+          "47": -4.412,
+          "46": -4.213,
+          "111": -3.093,
+          "21": -3.071,
+          "7": -2.355,
+          "41": -1.972,
+          "31": -1.503,
+          "5": -0.152
+        }
+      },
+      "gap_distance_meters": 6.3,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 242,
+      "elapsed_race_time": 380.727,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 4,
+      "sector_time": 51.77,
+      "cumulative_lap_time": 79.663,
+      "race_position": 22,
+      "position_change": -7,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.856,
+        "car_ahead_number": "18",
+        "to_all_cars": {
+          "13": -18.698,
+          "22": -16.726,
+          "72": -15.384,
+          "55": -15.192,
+          "98": -14.885,
+          "2": -14.555,
+          "47": -13.69,
+          "46": -13.232,
+          "21": -11.668,
+          "111": -11.393,
+          "7": -11.034,
+          "41": -10.817,
+          "31": -10.515,
+          "5": -9.039,
+          "88": -8.727,
+          "51": -7.998,
+          "3": -6.383,
+          "93": -6.063,
+          "58": -4.823,
+          "80": -4.144,
+          "18": -0.856
+        }
+      },
+      "gap_distance_meters": 35.7,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 325,
+      "elapsed_race_time": 506.406,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 4,
+      "sector_time": 125.679,
+      "cumulative_lap_time": 205.342,
+      "race_position": 22,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 347,
+      "elapsed_race_time": 542.179,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 5,
+      "sector_time": 35.773,
+      "cumulative_lap_time": 35.773,
+      "race_position": 22,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 368,
+      "elapsed_race_time": 584.92,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 5,
+      "sector_time": 42.741,
+      "cumulative_lap_time": 78.514,
+      "race_position": 22,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 96.151,
+        "car_ahead_number": "93",
+        "to_all_cars": {
+          "93": -96.151
+        }
+      },
+      "gap_distance_meters": 4006.6,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 389,
+      "elapsed_race_time": 613.878,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 5,
+      "sector_time": 28.958,
+      "cumulative_lap_time": 107.472,
+      "race_position": 21,
+      "position_change": 1,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 409,
+      "elapsed_race_time": 640.939,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 6,
+      "sector_time": 27.061,
+      "cumulative_lap_time": 27.061,
+      "race_position": 21,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 431,
+      "elapsed_race_time": 684.037,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 6,
+      "sector_time": 43.098,
+      "cumulative_lap_time": 70.159,
+      "race_position": 21,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 453,
+      "elapsed_race_time": 712.854,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 6,
+      "sector_time": 28.817,
+      "cumulative_lap_time": 98.976,
+      "race_position": 21,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 473,
+      "elapsed_race_time": 739.769,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 7,
+      "sector_time": 26.915,
+      "cumulative_lap_time": 26.915,
+      "race_position": 21,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 496,
+      "elapsed_race_time": 782.734,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 7,
+      "sector_time": 42.965,
+      "cumulative_lap_time": 69.88,
+      "race_position": 21,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 518,
+      "elapsed_race_time": 811.817,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 7,
+      "sector_time": 29.083,
+      "cumulative_lap_time": 98.963,
+      "race_position": 21,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 537,
+      "elapsed_race_time": 839.127,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 8,
+      "sector_time": 27.31,
+      "cumulative_lap_time": 27.31,
+      "race_position": 21,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 561,
+      "elapsed_race_time": 881.883,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 8,
+      "sector_time": 42.756,
+      "cumulative_lap_time": 70.066,
+      "race_position": 21,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 582,
+      "elapsed_race_time": 910.906,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 8,
+      "sector_time": 29.023,
+      "cumulative_lap_time": 99.089,
+      "race_position": 21,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 600,
+      "elapsed_race_time": 937.6,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 9,
+      "sector_time": 26.694,
+      "cumulative_lap_time": 26.694,
+      "race_position": 21,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 622,
+      "elapsed_race_time": 980.316,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 9,
+      "sector_time": 42.716,
+      "cumulative_lap_time": 69.41,
+      "race_position": 21,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 80.959,
+        "car_ahead_number": "58",
+        "to_all_cars": {
+          "80": -103.585,
+          "58": -80.959
+        }
+      },
+      "gap_distance_meters": 3373.6,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 643,
+      "elapsed_race_time": 1009.406,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 9,
+      "sector_time": 29.09,
+      "cumulative_lap_time": 98.5,
+      "race_position": 20,
+      "position_change": 1,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_car_ahead": 13.155,
+        "car_ahead_number": "80",
+        "to_all_cars": {
+          "80": -13.155
+        }
+      },
+      "gap_distance_meters": 548.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 663,
+      "elapsed_race_time": 1036.118,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 10,
+      "sector_time": 26.712,
+      "cumulative_lap_time": 26.712,
+      "race_position": 20,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 2.635,
+        "car_ahead_number": "80",
+        "to_all_cars": {
+          "80": -2.635
+        }
+      },
+      "gap_distance_meters": 109.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 687,
+      "elapsed_race_time": 1078.973,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 10,
+      "sector_time": 42.855,
+      "cumulative_lap_time": 69.567,
+      "race_position": 20,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 1.931,
+        "car_ahead_number": "80",
+        "to_all_cars": {
+          "80": -1.931
+        }
+      },
+      "gap_distance_meters": 80.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 708,
+      "elapsed_race_time": 1107.864,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 10,
+      "sector_time": 28.891,
+      "cumulative_lap_time": 98.458,
+      "race_position": 20,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_car_ahead": 0.806,
+        "car_ahead_number": "80",
+        "to_all_cars": {
+          "80": -0.806
+        }
+      },
+      "gap_distance_meters": 33.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 728,
+      "elapsed_race_time": 1134.896,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 11,
+      "sector_time": 27.032,
+      "cumulative_lap_time": 27.032,
+      "race_position": 20,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 0.566,
+        "car_ahead_number": "80",
+        "to_all_cars": {
+          "80": -0.566
+        }
+      },
+      "gap_distance_meters": 23.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 753,
+      "elapsed_race_time": 1178.748,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 11,
+      "sector_time": 43.852,
+      "cumulative_lap_time": 70.884,
+      "race_position": 20,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 0.145,
+        "car_ahead_number": "80",
+        "to_all_cars": {
+          "80": -0.145
+        }
+      },
+      "gap_distance_meters": 6.0,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 773,
+      "elapsed_race_time": 1208.315,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 11,
+      "sector_time": 29.567,
+      "cumulative_lap_time": 100.451,
+      "race_position": 19,
+      "position_change": 1,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 793,
+      "elapsed_race_time": 1235.182,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 12,
+      "sector_time": 26.867,
+      "cumulative_lap_time": 26.867,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 818,
+      "elapsed_race_time": 1277.859,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 12,
+      "sector_time": 42.677,
+      "cumulative_lap_time": 69.544,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 839,
+      "elapsed_race_time": 1306.82,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 12,
+      "sector_time": 28.961,
+      "cumulative_lap_time": 98.505,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 859,
+      "elapsed_race_time": 1333.51,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 13,
+      "sector_time": 26.69,
+      "cumulative_lap_time": 26.69,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 884,
+      "elapsed_race_time": 1376.137,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 13,
+      "sector_time": 42.627,
+      "cumulative_lap_time": 69.317,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 905,
+      "elapsed_race_time": 1405.202,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 13,
+      "sector_time": 29.065,
+      "cumulative_lap_time": 98.382,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 924,
+      "elapsed_race_time": 1432.024,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 14,
+      "sector_time": 26.822,
+      "cumulative_lap_time": 26.822,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 950,
+      "elapsed_race_time": 1474.846,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 14,
+      "sector_time": 42.822,
+      "cumulative_lap_time": 69.644,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 972,
+      "elapsed_race_time": 1503.859,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 14,
+      "sector_time": 29.013,
+      "cumulative_lap_time": 98.657,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 990,
+      "elapsed_race_time": 1530.696,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 15,
+      "sector_time": 26.837,
+      "cumulative_lap_time": 26.837,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1016,
+      "elapsed_race_time": 1573.463,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 15,
+      "sector_time": 42.767,
+      "cumulative_lap_time": 69.604,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1040,
+      "elapsed_race_time": 1602.743,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 15,
+      "sector_time": 29.28,
+      "cumulative_lap_time": 98.884,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1056,
+      "elapsed_race_time": 1629.557,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 16,
+      "sector_time": 26.814,
+      "cumulative_lap_time": 26.814,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1081,
+      "elapsed_race_time": 1672.313,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 16,
+      "sector_time": 42.756,
+      "cumulative_lap_time": 69.57,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1106,
+      "elapsed_race_time": 1701.298,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 16,
+      "sector_time": 28.985,
+      "cumulative_lap_time": 98.555,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1122,
+      "elapsed_race_time": 1728.149,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 17,
+      "sector_time": 26.851,
+      "cumulative_lap_time": 26.851,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1147,
+      "elapsed_race_time": 1770.836,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 17,
+      "sector_time": 42.687,
+      "cumulative_lap_time": 69.538,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1169,
+      "elapsed_race_time": 1799.837,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 17,
+      "sector_time": 29.001,
+      "cumulative_lap_time": 98.539,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1184,
+      "elapsed_race_time": 1826.937,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 18,
+      "sector_time": 27.1,
+      "cumulative_lap_time": 27.1,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_all_cars": {}
+      },
+      "gap_distance_meters": null,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1207,
+      "elapsed_race_time": 1869.612,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 18,
+      "sector_time": 42.675,
+      "cumulative_lap_time": 69.775,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 116.302,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -116.302
+        }
+      },
+      "gap_distance_meters": 4846.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1232,
+      "elapsed_race_time": 1898.662,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 18,
+      "sector_time": 29.05,
+      "cumulative_lap_time": 98.825,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_car_ahead": 24.906,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -24.906
+        }
+      },
+      "gap_distance_meters": 1037.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1249,
+      "elapsed_race_time": 1925.447,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 19,
+      "sector_time": 26.785,
+      "cumulative_lap_time": 26.785,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 15.693,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -15.693
+        }
+      },
+      "gap_distance_meters": 653.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1273,
+      "elapsed_race_time": 1968.246,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 19,
+      "sector_time": 42.799,
+      "cumulative_lap_time": 69.584,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 15.74,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -15.74
+        }
+      },
+      "gap_distance_meters": 655.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1298,
+      "elapsed_race_time": 1997.434,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 19,
+      "sector_time": 29.188,
+      "cumulative_lap_time": 98.772,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_car_ahead": 15.898,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -15.898
+        }
+      },
+      "gap_distance_meters": 662.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1314,
+      "elapsed_race_time": 2024.304,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 20,
+      "sector_time": 26.87,
+      "cumulative_lap_time": 26.87,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 15.903,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -15.903
+        }
+      },
+      "gap_distance_meters": 662.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1339,
+      "elapsed_race_time": 2067.026,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 20,
+      "sector_time": 42.722,
+      "cumulative_lap_time": 69.592,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 16.085,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -16.085
+        }
+      },
+      "gap_distance_meters": 670.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1363,
+      "elapsed_race_time": 2096.129,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 20,
+      "sector_time": 29.103,
+      "cumulative_lap_time": 98.695,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_car_ahead": 16.298,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -16.298
+        }
+      },
+      "gap_distance_meters": 679.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1379,
+      "elapsed_race_time": 2122.972,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 21,
+      "sector_time": 26.843,
+      "cumulative_lap_time": 26.843,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 16.375,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -16.375
+        }
+      },
+      "gap_distance_meters": 682.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1404,
+      "elapsed_race_time": 2165.727,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 21,
+      "sector_time": 42.755,
+      "cumulative_lap_time": 69.598,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 16.509,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -16.509
+        }
+      },
+      "gap_distance_meters": 687.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1428,
+      "elapsed_race_time": 2194.625,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 21,
+      "sector_time": 28.898,
+      "cumulative_lap_time": 98.496,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_car_ahead": 16.429,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -16.429
+        }
+      },
+      "gap_distance_meters": 684.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1445,
+      "elapsed_race_time": 2221.35,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 22,
+      "sector_time": 26.725,
+      "cumulative_lap_time": 26.725,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 16.457,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -16.457
+        }
+      },
+      "gap_distance_meters": 685.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1471,
+      "elapsed_race_time": 2264.348,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 22,
+      "sector_time": 42.998,
+      "cumulative_lap_time": 69.723,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 17.009,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -17.009
+        }
+      },
+      "gap_distance_meters": 708.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1495,
+      "elapsed_race_time": 2293.541,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 22,
+      "sector_time": 29.193,
+      "cumulative_lap_time": 98.916,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_car_ahead": 17.334,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -17.334
+        }
+      },
+      "gap_distance_meters": 722.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1511,
+      "elapsed_race_time": 2320.24,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 23,
+      "sector_time": 26.699,
+      "cumulative_lap_time": 26.699,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 17.315,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -17.315
+        }
+      },
+      "gap_distance_meters": 721.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1537,
+      "elapsed_race_time": 2363.32,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 23,
+      "sector_time": 43.08,
+      "cumulative_lap_time": 69.779,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 17.782,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -17.782
+        }
+      },
+      "gap_distance_meters": 741.0,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1562,
+      "elapsed_race_time": 2393.332,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 23,
+      "sector_time": 30.012,
+      "cumulative_lap_time": 99.791,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 2,
+      "deltas": {
+        "to_car_ahead": 17.543,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -17.543
+        }
+      },
+      "gap_distance_meters": 731.0,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1578,
+      "elapsed_race_time": 2420.146,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 24,
+      "sector_time": 26.814,
+      "cumulative_lap_time": 26.814,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 17.532,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -17.532
+        }
+      },
+      "gap_distance_meters": 730.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1607,
+      "elapsed_race_time": 2463.258,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 24,
+      "sector_time": 43.112,
+      "cumulative_lap_time": 69.926,
+      "race_position": 19,
+      "position_change": 0,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 1,
+      "deltas": {
+        "to_car_ahead": 17.533,
+        "car_ahead_number": "31",
+        "to_all_cars": {
+          "31": -17.533
+        }
+      },
+      "gap_distance_meters": 730.6,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1806,
+      "elapsed_race_time": 2855.196,
+      "driver_number": "113",
+      "driver_name": "Ethan Tovo",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 24,
+      "sector_time": 391.938,
+      "cumulative_lap_time": 461.864,
+      "race_position": 22,
+      "position_change": -3,
+      "on_same_lap_as_leader": false,
+      "laps_behind_leader": 4,
+      "deltas": {
+        "to_car_ahead": 56.558,
+        "car_ahead_number": "93",
+        "to_all_cars": {
+          "93": -56.558
+        }
+      },
+      "gap_distance_meters": 2356.8,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    }
+  ]
+}

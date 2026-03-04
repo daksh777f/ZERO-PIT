@@ -1,0 +1,234 @@
+/* Driver Profile Specific Styles */
+
+.profile-card {
+  animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.driver-team {
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin-top: 0.25rem;
+}
+
+.alpha-badge {
+  padding: 0.75rem 1.5rem;
+  background: var(--asphalt);
+  border: 1px solid var(--grid-line);
+  border-radius: 6px;
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.alpha-badge span {
+  font-size: 1.25rem;
+  margin-left: 0.5rem;
+}
+
+/* Profile Data Container */
+.profile-data-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.data-section {
+  background: var(--asphalt);
+  border: 1px solid var(--grid-line);
+  border-radius: 6px;
+  padding: 1.25rem;
+  transition: all 0.2s ease;
+}
+
+.data-section:hover {
+  border-color: var(--racing-red);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(230, 57, 70, 0.15);
+}
+
+.section-title {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--grid-line);
+}
+
+.sector-1-title {
+  border-bottom-color: var(--sector-1);
+}
+
+.sector-2-title {
+  border-bottom-color: var(--sector-2);
+}
+
+.sector-3-title {
+  border-bottom-color: var(--sector-3);
+}
+
+/* Profile Table */
+.profile-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.profile-table tbody tr {
+  border-bottom: 1px solid var(--grid-line);
+  transition: all 0.2s ease;
+}
+
+.profile-table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.profile-table tbody tr:hover {
+  background: rgba(230, 57, 70, 0.05);
+}
+
+.label-cell {
+  padding: 0.75rem 1rem;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  font-weight: 600;
+  width: 60%;
+}
+
+.value-cell {
+  padding: 0.75rem 1rem;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: var(--text-primary);
+  text-align: right;
+  font-weight: 600;
+}
+
+.value-cell.mono {
+  font-family: var(--font-mono);
+}
+
+.value-cell.highlight {
+  color: var(--electric-blue);
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.alpha-value {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+/* Sector Colors */
+.sector-1 {
+  color: var(--sector-1) !important;
+}
+
+.sector-2 {
+  color: var(--sector-2) !important;
+}
+
+.sector-3 {
+  color: var(--sector-3) !important;
+}
+
+/* Pace Profile Colors */
+.pace-p1 {
+  color: #9d4edd !important;
+  font-weight: 700;
+}
+
+.pace-top3 {
+  color: #06ffa5 !important;
+  font-weight: 700;
+}
+
+.pace-top5 {
+  color: #00d9ff !important;
+  font-weight: 700;
+}
+
+.pace-top10 {
+  color: #ffa500 !important;
+  font-weight: 700;
+}
+
+/* Empty State */
+.empty-state {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.empty-state-content {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.empty-state-icon {
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+  opacity: 0.5;
+}
+
+.empty-state-title {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.empty-state-text {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+  .profile-data-container {
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .profile-data-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .alpha-badge {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+  }
+  
+  .alpha-badge span {
+    font-size: 1rem;
+  }
+  
+  .label-cell,
+  .value-cell {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.85rem;
+  }
+}

@@ -1,0 +1,132 @@
+.weekend-insights-header {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  flex: 1;
+  min-width: 0;
+}
+
+.weekend-insights-header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.weekend-insights-title {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.weekend-insights-icon {
+  font-size: 1.75rem;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+}
+
+.weekend-insights-title h1 {
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  background: linear-gradient(135deg, var(--electric-blue), var(--racing-red));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin: 0;
+}
+
+.weekend-insights-sections {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--grid-line);
+}
+
+.section-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  background: var(--carbon-black);
+  border: 2px solid var(--grid-line);
+  border-radius: 4px;
+  color: var(--text-secondary);
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  flex: 1;
+  min-width: 120px;
+}
+
+.section-btn:hover {
+  border-color: var(--electric-blue);
+  color: var(--text-primary);
+  box-shadow: 0 0 12px var(--electric-blue-glow);
+}
+
+.section-btn.active {
+  background: linear-gradient(135deg, rgba(230, 57, 70, 0.2), rgba(0, 217, 255, 0.2));
+  border-color: var(--racing-red);
+  color: var(--text-primary);
+  box-shadow: 0 0 16px rgba(230, 57, 70, 0.4);
+}
+
+.section-icon {
+  font-size: 1.25rem;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+}
+
+.section-label {
+  white-space: nowrap;
+  font-size: 0.875rem;
+}
+
+@media (max-width: 1024px) {
+  .weekend-insights-sections {
+    flex-wrap: wrap;
+  }
+
+  .section-btn {
+    flex: 1 1 calc(33.333% - 0.33rem);
+    min-width: 100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .weekend-insights-title h1 {
+    font-size: 1.25rem;
+  }
+
+  .weekend-insights-icon {
+    font-size: 1.25rem;
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .section-btn {
+    flex: 1 1 calc(50% - 0.25rem);
+    padding: 0.6rem 0.8rem;
+  }
+
+  .section-label {
+    display: none;
+  }
+
+  .section-icon {
+    font-size: 1.4rem;
+    display: inline-flex;
+    align-items: center;
+  }
+}

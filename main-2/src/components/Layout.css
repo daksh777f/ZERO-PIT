@@ -1,0 +1,307 @@
+.layout {
+  display: flex;
+  height: 100vh;
+  max-height: 100vh;
+  overflow: hidden;
+  background: linear-gradient(135deg, var(--carbon-black) 0%, var(--pit-black) 100%);
+}
+
+/* Sidebar */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 280px;
+  background: var(--pit-black);
+  border-right: 2px solid var(--racing-red);
+  transform: translateX(-100%);
+  transition: transform 0.3s ease;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 4px 0 20px rgba(230, 57, 70, 0.3);
+}
+
+.sidebar.open {
+  transform: translateX(0);
+}
+
+.sidebar-header {
+  padding: 2rem 1.5rem;
+  border-bottom: 1px solid var(--grid-line);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sidebar-title {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  background: linear-gradient(135deg, var(--electric-blue), var(--racing-red));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.close-menu-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-secondary);
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  transition: all 0.2s ease;
+  line-height: 1;
+}
+
+.close-menu-btn:hover {
+  color: var(--racing-red);
+  transform: rotate(90deg);
+}
+
+.sidebar-nav {
+  flex: 1;
+  padding: 1rem 0;
+  overflow-y: auto;
+}
+
+.sidebar-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.5rem;
+  background: transparent;
+  border: none;
+  border-left: 3px solid transparent;
+  color: var(--text-secondary);
+  font-family: var(--font-body);
+  font-size: 1.125rem;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.sidebar-item:hover {
+  background: rgba(230, 57, 70, 0.1);
+  color: var(--text-primary);
+  border-left-color: var(--racing-red);
+}
+
+.sidebar-item.active {
+  background: rgba(230, 57, 70, 0.2);
+  color: var(--racing-red);
+  border-left-color: var(--racing-red);
+}
+
+.sidebar-icon {
+  font-size: 1.5rem;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu-icon-glitch {
+  color: var(--electric-blue);
+  filter: drop-shadow(0 0 5px rgba(0, 217, 255, 0.5));
+  transition: all 0.3s ease;
+}
+
+.sidebar-item:hover .menu-icon-glitch {
+  color: var(--racing-red);
+  filter: drop-shadow(0 0 10px rgba(230, 57, 70, 0.8));
+  animation: glitch-icon 0.3s infinite linear alternate-reverse;
+}
+
+.sidebar-item.active .menu-icon-glitch {
+  color: #06ffa5;
+  /* vibrant green */
+  filter: drop-shadow(0 0 10px rgba(6, 255, 165, 0.8));
+  animation: pulse-icon 2s infinite ease-in-out;
+}
+
+@keyframes glitch-icon {
+  0% {
+    transform: translate(1px, 1px) skewX(2deg);
+  }
+
+  25% {
+    transform: translate(-1px, 0) skewX(-2deg);
+  }
+
+  50% {
+    transform: translate(0, -1px) skewX(1deg);
+  }
+
+  75% {
+    transform: translate(-1px, 1px) skewX(-1deg);
+  }
+
+  100% {
+    transform: translate(1px, -1px) skewX(2deg);
+  }
+}
+
+@keyframes pulse-icon {
+
+  0%,
+  100% {
+    transform: scale(1);
+    filter: drop-shadow(0 0 10px rgba(6, 255, 165, 0.8));
+  }
+
+  50% {
+    transform: scale(1.1);
+    filter: drop-shadow(0 0 20px rgba(6, 255, 165, 1));
+  }
+}
+
+.sidebar-label {
+  flex: 1;
+}
+
+.sidebar-footer {
+  padding: 1.5rem;
+  border-top: 1px solid var(--grid-line);
+  text-align: center;
+}
+
+.sidebar-version {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  letter-spacing: 0.1em;
+}
+
+/* Menu Overlay */
+.menu-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 999;
+  backdrop-filter: blur(4px);
+}
+
+/* Main Layout */
+.layout-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.layout-header {
+  background: var(--pit-black);
+  border-bottom: 2px solid var(--racing-red);
+  padding: 1.5rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 20px rgba(230, 57, 70, 0.2);
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  min-height: 80px;
+  /* Ensure header has minimum height */
+}
+
+/* Hamburger Button - Always visible in top-left of header */
+.hamburger-btn {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 32px;
+  height: 24px;
+  background: yellow !important;
+  /* DEBUG: Make it super visible */
+  border: 3px solid red !important;
+  /* DEBUG: Make it super visible */
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  flex-shrink: 0;
+  /* Prevent button from shrinking */
+  z-index: 10000 !important;
+  /* DEBUG: Ensure it's on top */
+  transition: all 0.3s ease;
+  position: relative;
+  /* Ensure proper stacking context */
+}
+
+.hamburger-btn:hover {
+  transform: scale(1.1);
+}
+
+.hamburger-btn:focus {
+  outline: 2px solid var(--electric-blue);
+  outline-offset: 4px;
+}
+
+.hamburger-line {
+  width: 100%;
+  height: 3px;
+  background: black !important;
+  /* DEBUG: Make lines super visible */
+  border-radius: 2px;
+  transition: all 0.3s ease;
+  box-shadow: none;
+  display: block !important;
+  /* Ensure lines are visible */
+}
+
+.hamburger-btn:hover .hamburger-line {
+  background: var(--electric-blue);
+  box-shadow: 0 0 12px var(--electric-blue-glow);
+}
+
+/* Content */
+.layout-content {
+  flex: 1;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  overflow-y: auto;
+  /* Allow scrolling by default */
+  overflow-x: hidden;
+}
+
+/* Special case for features that need to fill viewport without scrolling */
+.layout-content.no-scroll {
+  overflow: hidden;
+  max-height: 100%;
+  will-change: auto;
+  /* Prevent unnecessary GPU layers */
+  contain: layout style;
+  /* Isolate layout calculations */
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    max-width: 280px;
+  }
+
+  .layout-header {
+    padding: 1rem 1.5rem;
+  }
+
+  .layout-content {
+    padding: 1rem;
+  }
+}

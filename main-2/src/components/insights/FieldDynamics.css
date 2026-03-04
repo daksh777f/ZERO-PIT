@@ -1,0 +1,230 @@
+.field-dynamics {
+  animation: fadeIn 0.3s ease;
+}
+
+.field-summary {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 1000px) {
+  .field-summary {
+    grid-template-columns: 1fr;
+  }
+}
+
+.field-card {
+  background: var(--carbon-black);
+  border: 1px solid var(--grid-line);
+  border-radius: 8px;
+  padding: 1.5rem;
+  display: flex;
+  gap: 1rem;
+  transition: all 0.3s ease;
+}
+
+.field-card:hover {
+  border-color: var(--racing-red);
+  box-shadow: 0 4px 20px rgba(230, 57, 70, 0.15);
+  transform: translateY(-4px);
+}
+
+.field-card.converging {
+  border-color: var(--neon-green);
+}
+
+.field-card.converging:hover {
+  box-shadow: 0 4px 20px rgba(57, 255, 20, 0.15);
+}
+
+.field-card.diverging {
+  border-color: var(--racing-red);
+}
+
+.field-card-icon {
+  font-size: 2.5rem;
+  flex-shrink: 0;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.field-card-content {
+  flex: 1;
+}
+
+.field-card-content h3 {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 0 0 0.5rem 0;
+}
+
+.field-card-value {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--electric-blue);
+  margin-bottom: 0.25rem;
+  letter-spacing: 0.05em;
+}
+
+.field-card.converging .field-card-value {
+  color: var(--neon-green);
+}
+
+.field-card.diverging .field-card-value {
+  color: var(--racing-red);
+}
+
+.field-card-detail {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.field-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+@media (max-width: 900px) {
+  .field-stats-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.stats-card {
+  background: var(--carbon-black);
+  border: 1px solid var(--grid-line);
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+.stats-card h4 {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--racing-red);
+  margin: 0 0 1rem 0;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--grid-line);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.stats-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.stat-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.stat-label {
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.stat-value {
+  font-family: var(--font-mono);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.field-analysis {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--grid-line);
+}
+
+.analysis-box {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 2px solid;
+  transition: all 0.3s ease;
+}
+
+.analysis-box:hover {
+  transform: translateY(-2px);
+}
+
+.analysis-box.positive {
+  background: rgba(57, 255, 20, 0.05);
+  border-color: var(--neon-green);
+}
+
+.analysis-box.positive:hover {
+  box-shadow: 0 4px 20px rgba(57, 255, 20, 0.15);
+}
+
+.analysis-box.warning {
+  background: rgba(230, 57, 70, 0.05);
+  border-color: var(--racing-red);
+}
+
+.analysis-box.warning:hover {
+  box-shadow: 0 4px 20px rgba(230, 57, 70, 0.15);
+}
+
+.analysis-icon {
+  font-size: 2.5rem;
+  flex-shrink: 0;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.analysis-content {
+  flex: 1;
+}
+
+.analysis-title {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0 0 0.75rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.analysis-text {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .field-summary {
+    grid-template-columns: 1fr;
+  }
+
+  .field-stats-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .analysis-box {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}

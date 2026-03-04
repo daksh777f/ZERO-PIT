@@ -1,0 +1,2247 @@
+{
+  "driver_number": "2",
+  "driver_name": "Will Robusto",
+  "total_events": 81,
+  "events": [
+    {
+      "event_id": 4,
+      "elapsed_race_time": 28.511,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 1,
+      "sector_time": 28.511,
+      "cumulative_lap_time": 28.511,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.226,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -0.863,
+          "72": -0.636,
+          "22": -0.226
+        }
+      },
+      "gap_distance_meters": 9.4,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 26,
+      "elapsed_race_time": 71.683,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 1,
+      "sector_time": 43.172,
+      "cumulative_lap_time": 71.683,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.434,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -1.118,
+          "72": -0.83,
+          "22": -0.434
+        }
+      },
+      "gap_distance_meters": 18.1,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 48,
+      "elapsed_race_time": 104.133,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 1,
+      "sector_time": 32.45,
+      "cumulative_lap_time": 104.133,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.114,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -1.849,
+          "72": -1.475,
+          "22": -1.114
+        }
+      },
+      "gap_distance_meters": 46.4,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 70,
+      "elapsed_race_time": 142.443,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 2,
+      "sector_time": 38.31,
+      "cumulative_lap_time": 38.31,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.334,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -2.295,
+          "72": -1.87,
+          "22": -1.334
+        }
+      },
+      "gap_distance_meters": 55.6,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 92,
+      "elapsed_race_time": 202.624,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 2,
+      "sector_time": 60.181,
+      "cumulative_lap_time": 98.491,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.414,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -2.295,
+          "72": -1.796,
+          "22": -1.414
+        }
+      },
+      "gap_distance_meters": 58.9,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 114,
+      "elapsed_race_time": 239.675,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 2,
+      "sector_time": 37.051,
+      "cumulative_lap_time": 135.542,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.481,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -2.426,
+          "72": -2.124,
+          "22": -0.481
+        }
+      },
+      "gap_distance_meters": 20.0,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 136,
+      "elapsed_race_time": 273.136,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 3,
+      "sector_time": 33.461,
+      "cumulative_lap_time": 33.461,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.814,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -1.679,
+          "72": -1.333,
+          "22": -0.814
+        }
+      },
+      "gap_distance_meters": 33.9,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 158,
+      "elapsed_race_time": 324.932,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 3,
+      "sector_time": 51.796,
+      "cumulative_lap_time": 85.257,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.505,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -1.335,
+          "72": -1.09,
+          "22": -0.505
+        }
+      },
+      "gap_distance_meters": 21.0,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 180,
+      "elapsed_race_time": 361.335,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 3,
+      "sector_time": 36.403,
+      "cumulative_lap_time": 121.66,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.25,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -0.964,
+          "72": -0.583,
+          "22": -0.25
+        }
+      },
+      "gap_distance_meters": 10.4,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 202,
+      "elapsed_race_time": 388.36,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 4,
+      "sector_time": 27.025,
+      "cumulative_lap_time": 27.025,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.386,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -1.087,
+          "72": -0.7,
+          "22": -0.386
+        }
+      },
+      "gap_distance_meters": 16.1,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 224,
+      "elapsed_race_time": 431.186,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 4,
+      "sector_time": 42.826,
+      "cumulative_lap_time": 69.851,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.338,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -1.458,
+          "72": -0.665,
+          "22": -0.338
+        }
+      },
+      "gap_distance_meters": 14.1,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 246,
+      "elapsed_race_time": 460.075,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 4,
+      "sector_time": 28.889,
+      "cumulative_lap_time": 98.74,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.266,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -1.84,
+          "72": -0.897,
+          "22": -0.266
+        }
+      },
+      "gap_distance_meters": 11.1,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 268,
+      "elapsed_race_time": 486.989,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 5,
+      "sector_time": 26.914,
+      "cumulative_lap_time": 26.914,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.415,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -2.053,
+          "72": -1.091,
+          "22": -0.415
+        }
+      },
+      "gap_distance_meters": 17.3,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 290,
+      "elapsed_race_time": 529.755,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 5,
+      "sector_time": 42.766,
+      "cumulative_lap_time": 69.68,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.677,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -2.217,
+          "72": -1.227,
+          "22": -0.677
+        }
+      },
+      "gap_distance_meters": 28.2,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 312,
+      "elapsed_race_time": 558.401,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 5,
+      "sector_time": 28.646,
+      "cumulative_lap_time": 98.326,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.692,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -2.368,
+          "72": -1.285,
+          "22": -0.692
+        }
+      },
+      "gap_distance_meters": 28.8,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 334,
+      "elapsed_race_time": 585.368,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 6,
+      "sector_time": 26.967,
+      "cumulative_lap_time": 26.967,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.998,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -2.743,
+          "72": -1.609,
+          "22": -0.998
+        }
+      },
+      "gap_distance_meters": 41.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 356,
+      "elapsed_race_time": 627.883,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 6,
+      "sector_time": 42.515,
+      "cumulative_lap_time": 69.482,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.044,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -2.806,
+          "72": -1.56,
+          "22": -1.044
+        }
+      },
+      "gap_distance_meters": 43.5,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 378,
+      "elapsed_race_time": 656.777,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 6,
+      "sector_time": 28.894,
+      "cumulative_lap_time": 98.376,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.28,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -3.201,
+          "72": -1.827,
+          "22": -1.28
+        }
+      },
+      "gap_distance_meters": 53.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 400,
+      "elapsed_race_time": 683.825,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 7,
+      "sector_time": 27.048,
+      "cumulative_lap_time": 27.048,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.684,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -3.637,
+          "72": -2.207,
+          "22": -1.684
+        }
+      },
+      "gap_distance_meters": 70.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 422,
+      "elapsed_race_time": 726.379,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 7,
+      "sector_time": 42.554,
+      "cumulative_lap_time": 69.602,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.78,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -3.755,
+          "72": -2.279,
+          "22": -1.78
+        }
+      },
+      "gap_distance_meters": 74.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 444,
+      "elapsed_race_time": 755.308,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 7,
+      "sector_time": 28.929,
+      "cumulative_lap_time": 98.531,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.065,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -4.219,
+          "72": -2.621,
+          "22": -2.065
+        }
+      },
+      "gap_distance_meters": 86.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 466,
+      "elapsed_race_time": 782.351,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 8,
+      "sector_time": 27.043,
+      "cumulative_lap_time": 27.043,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.411,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -4.632,
+          "72": -2.963,
+          "22": -2.411
+        }
+      },
+      "gap_distance_meters": 100.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 488,
+      "elapsed_race_time": 825.092,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 8,
+      "sector_time": 42.741,
+      "cumulative_lap_time": 69.784,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.7,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -4.993,
+          "72": -3.075,
+          "22": -2.7
+        }
+      },
+      "gap_distance_meters": 112.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 510,
+      "elapsed_race_time": 854.069,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 8,
+      "sector_time": 28.977,
+      "cumulative_lap_time": 98.761,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.817,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -5.552,
+          "72": -3.279,
+          "22": -2.817
+        }
+      },
+      "gap_distance_meters": 117.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 530,
+      "elapsed_race_time": 881.804,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 9,
+      "sector_time": 27.735,
+      "cumulative_lap_time": 27.735,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.79,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -6.644,
+          "72": -4.19,
+          "22": -3.79
+        }
+      },
+      "gap_distance_meters": 157.9,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 554,
+      "elapsed_race_time": 924.805,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 9,
+      "sector_time": 43.001,
+      "cumulative_lap_time": 70.736,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 4.279,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.196,
+          "72": -4.614,
+          "22": -4.279
+        }
+      },
+      "gap_distance_meters": 178.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 573,
+      "elapsed_race_time": 953.512,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 9,
+      "sector_time": 28.707,
+      "cumulative_lap_time": 99.443,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 4.151,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.353,
+          "72": -4.601,
+          "22": -4.151
+        }
+      },
+      "gap_distance_meters": 173.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 595,
+      "elapsed_race_time": 980.549,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 10,
+      "sector_time": 27.037,
+      "cumulative_lap_time": 27.037,
+      "race_position": 4,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 4.401,
+        "car_ahead_number": "22",
+        "to_all_cars": {
+          "13": -7.693,
+          "72": -4.844,
+          "22": -4.401
+        }
+      },
+      "gap_distance_meters": 183.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 621,
+      "elapsed_race_time": 1023.785,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 10,
+      "sector_time": 43.236,
+      "cumulative_lap_time": 70.273,
+      "race_position": 5,
+      "position_change": -1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.276,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -8.498,
+          "72": -5.292,
+          "22": -4.996,
+          "55": -0.276
+        }
+      },
+      "gap_distance_meters": 11.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 640,
+      "elapsed_race_time": 1052.656,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 10,
+      "sector_time": 28.871,
+      "cumulative_lap_time": 99.144,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.353,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -8.818,
+          "72": -5.467,
+          "22": -5.213,
+          "55": -0.353
+        }
+      },
+      "gap_distance_meters": 14.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 662,
+      "elapsed_race_time": 1079.692,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 11,
+      "sector_time": 27.036,
+      "cumulative_lap_time": 27.036,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.389,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -9.133,
+          "72": -5.684,
+          "22": -5.373,
+          "55": -0.389
+        }
+      },
+      "gap_distance_meters": 16.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 687,
+      "elapsed_race_time": 1122.399,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 11,
+      "sector_time": 42.707,
+      "cumulative_lap_time": 69.743,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.426,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -9.457,
+          "72": -5.676,
+          "22": -5.395,
+          "55": -0.426
+        }
+      },
+      "gap_distance_meters": 17.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 706,
+      "elapsed_race_time": 1151.25,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 11,
+      "sector_time": 28.851,
+      "cumulative_lap_time": 98.594,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.488,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -9.718,
+          "72": -5.655,
+          "22": -5.344,
+          "55": -0.488
+        }
+      },
+      "gap_distance_meters": 20.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 728,
+      "elapsed_race_time": 1178.349,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 12,
+      "sector_time": 27.099,
+      "cumulative_lap_time": 27.099,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.649,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -10.092,
+          "72": -5.95,
+          "22": -5.452,
+          "55": -0.649
+        }
+      },
+      "gap_distance_meters": 27.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 753,
+      "elapsed_race_time": 1221.137,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 12,
+      "sector_time": 42.788,
+      "cumulative_lap_time": 69.887,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.815,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -10.393,
+          "72": -5.915,
+          "22": -5.538,
+          "55": -0.815
+        }
+      },
+      "gap_distance_meters": 34.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 772,
+      "elapsed_race_time": 1249.775,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 12,
+      "sector_time": 28.638,
+      "cumulative_lap_time": 98.525,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.608,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -10.295,
+          "72": -5.832,
+          "22": -5.502,
+          "55": -0.608
+        }
+      },
+      "gap_distance_meters": 25.3,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 794,
+      "elapsed_race_time": 1276.798,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 13,
+      "sector_time": 27.023,
+      "cumulative_lap_time": 27.023,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.764,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -10.545,
+          "72": -5.942,
+          "22": -5.683,
+          "55": -0.764
+        }
+      },
+      "gap_distance_meters": 31.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 818,
+      "elapsed_race_time": 1319.54,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 13,
+      "sector_time": 42.742,
+      "cumulative_lap_time": 69.765,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.954,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -10.849,
+          "72": -5.798,
+          "22": -5.474,
+          "55": -0.954
+        }
+      },
+      "gap_distance_meters": 39.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 838,
+      "elapsed_race_time": 1348.335,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 13,
+      "sector_time": 28.795,
+      "cumulative_lap_time": 98.56,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.919,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -10.932,
+          "72": -5.617,
+          "22": -5.43,
+          "55": -0.919
+        }
+      },
+      "gap_distance_meters": 38.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 858,
+      "elapsed_race_time": 1375.228,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 14,
+      "sector_time": 26.893,
+      "cumulative_lap_time": 26.893,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.994,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.003,
+          "72": -5.643,
+          "22": -5.245,
+          "55": -0.994
+        }
+      },
+      "gap_distance_meters": 41.4,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 882,
+      "elapsed_race_time": 1417.982,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 14,
+      "sector_time": 42.754,
+      "cumulative_lap_time": 69.647,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.04,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.181,
+          "72": -5.326,
+          "22": -5.102,
+          "55": -1.04
+        }
+      },
+      "gap_distance_meters": 43.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 901,
+      "elapsed_race_time": 1446.702,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 14,
+      "sector_time": 28.72,
+      "cumulative_lap_time": 98.367,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.9,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.198,
+          "22": -4.794,
+          "72": -4.689,
+          "55": -0.9
+        }
+      },
+      "gap_distance_meters": 37.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 921,
+      "elapsed_race_time": 1473.705,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 15,
+      "sector_time": 27.003,
+      "cumulative_lap_time": 27.003,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.201,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.49,
+          "22": -4.836,
+          "72": -4.667,
+          "55": -1.201
+        }
+      },
+      "gap_distance_meters": 50.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 945,
+      "elapsed_race_time": 1516.542,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 15,
+      "sector_time": 42.837,
+      "cumulative_lap_time": 69.84,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.338,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.595,
+          "22": -4.673,
+          "72": -4.403,
+          "55": -1.338
+        }
+      },
+      "gap_distance_meters": 55.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 963,
+      "elapsed_race_time": 1545.366,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 15,
+      "sector_time": 28.824,
+      "cumulative_lap_time": 98.664,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.415,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.6,
+          "22": -4.709,
+          "72": -4.338,
+          "55": -1.415
+        }
+      },
+      "gap_distance_meters": 59.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 984,
+      "elapsed_race_time": 1572.289,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 16,
+      "sector_time": 26.923,
+      "cumulative_lap_time": 26.923,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.552,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.832,
+          "22": -4.828,
+          "72": -4.478,
+          "55": -1.552
+        }
+      },
+      "gap_distance_meters": 64.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1009,
+      "elapsed_race_time": 1615.191,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 16,
+      "sector_time": 42.902,
+      "cumulative_lap_time": 69.825,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.696,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.682,
+          "22": -5.004,
+          "72": -4.656,
+          "55": -1.696
+        }
+      },
+      "gap_distance_meters": 70.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1027,
+      "elapsed_race_time": 1644.078,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 16,
+      "sector_time": 28.887,
+      "cumulative_lap_time": 98.712,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.794,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.477,
+          "22": -5.159,
+          "72": -4.804,
+          "55": -1.794
+        }
+      },
+      "gap_distance_meters": 74.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1047,
+      "elapsed_race_time": 1671.061,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 17,
+      "sector_time": 26.983,
+      "cumulative_lap_time": 26.983,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.944,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.614,
+          "22": -5.483,
+          "72": -5.017,
+          "55": -1.944
+        }
+      },
+      "gap_distance_meters": 81.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1071,
+      "elapsed_race_time": 1713.778,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 17,
+      "sector_time": 42.717,
+      "cumulative_lap_time": 69.7,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.997,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.779,
+          "22": -5.512,
+          "72": -4.996,
+          "55": -1.997
+        }
+      },
+      "gap_distance_meters": 83.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1090,
+      "elapsed_race_time": 1742.449,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 17,
+      "sector_time": 28.671,
+      "cumulative_lap_time": 98.371,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.782,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.553,
+          "22": -5.492,
+          "72": -4.726,
+          "55": -1.782
+        }
+      },
+      "gap_distance_meters": 74.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1109,
+      "elapsed_race_time": 1769.504,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 18,
+      "sector_time": 27.055,
+      "cumulative_lap_time": 27.055,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.881,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.714,
+          "22": -5.819,
+          "72": -4.853,
+          "55": -1.881
+        }
+      },
+      "gap_distance_meters": 78.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1134,
+      "elapsed_race_time": 1812.205,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 18,
+      "sector_time": 42.701,
+      "cumulative_lap_time": 69.756,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.863,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.765,
+          "22": -5.842,
+          "72": -4.795,
+          "55": -1.863
+        }
+      },
+      "gap_distance_meters": 77.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1153,
+      "elapsed_race_time": 1840.945,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 18,
+      "sector_time": 28.74,
+      "cumulative_lap_time": 98.496,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.728,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.763,
+          "22": -5.676,
+          "72": -4.763,
+          "55": -1.728
+        }
+      },
+      "gap_distance_meters": 72.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1172,
+      "elapsed_race_time": 1867.918,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 19,
+      "sector_time": 26.973,
+      "cumulative_lap_time": 26.973,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.794,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.877,
+          "22": -5.877,
+          "72": -4.936,
+          "55": -1.794
+        }
+      },
+      "gap_distance_meters": 74.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1197,
+      "elapsed_race_time": 1910.696,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 19,
+      "sector_time": 42.778,
+      "cumulative_lap_time": 69.751,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.793,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.884,
+          "22": -6.019,
+          "72": -4.438,
+          "55": -1.793
+        }
+      },
+      "gap_distance_meters": 74.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1215,
+      "elapsed_race_time": 1939.435,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 19,
+      "sector_time": 28.739,
+      "cumulative_lap_time": 98.49,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.603,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.768,
+          "22": -5.999,
+          "72": -4.272,
+          "55": -1.603
+        }
+      },
+      "gap_distance_meters": 66.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1235,
+      "elapsed_race_time": 1966.384,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 20,
+      "sector_time": 26.949,
+      "cumulative_lap_time": 26.949,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.776,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.84,
+          "22": -6.262,
+          "72": -4.354,
+          "55": -1.776
+        }
+      },
+      "gap_distance_meters": 74.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1258,
+      "elapsed_race_time": 2009.156,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 20,
+      "sector_time": 42.772,
+      "cumulative_lap_time": 69.721,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.964,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.961,
+          "22": -6.357,
+          "72": -4.306,
+          "55": -1.964
+        }
+      },
+      "gap_distance_meters": 81.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1277,
+      "elapsed_race_time": 2037.801,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 20,
+      "sector_time": 28.645,
+      "cumulative_lap_time": 98.366,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.804,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.718,
+          "22": -6.279,
+          "72": -4.075,
+          "55": -1.804
+        }
+      },
+      "gap_distance_meters": 75.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1296,
+      "elapsed_race_time": 2064.643,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 21,
+      "sector_time": 26.842,
+      "cumulative_lap_time": 26.842,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.74,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.712,
+          "22": -6.396,
+          "72": -4.067,
+          "55": -1.74
+        }
+      },
+      "gap_distance_meters": 72.5,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 1321,
+      "elapsed_race_time": 2107.395,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 21,
+      "sector_time": 42.752,
+      "cumulative_lap_time": 69.594,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.848,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.927,
+          "22": -6.524,
+          "72": -4.141,
+          "55": -1.848
+        }
+      },
+      "gap_distance_meters": 77.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1338,
+      "elapsed_race_time": 2136.169,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 21,
+      "sector_time": 28.774,
+      "cumulative_lap_time": 98.368,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.768,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.805,
+          "22": -6.572,
+          "72": -3.723,
+          "55": -1.768
+        }
+      },
+      "gap_distance_meters": 73.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1358,
+      "elapsed_race_time": 2163.111,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 22,
+      "sector_time": 26.942,
+      "cumulative_lap_time": 26.942,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.839,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -11.955,
+          "22": -6.777,
+          "72": -3.79,
+          "55": -1.839
+        }
+      },
+      "gap_distance_meters": 76.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1384,
+      "elapsed_race_time": 2205.979,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 22,
+      "sector_time": 42.868,
+      "cumulative_lap_time": 69.81,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.04,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -12.143,
+          "22": -6.959,
+          "72": -3.903,
+          "55": -2.04
+        }
+      },
+      "gap_distance_meters": 85.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1401,
+      "elapsed_race_time": 2234.779,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 22,
+      "sector_time": 28.8,
+      "cumulative_lap_time": 98.61,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.826,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -12.149,
+          "22": -7.055,
+          "72": -3.565,
+          "55": -1.826
+        }
+      },
+      "gap_distance_meters": 76.1,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1421,
+      "elapsed_race_time": 2261.676,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 23,
+      "sector_time": 26.897,
+      "cumulative_lap_time": 26.897,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.916,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -12.296,
+          "22": -7.288,
+          "72": -3.644,
+          "55": -1.916
+        }
+      },
+      "gap_distance_meters": 79.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1447,
+      "elapsed_race_time": 2304.547,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 23,
+      "sector_time": 42.871,
+      "cumulative_lap_time": 69.768,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.258,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -12.601,
+          "22": -7.457,
+          "72": -3.598,
+          "55": -2.258
+        }
+      },
+      "gap_distance_meters": 94.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1463,
+      "elapsed_race_time": 2333.378,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 23,
+      "sector_time": 28.831,
+      "cumulative_lap_time": 98.599,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.156,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -12.549,
+          "22": -7.546,
+          "72": -3.376,
+          "55": -2.156
+        }
+      },
+      "gap_distance_meters": 89.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1483,
+      "elapsed_race_time": 2360.522,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 24,
+      "sector_time": 27.144,
+      "cumulative_lap_time": 27.144,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.198,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -12.799,
+          "22": -7.995,
+          "72": -3.528,
+          "55": -2.198
+        }
+      },
+      "gap_distance_meters": 91.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1509,
+      "elapsed_race_time": 2403.453,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 24,
+      "sector_time": 42.931,
+      "cumulative_lap_time": 70.075,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.431,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.27,
+          "22": -8.343,
+          "72": -3.529,
+          "55": -2.431
+        }
+      },
+      "gap_distance_meters": 101.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1526,
+      "elapsed_race_time": 2432.217,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 24,
+      "sector_time": 28.764,
+      "cumulative_lap_time": 98.839,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.419,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.06,
+          "22": -8.501,
+          "72": -3.244,
+          "55": -2.419
+        }
+      },
+      "gap_distance_meters": 100.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1545,
+      "elapsed_race_time": 2459.162,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 25,
+      "sector_time": 26.945,
+      "cumulative_lap_time": 26.945,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.549,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -12.973,
+          "22": -8.761,
+          "72": -3.343,
+          "55": -2.549
+        }
+      },
+      "gap_distance_meters": 106.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1572,
+      "elapsed_race_time": 2502.003,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 25,
+      "sector_time": 42.841,
+      "cumulative_lap_time": 69.786,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.718,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.207,
+          "22": -8.957,
+          "72": -3.204,
+          "55": -2.718
+        }
+      },
+      "gap_distance_meters": 113.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1589,
+      "elapsed_race_time": 2531.0,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 25,
+      "sector_time": 28.997,
+      "cumulative_lap_time": 98.783,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.561,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.208,
+          "22": -9.148,
+          "72": -3.063,
+          "55": -2.561
+        }
+      },
+      "gap_distance_meters": 106.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1608,
+      "elapsed_race_time": 2558.502,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 26,
+      "sector_time": 27.502,
+      "cumulative_lap_time": 27.502,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.242,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.798,
+          "22": -9.963,
+          "72": -3.726,
+          "55": -3.242
+        }
+      },
+      "gap_distance_meters": 135.1,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1635,
+      "elapsed_race_time": 2601.273,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 26,
+      "sector_time": 42.771,
+      "cumulative_lap_time": 70.273,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.294,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.846,
+          "22": -10.202,
+          "72": -3.621,
+          "55": -3.294
+        }
+      },
+      "gap_distance_meters": 137.3,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1652,
+      "elapsed_race_time": 2630.143,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 26,
+      "sector_time": 28.87,
+      "cumulative_lap_time": 99.143,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.048,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.801,
+          "22": -10.41,
+          "72": -3.327,
+          "55": -3.048
+        }
+      },
+      "gap_distance_meters": 127.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1670,
+      "elapsed_race_time": 2657.258,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 27,
+      "sector_time": 27.115,
+      "cumulative_lap_time": 27.115,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.153,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -13.945,
+          "22": -10.8,
+          "72": -3.539,
+          "55": -3.153
+        }
+      },
+      "gap_distance_meters": 131.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1698,
+      "elapsed_race_time": 2700.194,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 27,
+      "sector_time": 42.936,
+      "cumulative_lap_time": 70.051,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 3.313,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -14.272,
+          "22": -11.049,
+          "72": -3.648,
+          "55": -3.313
+        }
+      },
+      "gap_distance_meters": 138.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1715,
+      "elapsed_race_time": 2729.124,
+      "driver_number": "2",
+      "driver_name": "Will Robusto",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 27,
+      "sector_time": 28.93,
+      "cumulative_lap_time": 98.981,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 2.98,
+        "car_ahead_number": "55",
+        "to_all_cars": {
+          "13": -14.089,
+          "22": -11.349,
+          "72": -3.434,
+          "55": -2.98
+        }
+      },
+      "gap_distance_meters": 124.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    }
+  ]
+}

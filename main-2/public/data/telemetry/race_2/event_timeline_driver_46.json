@@ -1,0 +1,2542 @@
+{
+  "driver_number": "46",
+  "driver_name": "Lucas Weisenberg",
+  "total_events": 84,
+  "events": [
+    {
+      "event_id": 8,
+      "elapsed_race_time": 29.128,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 1,
+      "sector_time": 29.128,
+      "cumulative_lap_time": 29.128,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.173,
+        "car_ahead_number": "2",
+        "to_all_cars": {
+          "13": -1.547,
+          "72": -1.244,
+          "22": -0.986,
+          "98": -0.584,
+          "55": -0.527,
+          "47": -0.223,
+          "2": -0.173
+        }
+      },
+      "gap_distance_meters": 7.2,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 30,
+      "elapsed_race_time": 72.722,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 1,
+      "sector_time": 43.594,
+      "cumulative_lap_time": 72.722,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.509,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -2.863,
+          "72": -2.314,
+          "22": -2.004,
+          "55": -1.445,
+          "98": -1.264,
+          "2": -0.809,
+          "47": -0.509
+        }
+      },
+      "gap_distance_meters": 21.2,
+      "sector_performance": "slow",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 52,
+      "elapsed_race_time": 101.479,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 1,
+      "sector_time": 28.757,
+      "cumulative_lap_time": 101.479,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.588,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -3.257,
+          "72": -1.847,
+          "22": -1.821,
+          "55": -1.511,
+          "98": -1.237,
+          "2": -0.793,
+          "47": -0.588
+        }
+      },
+      "gap_distance_meters": 24.5,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 74,
+      "elapsed_race_time": 128.265,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 2,
+      "sector_time": 26.786,
+      "cumulative_lap_time": 26.786,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.537,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -3.307,
+          "22": -1.835,
+          "72": -1.614,
+          "55": -1.338,
+          "98": -1.105,
+          "2": -0.796,
+          "47": -0.537
+        }
+      },
+      "gap_distance_meters": 22.4,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 96,
+      "elapsed_race_time": 170.8,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 2,
+      "sector_time": 42.535,
+      "cumulative_lap_time": 69.321,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.426,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -3.56,
+          "22": -1.897,
+          "72": -1.634,
+          "55": -1.348,
+          "98": -1.151,
+          "2": -0.698,
+          "47": -0.426
+        }
+      },
+      "gap_distance_meters": 17.8,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 118,
+      "elapsed_race_time": 199.797,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 2,
+      "sector_time": 28.997,
+      "cumulative_lap_time": 98.318,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.461,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -4.225,
+          "22": -2.256,
+          "72": -1.805,
+          "55": -1.485,
+          "98": -1.319,
+          "2": -0.988,
+          "47": -0.461
+        }
+      },
+      "gap_distance_meters": 19.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 140,
+      "elapsed_race_time": 226.578,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 3,
+      "sector_time": 26.781,
+      "cumulative_lap_time": 26.781,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.626,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -4.395,
+          "22": -2.5,
+          "72": -1.951,
+          "55": -1.405,
+          "98": -1.217,
+          "2": -1.047,
+          "47": -0.626
+        }
+      },
+      "gap_distance_meters": 26.1,
+      "sector_performance": "average",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 162,
+      "elapsed_race_time": 269.264,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 3,
+      "sector_time": 42.686,
+      "cumulative_lap_time": 69.467,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.397,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -4.863,
+          "22": -2.746,
+          "72": -2.037,
+          "55": -1.474,
+          "98": -0.985,
+          "2": -0.642,
+          "47": -0.397
+        }
+      },
+      "gap_distance_meters": 16.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 184,
+      "elapsed_race_time": 298.044,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 3,
+      "sector_time": 28.78,
+      "cumulative_lap_time": 98.247,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.446,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -5.035,
+          "22": -2.987,
+          "72": -1.986,
+          "55": -1.495,
+          "98": -1.253,
+          "2": -0.857,
+          "47": -0.446
+        }
+      },
+      "gap_distance_meters": 18.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 206,
+      "elapsed_race_time": 324.744,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 4,
+      "sector_time": 26.7,
+      "cumulative_lap_time": 26.7,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.199,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -5.041,
+          "22": -3.106,
+          "72": -1.976,
+          "55": -1.556,
+          "98": -1.313,
+          "2": -0.907,
+          "47": -0.199
+        }
+      },
+      "gap_distance_meters": 8.3,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 228,
+      "elapsed_race_time": 367.495,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 4,
+      "sector_time": 42.751,
+      "cumulative_lap_time": 69.451,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.458,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -5.466,
+          "22": -3.494,
+          "72": -2.152,
+          "55": -1.96,
+          "98": -1.653,
+          "2": -1.323,
+          "47": -0.458
+        }
+      },
+      "gap_distance_meters": 19.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 250,
+      "elapsed_race_time": 396.115,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 4,
+      "sector_time": 28.62,
+      "cumulative_lap_time": 98.071,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.479,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -5.512,
+          "22": -3.635,
+          "72": -2.058,
+          "55": -1.774,
+          "98": -1.506,
+          "2": -1.191,
+          "47": -0.479
+        }
+      },
+      "gap_distance_meters": 20.0,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 271,
+      "elapsed_race_time": 422.799,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 5,
+      "sector_time": 26.684,
+      "cumulative_lap_time": 26.684,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.478,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -5.505,
+          "22": -3.744,
+          "72": -2.156,
+          "55": -1.746,
+          "98": -1.462,
+          "2": -1.072,
+          "47": -0.478
+        }
+      },
+      "gap_distance_meters": 19.9,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 292,
+      "elapsed_race_time": 465.417,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 5,
+      "sector_time": 42.618,
+      "cumulative_lap_time": 69.302,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.545,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -5.663,
+          "22": -4.037,
+          "72": -1.834,
+          "55": -1.63,
+          "98": -1.415,
+          "2": -1.152,
+          "47": -0.545
+        }
+      },
+      "gap_distance_meters": 22.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 313,
+      "elapsed_race_time": 494.203,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 5,
+      "sector_time": 28.786,
+      "cumulative_lap_time": 98.088,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.599,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -6.016,
+          "22": -4.257,
+          "72": -1.75,
+          "55": -1.55,
+          "98": -0.956,
+          "2": -0.841,
+          "47": -0.599
+        }
+      },
+      "gap_distance_meters": 25.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 334,
+      "elapsed_race_time": 520.982,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 6,
+      "sector_time": 26.779,
+      "cumulative_lap_time": 26.779,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.319,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -6.12,
+          "22": -4.409,
+          "72": -1.781,
+          "55": -1.473,
+          "98": -0.789,
+          "2": -0.6,
+          "47": -0.319
+        }
+      },
+      "gap_distance_meters": 13.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 355,
+      "elapsed_race_time": 563.635,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 6,
+      "sector_time": 42.653,
+      "cumulative_lap_time": 69.432,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.432,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -6.364,
+          "22": -4.736,
+          "72": -1.862,
+          "55": -1.642,
+          "98": -1.087,
+          "2": -0.77,
+          "47": -0.432
+        }
+      },
+      "gap_distance_meters": 18.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 376,
+      "elapsed_race_time": 592.339,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 6,
+      "sector_time": 28.704,
+      "cumulative_lap_time": 98.136,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.329,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -6.643,
+          "22": -4.915,
+          "72": -1.637,
+          "55": -1.497,
+          "98": -1.037,
+          "2": -0.834,
+          "47": -0.329
+        }
+      },
+      "gap_distance_meters": 13.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 397,
+      "elapsed_race_time": 619.178,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 7,
+      "sector_time": 26.839,
+      "cumulative_lap_time": 26.839,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.374,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -6.938,
+          "22": -5.207,
+          "72": -1.729,
+          "55": -1.402,
+          "98": -0.924,
+          "2": -0.773,
+          "47": -0.374
+        }
+      },
+      "gap_distance_meters": 15.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 418,
+      "elapsed_race_time": 661.758,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 7,
+      "sector_time": 42.58,
+      "cumulative_lap_time": 69.419,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.39,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -7.251,
+          "22": -5.639,
+          "72": -1.672,
+          "55": -1.442,
+          "98": -0.991,
+          "2": -0.745,
+          "47": -0.39
+        }
+      },
+      "gap_distance_meters": 16.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 438,
+      "elapsed_race_time": 690.738,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 7,
+      "sector_time": 28.98,
+      "cumulative_lap_time": 98.399,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.443,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -7.6,
+          "22": -5.964,
+          "72": -1.5,
+          "55": -1.348,
+          "98": -0.824,
+          "2": -0.663,
+          "47": -0.443
+        }
+      },
+      "gap_distance_meters": 18.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 459,
+      "elapsed_race_time": 717.578,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 8,
+      "sector_time": 26.84,
+      "cumulative_lap_time": 26.84,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.207,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -7.856,
+          "22": -6.257,
+          "72": -1.522,
+          "55": -1.26,
+          "98": -0.84,
+          "2": -0.467,
+          "47": -0.207
+        }
+      },
+      "gap_distance_meters": 8.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 482,
+      "elapsed_race_time": 760.485,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 8,
+      "sector_time": 42.907,
+      "cumulative_lap_time": 69.747,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.386,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -8.566,
+          "22": -7.066,
+          "72": -1.875,
+          "55": -1.56,
+          "98": -1.316,
+          "2": -0.894,
+          "47": -0.386
+        }
+      },
+      "gap_distance_meters": 16.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 503,
+      "elapsed_race_time": 789.154,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 8,
+      "sector_time": 28.669,
+      "cumulative_lap_time": 98.416,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.324,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -8.605,
+          "22": -7.05,
+          "72": -1.603,
+          "55": -1.427,
+          "98": -1.249,
+          "2": -0.977,
+          "47": -0.324
+        }
+      },
+      "gap_distance_meters": 13.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 525,
+      "elapsed_race_time": 815.941,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 9,
+      "sector_time": 26.787,
+      "cumulative_lap_time": 26.787,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.396,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -8.688,
+          "22": -7.296,
+          "72": -1.618,
+          "55": -1.313,
+          "98": -1.013,
+          "2": -0.865,
+          "47": -0.396
+        }
+      },
+      "gap_distance_meters": 16.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 548,
+      "elapsed_race_time": 858.432,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 9,
+      "sector_time": 42.491,
+      "cumulative_lap_time": 69.278,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.385,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -8.812,
+          "22": -7.48,
+          "72": -1.522,
+          "55": -1.23,
+          "98": -1.032,
+          "2": -0.782,
+          "47": -0.385
+        }
+      },
+      "gap_distance_meters": 16.0,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 568,
+      "elapsed_race_time": 887.208,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 9,
+      "sector_time": 28.776,
+      "cumulative_lap_time": 98.054,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.324,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -9.009,
+          "22": -7.72,
+          "72": -1.251,
+          "55": -1.113,
+          "98": -0.746,
+          "2": -0.6,
+          "47": -0.324
+        }
+      },
+      "gap_distance_meters": 13.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 588,
+      "elapsed_race_time": 914.275,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 10,
+      "sector_time": 27.067,
+      "cumulative_lap_time": 27.067,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.275,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -9.415,
+          "22": -8.207,
+          "72": -1.551,
+          "55": -1.261,
+          "98": -0.846,
+          "2": -0.501,
+          "47": -0.275
+        }
+      },
+      "gap_distance_meters": 11.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 610,
+      "elapsed_race_time": 957.111,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 10,
+      "sector_time": 42.836,
+      "cumulative_lap_time": 69.903,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.259,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -9.825,
+          "22": -8.766,
+          "72": -1.113,
+          "55": -0.808,
+          "98": -0.659,
+          "2": -0.483,
+          "47": -0.259
+        }
+      },
+      "gap_distance_meters": 10.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 629,
+      "elapsed_race_time": 986.457,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 10,
+      "sector_time": 29.346,
+      "cumulative_lap_time": 99.249,
+      "race_position": 8,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.044,
+        "car_ahead_number": "47",
+        "to_all_cars": {
+          "13": -10.642,
+          "22": -9.59,
+          "72": -1.429,
+          "55": -1.196,
+          "2": -0.61,
+          "98": -0.195,
+          "47": -0.044
+        }
+      },
+      "gap_distance_meters": 1.8,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 648,
+      "elapsed_race_time": 1013.827,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 11,
+      "sector_time": 27.37,
+      "cumulative_lap_time": 27.37,
+      "race_position": 7,
+      "position_change": 1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.862,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -11.381,
+          "22": -10.455,
+          "72": -2.063,
+          "55": -1.738,
+          "2": -1.252,
+          "98": -0.862
+        }
+      },
+      "gap_distance_meters": 35.9,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 672,
+      "elapsed_race_time": 1056.701,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 11,
+      "sector_time": 42.874,
+      "cumulative_lap_time": 70.244,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.325,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -11.932,
+          "22": -11.065,
+          "72": -2.153,
+          "55": -1.997,
+          "2": -1.812,
+          "98": -1.325
+        }
+      },
+      "gap_distance_meters": 55.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 692,
+      "elapsed_race_time": 1085.381,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 11,
+      "sector_time": 28.68,
+      "cumulative_lap_time": 98.924,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.761,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -12.058,
+          "22": -11.21,
+          "72": -0.889,
+          "2": -0.867,
+          "55": -0.815,
+          "98": -0.761
+        }
+      },
+      "gap_distance_meters": 31.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 714,
+      "elapsed_race_time": 1112.443,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 12,
+      "sector_time": 27.062,
+      "cumulative_lap_time": 27.062,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.236,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -12.434,
+          "22": -11.637,
+          "2": -1.023,
+          "72": -0.56,
+          "55": -0.256,
+          "98": -0.236
+        }
+      },
+      "gap_distance_meters": 9.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 738,
+      "elapsed_race_time": 1155.499,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 12,
+      "sector_time": 43.056,
+      "cumulative_lap_time": 70.118,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.471,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -13.198,
+          "22": -12.401,
+          "2": -1.572,
+          "72": -1.119,
+          "55": -0.823,
+          "98": -0.471
+        }
+      },
+      "gap_distance_meters": 19.6,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 758,
+      "elapsed_race_time": 1184.214,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 12,
+      "sector_time": 28.715,
+      "cumulative_lap_time": 98.833,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.388,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -13.29,
+          "22": -12.605,
+          "2": -1.532,
+          "72": -1.03,
+          "55": -0.732,
+          "98": -0.388
+        }
+      },
+      "gap_distance_meters": 16.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 780,
+      "elapsed_race_time": 1210.98,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 13,
+      "sector_time": 26.766,
+      "cumulative_lap_time": 26.766,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.473,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -13.399,
+          "22": -12.832,
+          "2": -1.516,
+          "72": -1.129,
+          "55": -0.793,
+          "98": -0.473
+        }
+      },
+      "gap_distance_meters": 19.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 804,
+      "elapsed_race_time": 1253.425,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 13,
+      "sector_time": 42.445,
+      "cumulative_lap_time": 69.211,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.4,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -13.5,
+          "22": -13.03,
+          "2": -1.51,
+          "72": -1.031,
+          "55": -0.738,
+          "98": -0.4
+        }
+      },
+      "gap_distance_meters": 16.7,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 824,
+      "elapsed_race_time": 1282.124,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 13,
+      "sector_time": 28.699,
+      "cumulative_lap_time": 97.91,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.186,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -13.477,
+          "22": -13.095,
+          "2": -1.437,
+          "72": -0.692,
+          "55": -0.456,
+          "98": -0.186
+        }
+      },
+      "gap_distance_meters": 7.8,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 846,
+      "elapsed_race_time": 1309.046,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 14,
+      "sector_time": 26.922,
+      "cumulative_lap_time": 26.922,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.232,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -13.714,
+          "22": -13.376,
+          "2": -1.545,
+          "72": -0.955,
+          "55": -0.586,
+          "98": -0.232
+        }
+      },
+      "gap_distance_meters": 9.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 870,
+      "elapsed_race_time": 1351.811,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 14,
+      "sector_time": 42.765,
+      "cumulative_lap_time": 69.687,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.464,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -14.057,
+          "22": -13.783,
+          "2": -1.809,
+          "72": -1.264,
+          "55": -0.801,
+          "98": -0.464
+        }
+      },
+      "gap_distance_meters": 19.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 890,
+      "elapsed_race_time": 1381.102,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 14,
+      "sector_time": 29.291,
+      "cumulative_lap_time": 98.978,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.665,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -14.731,
+          "22": -14.365,
+          "2": -2.366,
+          "72": -1.725,
+          "55": -1.321,
+          "98": -0.665
+        }
+      },
+      "gap_distance_meters": 27.7,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 911,
+      "elapsed_race_time": 1408.038,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 15,
+      "sector_time": 26.936,
+      "cumulative_lap_time": 26.936,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.883,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -14.955,
+          "22": -14.694,
+          "2": -2.502,
+          "72": -1.879,
+          "55": -1.475,
+          "98": -0.883
+        }
+      },
+      "gap_distance_meters": 36.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 936,
+      "elapsed_race_time": 1450.67,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 15,
+      "sector_time": 42.632,
+      "cumulative_lap_time": 69.568,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.245,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -15.228,
+          "22": -14.895,
+          "2": -2.569,
+          "72": -2.004,
+          "55": -1.673,
+          "98": -1.245
+        }
+      },
+      "gap_distance_meters": 51.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 956,
+      "elapsed_race_time": 1479.298,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 15,
+      "sector_time": 28.628,
+      "cumulative_lap_time": 98.196,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.168,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -15.217,
+          "22": -14.795,
+          "2": -2.596,
+          "72": -1.691,
+          "55": -1.399,
+          "98": -1.168
+        }
+      },
+      "gap_distance_meters": 48.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 976,
+      "elapsed_race_time": 1505.973,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 16,
+      "sector_time": 26.675,
+      "cumulative_lap_time": 26.675,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.857,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -15.222,
+          "22": -14.769,
+          "2": -2.498,
+          "72": -1.648,
+          "55": -1.295,
+          "98": -0.857
+        }
+      },
+      "gap_distance_meters": 35.7,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 1002,
+      "elapsed_race_time": 1548.506,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 16,
+      "sector_time": 42.533,
+      "cumulative_lap_time": 69.208,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.963,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -15.487,
+          "22": -15.055,
+          "2": -2.579,
+          "72": -1.686,
+          "55": -1.363,
+          "98": -0.963
+        }
+      },
+      "gap_distance_meters": 40.1,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1021,
+      "elapsed_race_time": 1577.286,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 16,
+      "sector_time": 28.78,
+      "cumulative_lap_time": 97.988,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.059,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -15.469,
+          "22": -15.136,
+          "2": -2.623,
+          "72": -1.712,
+          "55": -1.413,
+          "98": -1.059
+        }
+      },
+      "gap_distance_meters": 44.1,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1042,
+      "elapsed_race_time": 1604.099,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 17,
+      "sector_time": 26.813,
+      "cumulative_lap_time": 26.813,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.068,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -15.7,
+          "22": -15.332,
+          "2": -2.767,
+          "72": -1.906,
+          "55": -1.438,
+          "98": -1.068
+        }
+      },
+      "gap_distance_meters": 44.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1067,
+      "elapsed_race_time": 1646.59,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 17,
+      "sector_time": 42.491,
+      "cumulative_lap_time": 69.304,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.071,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -15.902,
+          "22": -15.544,
+          "2": -2.922,
+          "72": -2.005,
+          "55": -1.668,
+          "98": -1.071
+        }
+      },
+      "gap_distance_meters": 44.6,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1086,
+      "elapsed_race_time": 1675.291,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 17,
+      "sector_time": 28.701,
+      "cumulative_lap_time": 98.005,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.987,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -15.999,
+          "22": -15.586,
+          "2": -2.95,
+          "72": -1.716,
+          "55": -1.591,
+          "98": -0.987
+        }
+      },
+      "gap_distance_meters": 41.1,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1107,
+      "elapsed_race_time": 1702.118,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 18,
+      "sector_time": 26.827,
+      "cumulative_lap_time": 26.827,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.028,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -16.042,
+          "22": -15.822,
+          "2": -3.029,
+          "72": -1.695,
+          "55": -1.434,
+          "98": -1.028
+        }
+      },
+      "gap_distance_meters": 42.8,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1132,
+      "elapsed_race_time": 1744.615,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 18,
+      "sector_time": 42.497,
+      "cumulative_lap_time": 69.324,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 1.092,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -16.035,
+          "22": -15.77,
+          "2": -3.141,
+          "72": -1.567,
+          "55": -1.322,
+          "98": -1.092
+        }
+      },
+      "gap_distance_meters": 45.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1151,
+      "elapsed_race_time": 1773.297,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 18,
+      "sector_time": 28.682,
+      "cumulative_lap_time": 98.006,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.917,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -16.082,
+          "22": -15.453,
+          "2": -2.815,
+          "72": -1.402,
+          "55": -1.171,
+          "98": -0.917
+        }
+      },
+      "gap_distance_meters": 38.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1170,
+      "elapsed_race_time": 1800.137,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 19,
+      "sector_time": 26.84,
+      "cumulative_lap_time": 26.84,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.821,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -16.295,
+          "22": -15.469,
+          "2": -2.916,
+          "72": -1.383,
+          "55": -1.1,
+          "98": -0.821
+        }
+      },
+      "gap_distance_meters": 34.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1193,
+      "elapsed_race_time": 1842.569,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 19,
+      "sector_time": 42.432,
+      "cumulative_lap_time": 69.272,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.755,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -16.216,
+          "22": -15.604,
+          "2": -2.705,
+          "72": -1.216,
+          "55": -0.965,
+          "98": -0.755
+        }
+      },
+      "gap_distance_meters": 31.5,
+      "sector_performance": "fast",
+      "is_personal_best": true
+    },
+    {
+      "event_id": 1211,
+      "elapsed_race_time": 1871.326,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 19,
+      "sector_time": 28.757,
+      "cumulative_lap_time": 98.029,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.297,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -16.383,
+          "22": -15.658,
+          "2": -2.589,
+          "72": -0.673,
+          "55": -0.515,
+          "98": -0.297
+        }
+      },
+      "gap_distance_meters": 12.4,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1231,
+      "elapsed_race_time": 1898.372,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 20,
+      "sector_time": 27.046,
+      "cumulative_lap_time": 27.046,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.305,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -16.709,
+          "22": -16.105,
+          "2": -2.789,
+          "72": -0.911,
+          "55": -0.571,
+          "98": -0.305
+        }
+      },
+      "gap_distance_meters": 12.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1257,
+      "elapsed_race_time": 1941.221,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 20,
+      "sector_time": 42.849,
+      "cumulative_lap_time": 69.895,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.519,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -17.248,
+          "22": -16.729,
+          "2": -3.1,
+          "72": -1.1,
+          "55": -0.869,
+          "98": -0.519
+        }
+      },
+      "gap_distance_meters": 21.6,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1277,
+      "elapsed_race_time": 1970.122,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 20,
+      "sector_time": 28.901,
+      "cumulative_lap_time": 98.796,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.592,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -17.653,
+          "22": -17.075,
+          "2": -3.14,
+          "72": -0.952,
+          "55": -0.856,
+          "98": -0.592
+        }
+      },
+      "gap_distance_meters": 24.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1297,
+      "elapsed_race_time": 1997.305,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 21,
+      "sector_time": 27.183,
+      "cumulative_lap_time": 27.183,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.022,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -18.091,
+          "22": -17.612,
+          "2": -3.548,
+          "55": -0.71,
+          "72": -0.406,
+          "98": -0.022
+        }
+      },
+      "gap_distance_meters": 0.9,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1323,
+      "elapsed_race_time": 2040.191,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 21,
+      "sector_time": 42.886,
+      "cumulative_lap_time": 70.069,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.377,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -18.657,
+          "22": -18.205,
+          "2": -3.859,
+          "55": -1.14,
+          "72": -0.699,
+          "98": -0.377
+        }
+      },
+      "gap_distance_meters": 15.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1344,
+      "elapsed_race_time": 2069.154,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 21,
+      "sector_time": 28.963,
+      "cumulative_lap_time": 99.032,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.576,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -18.808,
+          "22": -18.396,
+          "2": -4.165,
+          "55": -1.315,
+          "72": -0.865,
+          "98": -0.576
+        }
+      },
+      "gap_distance_meters": 24.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1362,
+      "elapsed_race_time": 2095.913,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 22,
+      "sector_time": 26.759,
+      "cumulative_lap_time": 26.759,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.626,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -18.728,
+          "22": -18.427,
+          "2": -3.922,
+          "55": -1.325,
+          "72": -0.922,
+          "98": -0.626
+        }
+      },
+      "gap_distance_meters": 26.1,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1389,
+      "elapsed_race_time": 2138.649,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 22,
+      "sector_time": 42.736,
+      "cumulative_lap_time": 69.495,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.335,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -19.049,
+          "22": -18.658,
+          "2": -3.897,
+          "55": -1.554,
+          "72": -0.73,
+          "98": -0.335
+        }
+      },
+      "gap_distance_meters": 14.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1409,
+      "elapsed_race_time": 2167.496,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 22,
+      "sector_time": 28.847,
+      "cumulative_lap_time": 98.342,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.221,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -19.231,
+          "22": -18.767,
+          "2": -3.937,
+          "55": -1.591,
+          "72": -0.768,
+          "98": -0.221
+        }
+      },
+      "gap_distance_meters": 9.2,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1427,
+      "elapsed_race_time": 2194.299,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 23,
+      "sector_time": 26.803,
+      "cumulative_lap_time": 26.803,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.349,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -19.207,
+          "22": -18.909,
+          "2": -3.995,
+          "55": -1.73,
+          "72": -0.924,
+          "98": -0.349
+        }
+      },
+      "gap_distance_meters": 14.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1455,
+      "elapsed_race_time": 2236.881,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 23,
+      "sector_time": 42.582,
+      "cumulative_lap_time": 69.385,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.415,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -19.234,
+          "22": -18.95,
+          "2": -4.028,
+          "55": -1.899,
+          "72": -0.836,
+          "98": -0.415
+        }
+      },
+      "gap_distance_meters": 17.3,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1475,
+      "elapsed_race_time": 2265.577,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 23,
+      "sector_time": 28.696,
+      "cumulative_lap_time": 98.081,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.424,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -19.091,
+          "22": -18.762,
+          "2": -3.823,
+          "55": -1.73,
+          "72": -0.669,
+          "98": -0.424
+        }
+      },
+      "gap_distance_meters": 17.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1493,
+      "elapsed_race_time": 2292.354,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 24,
+      "sector_time": 26.777,
+      "cumulative_lap_time": 26.777,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.312,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -19.249,
+          "22": -18.878,
+          "2": -3.971,
+          "55": -1.832,
+          "72": -0.555,
+          "98": -0.312
+        }
+      },
+      "gap_distance_meters": 13.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1521,
+      "elapsed_race_time": 2335.081,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 24,
+      "sector_time": 42.727,
+      "cumulative_lap_time": 69.504,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.405,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -19.48,
+          "22": -19.164,
+          "2": -4.086,
+          "55": -2.114,
+          "72": -0.666,
+          "98": -0.405
+        }
+      },
+      "gap_distance_meters": 16.9,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1541,
+      "elapsed_race_time": 2363.879,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 24,
+      "sector_time": 28.798,
+      "cumulative_lap_time": 98.302,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.329,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -19.603,
+          "22": -19.216,
+          "2": -4.032,
+          "55": -2.129,
+          "72": -0.449,
+          "98": -0.329
+        }
+      },
+      "gap_distance_meters": 13.7,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1559,
+      "elapsed_race_time": 2391.121,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 25,
+      "sector_time": 27.242,
+      "cumulative_lap_time": 27.242,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.229,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -20.099,
+          "22": -19.81,
+          "2": -4.365,
+          "55": -2.645,
+          "72": -0.563,
+          "98": -0.229
+        }
+      },
+      "gap_distance_meters": 9.5,
+      "sector_performance": "slow",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1586,
+      "elapsed_race_time": 2433.957,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 25,
+      "sector_time": 42.836,
+      "cumulative_lap_time": 70.078,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.337,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -20.483,
+          "22": -20.172,
+          "2": -4.505,
+          "55": -3.049,
+          "72": -0.656,
+          "98": -0.337
+        }
+      },
+      "gap_distance_meters": 14.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1605,
+      "elapsed_race_time": 2462.774,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 25,
+      "sector_time": 28.817,
+      "cumulative_lap_time": 98.895,
+      "race_position": 7,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.338,
+        "car_ahead_number": "98",
+        "to_all_cars": {
+          "13": -20.248,
+          "22": -20.046,
+          "2": -4.464,
+          "55": -3.088,
+          "72": -0.436,
+          "98": -0.338
+        }
+      },
+      "gap_distance_meters": 14.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1623,
+      "elapsed_race_time": 2489.878,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 26,
+      "sector_time": 27.104,
+      "cumulative_lap_time": 27.104,
+      "race_position": 6,
+      "position_change": 1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.64,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -20.683,
+          "22": -20.384,
+          "2": -4.881,
+          "55": -3.424,
+          "72": -0.64
+        }
+      },
+      "gap_distance_meters": 26.7,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1648,
+      "elapsed_race_time": 2532.796,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 26,
+      "sector_time": 42.918,
+      "cumulative_lap_time": 70.022,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.913,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -21.222,
+          "22": -20.82,
+          "2": -5.087,
+          "55": -3.826,
+          "72": -0.913
+        }
+      },
+      "gap_distance_meters": 38.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1668,
+      "elapsed_race_time": 2561.515,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 26,
+      "sector_time": 28.719,
+      "cumulative_lap_time": 98.741,
+      "race_position": 6,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.653,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -21.257,
+          "22": -20.788,
+          "2": -5.157,
+          "55": -3.613,
+          "72": -0.653
+        }
+      },
+      "gap_distance_meters": 27.2,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1684,
+      "elapsed_race_time": 2588.353,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 27,
+      "sector_time": 26.838,
+      "cumulative_lap_time": 26.838,
+      "race_position": 5,
+      "position_change": 1,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.729,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -21.38,
+          "22": -20.967,
+          "2": -5.25,
+          "72": -0.729
+        }
+      },
+      "gap_distance_meters": 30.4,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1707,
+      "elapsed_race_time": 2630.913,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 27,
+      "sector_time": 42.56,
+      "cumulative_lap_time": 69.398,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.612,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -21.498,
+          "22": -21.098,
+          "2": -5.13,
+          "72": -0.612
+        }
+      },
+      "gap_distance_meters": 25.5,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1726,
+      "elapsed_race_time": 2659.756,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 27,
+      "sector_time": 28.843,
+      "cumulative_lap_time": 98.241,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.578,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -21.554,
+          "22": -21.141,
+          "2": -4.986,
+          "72": -0.578
+        }
+      },
+      "gap_distance_meters": 24.1,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1742,
+      "elapsed_race_time": 2686.611,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_1_complete",
+      "sector": 1,
+      "lap_number": 28,
+      "sector_time": 26.855,
+      "cumulative_lap_time": 26.855,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.672,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -21.62,
+          "22": -21.383,
+          "2": -5.102,
+          "72": -0.672
+        }
+      },
+      "gap_distance_meters": 28.0,
+      "sector_performance": "average",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1767,
+      "elapsed_race_time": 2729.097,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "sector_2_complete",
+      "sector": 2,
+      "lap_number": 28,
+      "sector_time": 42.486,
+      "cumulative_lap_time": 69.341,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.469,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -21.395,
+          "22": -21.059,
+          "2": -4.706,
+          "72": -0.469
+        }
+      },
+      "gap_distance_meters": 19.5,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    },
+    {
+      "event_id": 1783,
+      "elapsed_race_time": 2757.899,
+      "driver_number": "46",
+      "driver_name": "Lucas Weisenberg",
+      "event_type": "lap_complete",
+      "sector": 3,
+      "lap_number": 28,
+      "sector_time": 28.802,
+      "cumulative_lap_time": 98.143,
+      "race_position": 5,
+      "position_change": 0,
+      "on_same_lap_as_leader": true,
+      "laps_behind_leader": 0,
+      "deltas": {
+        "to_car_ahead": 0.191,
+        "car_ahead_number": "72",
+        "to_all_cars": {
+          "13": -20.885,
+          "22": -20.651,
+          "2": -4.579,
+          "72": -0.191
+        }
+      },
+      "gap_distance_meters": 8.0,
+      "sector_performance": "fast",
+      "is_personal_best": false
+    }
+  ]
+}

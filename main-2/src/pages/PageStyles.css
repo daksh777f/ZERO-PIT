@@ -1,0 +1,430 @@
+.page {
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Weather Card */
+.empty-state-icon-svg {
+  color: var(--electric-blue);
+  animation: float-icon 3s ease-in-out infinite, pulse-icon-glitch 4s infinite alternate;
+  display: block;
+  margin: 0 auto;
+}
+
+@keyframes float-icon {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-10px) scale(1.05);
+  }
+}
+
+@keyframes pulse-icon-glitch {
+
+  0%,
+  100% {
+    filter: drop-shadow(0 0 20px rgba(0, 217, 255, 0.4));
+    color: var(--electric-blue);
+  }
+
+  50% {
+    filter: drop-shadow(0 0 40px rgba(230, 57, 70, 0.6));
+    color: var(--racing-red);
+  }
+}
+
+.weather-card {
+  margin-bottom: 2rem;
+}
+
+.weather-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1.5rem;
+}
+
+.weather-item {
+  text-align: center;
+  padding: 1rem;
+  background: var(--asphalt);
+  border-radius: 4px;
+  border: 1px solid var(--grid-line);
+  transition: all 0.2s ease;
+}
+
+.weather-item:hover {
+  border-color: var(--electric-blue);
+  transform: translateY(-2px);
+}
+
+.weather-label {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.5rem;
+}
+
+.weather-value {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--electric-blue);
+}
+
+/* Stat Badge */
+.stat-badge {
+  padding: 0.5rem 1rem;
+  background: var(--asphalt);
+  border: 1px solid var(--racing-red);
+  border-radius: 4px;
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  color: var(--racing-red);
+  font-weight: 600;
+}
+
+/* Driver Selector */
+.driver-selector {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.driver-chip {
+  padding: 0.75rem 1.25rem;
+  background: var(--asphalt);
+  color: var(--text-secondary);
+  border: 2px solid var(--track-gray);
+  border-radius: 6px;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.driver-chip::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(230, 57, 70, 0.2), transparent);
+  transition: left 0.3s ease;
+}
+
+.driver-chip:hover::before {
+  left: 100%;
+}
+
+.driver-chip:hover:not(:disabled) {
+  border-color: var(--racing-red);
+  color: var(--text-primary);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(230, 57, 70, 0.2);
+}
+
+.driver-chip.selected {
+  background: var(--racing-red);
+  color: var(--text-primary);
+  border-color: var(--racing-red);
+  box-shadow: 0 0 20px var(--racing-red-glow);
+}
+
+.driver-chip:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* Chart Container */
+.chart-container {
+  padding: 1rem;
+  background: var(--asphalt);
+  border-radius: 4px;
+  margin-top: 1rem;
+}
+
+.chart-note {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: rgba(0, 217, 255, 0.1);
+  border-left: 3px solid var(--electric-blue);
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+/* Champions Grid */
+.champions-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.champion-card {
+  text-align: center;
+  padding: 2rem 1.5rem;
+  background: linear-gradient(135deg, var(--pit-black), var(--asphalt));
+  border: 2px solid var(--racing-red);
+  position: relative;
+  overflow: hidden;
+}
+
+.champion-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--racing-red), var(--electric-blue));
+}
+
+.champion-label {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 1rem;
+}
+
+.champion-value {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 900;
+  color: var(--racing-red);
+  margin-bottom: 0.5rem;
+  text-shadow: 0 0 20px var(--racing-red-glow);
+}
+
+.champion-driver {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+}
+
+.champion-session {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+}
+
+/* Weekend Rankings */
+.weekend-rankings {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.ranking-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  background: var(--asphalt);
+  border: 1px solid var(--grid-line);
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.ranking-row:hover {
+  background: rgba(230, 57, 70, 0.05);
+  border-color: var(--racing-red);
+  transform: translateX(4px);
+}
+
+.ranking-pos {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--racing-red);
+  color: var(--text-primary);
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.1rem;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.ranking-row:nth-child(1) .ranking-pos {
+  background: #9d4edd;
+  box-shadow: 0 0 20px rgba(157, 78, 221, 0.5);
+}
+
+.ranking-row:nth-child(2) .ranking-pos {
+  background: #06ffa5;
+  box-shadow: 0 0 20px rgba(6, 255, 165, 0.5);
+}
+
+.ranking-row:nth-child(3) .ranking-pos {
+  background: #00d9ff;
+  box-shadow: 0 0 20px rgba(0, 217, 255, 0.5);
+}
+
+.ranking-name {
+  flex: 1;
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.ranking-stats {
+  display: flex;
+  gap: 2rem;
+}
+
+.ranking-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.25rem;
+}
+
+.stat-label {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.stat-value {
+  font-family: var(--font-mono);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--electric-blue);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .champions-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .ranking-row {
+    flex-wrap: wrap;
+  }
+
+  .ranking-stats {
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 0.5rem;
+  }
+}
+
+/* 404 Error Page */
+.error-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  text-align: center;
+  padding: 3rem;
+}
+
+.error-code {
+  font-family: var(--font-display);
+  font-size: 8rem;
+  font-weight: 900;
+  color: var(--racing-red);
+  text-shadow: 0 0 40px var(--racing-red-glow);
+  line-height: 1;
+  margin-bottom: 1rem;
+  animation: glitch 2s infinite;
+}
+
+@keyframes glitch {
+
+  0%,
+  100% {
+    transform: translate(0);
+  }
+
+  20% {
+    transform: translate(-2px, 2px);
+  }
+
+  40% {
+    transform: translate(-2px, -2px);
+  }
+
+  60% {
+    transform: translate(2px, 2px);
+  }
+
+  80% {
+    transform: translate(2px, -2px);
+  }
+}
+
+.error-title {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.error-message {
+  font-family: var(--font-body);
+  font-size: 1.25rem;
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+  max-width: 500px;
+}
+
+.error-button {
+  padding: 1rem 2rem;
+  background: var(--racing-red);
+  color: var(--text-primary);
+  border: none;
+  border-radius: 4px;
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 20px var(--racing-red-glow);
+}
+
+.error-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 30px var(--racing-red-glow);
+}
+
+.error-button:active {
+  transform: translateY(0);
+}

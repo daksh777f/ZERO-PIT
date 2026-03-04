@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Keystone Dashboard</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Teko:wght@700&family=Rajdhani:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GT4T5EDCF1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-GT4T5EDCF1');
+    </script>
+
+    <!-- Luxon Date/Time Library -->
+    <script src="https://cdn.jsdelivr.net/npm/luxon@3.4.4/build/global/luxon.min.js"></script>
+
+     <style>
+        :root {
+            --bg-color: #1a1a1a;
+            --section-bg: #222225;
+            --section-border: rgba(255, 255, 255, 0.08);
+            --text-primary: #e0e0e0;
+            --text-secondary: #888;
+            --text-title: #ffffff;
+            --accent-blue: #00a8ff;
+            --accent-red: #ff3838;
+            --font-title: 'Teko', sans-serif;
+            --font-body: 'Rajdhani', sans-serif;
+            
+            --lane-color-0: #ff3838; --lane-color-1: #00a8ff; --lane-color-2: #2ecc71;
+            --lane-color-3: #f1c40f; --lane-color-4: #9b59b6; --lane-color-5: #e67e22;
+            --lane-color-6: #1abc9c; --lane-color-7: #e91e63; --lane-color-8: #3498db;
+            --lane-color-9: #bdc3c7;
+        }
+        *, *::before, *::after { box-sizing: border-box; }
+        body {
+            font-family: var(--font-body);
+            background-color: var(--bg-color);
+            background-image: 
+                linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
+            background-size: 35px 35px;
+            color: var(--text-primary);
+            margin: 0;
+            padding: 20px 15px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+        @keyframes pulse {
+            0% { box-shadow: 0 0 0 0 rgba(255, 56, 56, 0.7); }
+            70% { box-shadow: 0 0 0 10px rgba(255, 56, 56, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(255, 56, 56, 0); }
+        }
+        .container { width: 100%; max-width: 1600px; display: grid; grid-template-columns: 1fr; gap: 20px; }
+        .header-bar { background: var(--section-bg); border: 1px solid var(--section-border); border-radius: 12px; padding: 15px 25px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .header-info .event-title { font-family: var(--font-title); font-size: clamp(28px, 4vw, 36px); color: var(--text-title); line-height: 1.1; letter-spacing: 1px; }
+        .header-info .event-date { font-size: clamp(14px, 3vw, 16px); color: var(--text-secondary); font-weight: 600; letter-spacing: 1px; }
+        .time-widget { font-family: var(--font-title); font-size: clamp(36px, 5vw, 48px); color: var(--accent-blue); line-height: 1; }
+        .section { background: var(--section-bg); padding: 25px 15px; /* MODIFIED: Reduced horizontal padding for mobile */ border-radius: 12px; border: 1px solid var(--section-border); display: flex; flex-direction: column; }
+        .section-header { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; border-bottom: 1px solid var(--section-border); padding-bottom: 10px; }
+        .live-indicator { width: 10px; height: 10px; background-color: var(--accent-red); border-radius: 50%; animation: pulse 2s infinite; }
+        .label { font-size: 16px; font-weight: 700; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 2px; }
+        .title { display: flex; align-items: center; gap: 15px; font-family: var(--font-title); font-size: clamp(36px, 5vw, 52px); color: var(--text-title); margin: 5px 0 15px 0; line-height: 1.1; letter-spacing: 1px; }
+        .time-display { font-family: var(--font-title); font-size: clamp(48px, 12vw, 96px); /* MODIFIED: Made font size more responsive */ font-weight: 700; line-height: 1; }
+        .time-left { color: var(--accent-blue); }
+        .time-elapsed { color: var(--text-primary); }
+        .time-until { color: var(--accent-blue); }
+        .timers-container { display: flex; justify-content: space-around; gap: 15px; margin-top: 10px; text-align: center; }
+        .timer-box .label { margin-top: 5px; font-size: 14px; }
+        .progress-bar-container { width: 100%; height: 6px; background-color: rgba(0, 0, 0, 0.3); border-radius: 3px; margin-top: 25px; overflow: hidden; }
+        #current-progress-bar { width: 0%; height: 100%; background-color: var(--accent-blue); border-radius: 3px; transition: width 0.5s ease-out; }
+        .event-details { text-align: left; margin-top: 20px; padding-top: 15px; border-top: 1px solid var(--section-border); font-size: 16px; line-height: 1.6; }
+        .detail-item { color: var(--text-secondary); }
+        .detail-item span { color: var(--text-primary); font-weight: 600; }
+        .planning-info { display: flex; justify-content: space-around; text-align: center; margin-top: 20px; padding-top: 15px; border-top: 1px solid var(--section-border); flex-wrap: wrap; /* ADDED: Allows boxes to stack on small screens */ gap: 20px; /* ADDED: Creates space between boxes when they stack */ }
+        .planning-box .value { font-family: var(--font-title); font-size: 28px; line-height: 1.2; color: var(--text-primary); }
+        .planning-box .label { font-size: 14px; }
+        .planning-box .value.overlap-value {
+            color: var(--accent-red);
+        }
+        .upcoming-list-container {flex-grow: 1; }
+
+        #upcoming-list { position: relative; }
+        #upcoming-list::before { content: ''; position: absolute; top: 10px; bottom: 10px; left: 8px; width: 3px; background-color: var(--section-border); border-radius: 2px; }
+        .timeline-item { position: relative; padding-left: 35px; margin-bottom: 30px; }
+        .timeline-item:last-child { margin-bottom: 0; }
+        .timeline-dot { position: absolute; left: 8px; top: 4px; width: 16px; height: 16px; border-radius: 50%; border: 3px solid var(--section-bg); transform: translateX(-50%); background-clip: content-box; }
+        .timeline-content { padding: 0; }
+        .timeline-row { display: flex; justify-content: space-between; align-items: baseline; gap: 15px; }
+        .timeline-title { font-size: 18px; font-weight: 600; color: var(--text-primary); line-height: 1.2; margin-bottom: 4px; min-width: 0; /* FIX: Prevents overflow with long titles in flexbox */ }
+        .timeline-countdown { font-family: var(--font-title); font-size: clamp(22px, 5vw, 24px); /* MODIFIED: Made countdown font responsive */ color: var(--accent-blue); letter-spacing: 1px; white-space: nowrap; }
+        .timeline-start-time, .timeline-duration { font-size: 13px; /* MODIFIED: Slightly smaller font to prevent overflow */ font-weight: 600; color: var(--text-secondary); white-space: nowrap; flex-shrink: 0; }
+        .timeline-location { font-size: 14px; color: var(--text-secondary); font-weight: 600; margin-top: 4px; }
+        
+        .category-legend { display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 15px; padding-top: 15px; border-top: 1px solid var(--section-border); font-size: 12px; }
+        .legend-item { display: flex; align-items: center; gap: 5px; color: var(--text-secondary); }
+        .legend-item .cat-icon { width: 8px; height: 8px; }
+        .cat-icon { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; border: 1px solid rgba(255,255,255,0.2); }
+        .title .cat-icon { width: 16px; height: 16px; }
+        .bulletin-banner { background: var(--bulletin-bg, #ff6b35); color: var(--bulletin-text, #ffffff); padding: 15px 25px; border-radius: 8px; margin-bottom: 20px; font-weight: 600; font-size: 16px; text-align: center; border: 2px solid rgba(255, 255, 255, 0.2); box-shadow: 0 4px 12px rgba(255, 107, 53, 0.3); width: 100%; max-width: 1600px; box-sizing: border-box; }
+        .bulletin-banner .bulletin-icon { display: inline-block; margin-right: 10px; font-size: 18px; }
+        .lane-icon-0 { background-color: var(--lane-color-0); } .lane-icon-1 { background-color: var(--lane-color-1); } .lane-icon-2 { background-color: var(--lane-color-2); }
+        .lane-icon-3 { background-color: var(--lane-color-3); } .lane-icon-4 { background-color: var(--lane-color-4); } .lane-icon-5 { background-color: var(--lane-color-5); }
+        .lane-icon-6 { background-color: var(--lane-color-6); } .lane-icon-7 { background-color: var(--lane-color-7); } .lane-icon-8 { background-color: var(--lane-color-8); }
+        .lane-icon-9 { background-color: var(--lane-color-9); }
+        .footer { text-align: center; padding: 10px; }
+        .status { font-size: 12px; color: #666; font-style: italic; }
+
+        .footer-button { background-color: var(--section-bg); border: 1px solid var(--section-border); color: var(--text-secondary); padding: 8px 16px; margin-top: 20px; border-radius: 6px; font-family: var(--font-body); font-weight: 600; font-size: 14px; cursor: pointer; transition: all 0.2s ease-in-out; }
+        .footer-button:hover { background-color: var(--accent-blue); color: #fff; border-color: var(--accent-blue); }
+        .modal { display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); justify-content: center; align-items: center; opacity: 0; transition: opacity 0.3s ease; }
+        .modal.modal-visible { display: flex; opacity: 1; }
+        .modal-content { background-color: var(--section-bg); border: 1px solid var(--section-border); border-radius: 12px; padding: 25px 35px; width: 90%; max-width: 800px; max-height: 85vh; display: flex; flex-direction: column; position: relative; }
+        .modal-content h2 { font-family: var(--font-title); font-size: 32px; margin: 0 0 20px 0; border-bottom: 1px solid var(--section-border); padding-bottom: 15px; }
+        .close-button { position: absolute; top: 15px; right: 20px; color: var(--text-secondary); font-size: 32px; font-weight: bold; cursor: pointer; line-height: 1; }
+        .close-button:hover { color: var(--text-primary); }
+        .full-timeline-container {
+            overflow-y: auto; /* This is required to enable scrolling */
+            flex-grow: 1;
+            
+            /* --- Hide Scrollbar CSS --- */
+            /* For Firefox */
+            scrollbar-width: none;
+            /* For Internet Explorer and Edge */
+            -ms-overflow-style: none;
+        }
+
+        /* For Chrome, Safari, and Opera */
+        .full-timeline-container::-webkit-scrollbar {
+            display: none;
+        }
+        .timeline-item.past { opacity: 0.6; }
+        .timeline-item.live .timeline-dot { background-color: var(--accent-red) !important; animation: pulse 2s infinite; }
+
+        @media (min-width: 1024px) {
+            body { padding: 30px; }
+            .section {
+                padding: 25px; /* MODIFIED: Restore larger padding for desktop */
+            }
+            .container { 
+                /* Define two equal columns */
+                grid-template-columns: 1fr 1fr; 
+                /* Define rows for header, content, and footer */
+                grid-template-rows: auto auto 1fr auto; 
+                /* This new area layout is the key to the fix */
+                grid-template-areas: 
+                    "header   header"
+                    "current  upcoming"
+                    "next     upcoming"
+                    "footer   footer"; 
+                gap: 25px; 
+            }
+            
+            /* Assign each section to its new grid area */
+            .header-bar { grid-area: header; }
+            #current-section { grid-area: current; }
+            #next-section { grid-area: next; }
+            .countdown-wrapper {
+            text-align: center;
+            margin: 10px 0; /* Adds some vertical spacing */
+        }
+            
+            #upcoming-section { 
+                grid-area: upcoming;
+                /* Ensure the container is a flex column so the list can grow */
+                display: flex;
+                flex-direction: column;
+            }
+            .footer { grid-area: footer; }
+            
+            /* Make "No Activity" span the entire content area correctly */
+            #no-activity-section { 
+                grid-column: 1 / 3; /* Span from grid line 1 to 3 */
+                grid-row: 2 / 4;    /* Span from grid line 2 to 4 */
+                align-self: center; 
+                text-align: center; 
+                padding: 60px; 
+            }
+
+            /* Allow the timeline list to grow and fill the available vertical space */
+            .upcoming-list-container {
+                flex-grow: 1;
+                max-height: none; 
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="bulletin-banner" class="bulletin-banner" style="display: none;">
+        <span class="bulletin-icon">📢</span>
+        <span id="bulletin-text"></span>
+    </div>
+    
+    <div class="container">
+        <div class="header-bar">
+            <div class="header-info">
+                <div id="event-title" class="event-title">Schedule</div>
+                <div id="event-date" class="event-date"></div>
+            </div>
+            <div id="time-widget" class="time-widget"></div>
+        </div>
+
+        <div id="current-section" class="section" style="display: none;">
+            <div class="section-header">
+                <div class="live-indicator"></div>
+                <div class="label">Live Now</div>
+            </div>
+            <div id="current-title" class="title"></div>
+            <div class="timers-container">
+                <div class="timer-box"><div id="current-timeelapsed" class="time-display time-elapsed"></div><div class="label">Elapsed</div></div>
+                <div class="timer-box"><div id="current-timeleft" class="time-display time-left"></div><div class="label">Remaining</div></div>
+            </div>
+            <div class="progress-bar-container"><div id="current-progress-bar"></div></div>
+            <div id="current-details" class="event-details" style="display: none;"></div>
+        </div>
+
+        <div id="next-section" class="section" style="display: none;">
+            <div class="label">Next Up</div>
+            <div id="next-title" class="title"></div>
+
+            <!-- NEW: Wrapper for centering -->
+            <div class="countdown-wrapper">
+                <div id="next-timeuntil" class="time-display time-until"></div>
+                <div class="label">Until Start</div>
+            </div>
+
+            <div id="next-planning" class="planning-info" style="display: none;"></div>
+            <div id="next-details" class="event-details" style="display: none;"></div>
+        </div>
+
+        <div id="upcoming-section" class="section" style="display: none;">
+            <div class="label">Timeline</div>
+            <div id="upcoming-list" class="upcoming-list-container"></div>
+        </div>
+
+        <div id="no-activity-section" class="section" style="display: none;"><div class="title">No Activity Scheduled</div></div>
+        
+        <div class="footer">
+            <div id="status" class="status">Loading...</div>
+            <div class="category-legend" id="lane-legend"></div>
+            <!-- FIX #1: Added the missing button -->
+            <button id="show-full-schedule-btn" class="footer-button">Show Full Schedule</button>
+        </div>
+    </div> <!-- End .container -->
+    
+    <!-- FIX #2: Added the missing modal structure -->
+    <div id="full-schedule-modal" class="modal">
+        <div class="modal-content">
+            <span id="close-modal-btn" class="close-button">&times;</span>
+            <h2>Full Event Schedule</h2>
+            <div id="full-schedule-timeline" class="full-timeline-container">
+                <!-- Timeline will be injected here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+      // --- CONFIGURATION ---
+      const GOOGLE_SHEET_CSV_URL = 'https://raw.githubusercontent.com/dhodgejrrr/schedule_data/refs/heads/main/tgr_barber.csv';
+      const MAX_UPCOMING_EVENTS = 7;
+      const REFRESH_INTERVAL_MS = 60 * 1000;
+      
+      // --- STATIC TIME CONFIGURATION ---
+      // Set to null to use real-time, or provide a date string to freeze time
+      const STATIC_TIME = '09/06/2025 08:49'; // Format: MM/DD/YYYY HH:mm
+      const STATIC_TIMEZONE = 'America/Chicago'; // Adjust timezone as needed
+      // --- END CONFIGURATION ---
+
+      let processedData, countdownInterval, refreshDataInterval, liveClockInterval;
+      let laneMap = {};
+      let staticStartTime = null;
+      let staticStartRealTime = null;
+      
+      // Initialize static time if STATIC_TIME is set
+      if (STATIC_TIME) {
+          staticStartTime = luxon.DateTime.fromFormat(STATIC_TIME, 'M/d/yyyy H:mm', { zone: STATIC_TIMEZONE });
+          if (!staticStartTime.isValid) {
+              console.error('Invalid STATIC_TIME format. Using real-time instead.');
+              staticStartTime = null;
+          } else {
+              staticStartRealTime = Date.now();
+          }
+      }
+      
+      // Helper function to get current time (real or simulated)
+      function getCurrentTime() {
+          if (staticStartTime) {
+              // Calculate elapsed time since page load and add it to the static start time
+              const elapsedMs = Date.now() - staticStartRealTime;
+              return staticStartTime.plus({ milliseconds: elapsedMs });
+          }
+          return luxon.DateTime.now();
+      }
+      
+      async function fetchData() {
+        document.getElementById('status').textContent = 'Updating...';
+        if (!GOOGLE_SHEET_CSV_URL || !GOOGLE_SHEET_CSV_URL.includes('raw.githubusercontent.com')) {
+            showError("Configuration Error: Please set your raw GitHub CSV URL.");
+            return;
+        }
+        try {
+            const url = new URL(GOOGLE_SHEET_CSV_URL);
+            url.searchParams.set('t', new Date().getTime());
+            const response = await fetch(url);
+            if (!response.ok) throw new Error(`Network response was not ok: ${response.statusText}`);
+            const csvText = await response.text();
+            const rawData = parseCSV(csvText);
+            processedData = processData(rawData);
+            updateDisplay(processedData);
+        } catch (error) {
+            console.error('Fetch Error:', error);
+            showError(error.message);
+        }
+      }
+
+      function parseCSV(text) {
+          const lines = text.trim().split(/\r?\n/);
+          if (lines.length < 2) return [];
+          const headers = lines.shift().split(',').map(h => h.trim());
+          return lines.map(line => {
+              const values = line.split(',');
+              const obj = {};
+              headers.forEach((header, i) => {
+                  obj[header] = (values[i] || '').trim().replace(/^"|"$/g, '');
+              });
+              return obj;
+          });
+      }
+
+      function processData(rawData) {
+          const now = getCurrentTime();
+          const uniqueColorCategories = new Set(); // Changed from uniqueLanes
+          const config = {};
+          const eventRows = [];
+          for (const row of rawData) {
+              if (row['Event Name'] === 'CONFIG') {
+                  const key = row['StartDateTime'];
+                  const value = row['EndDateTime'];
+                  if (key) config[key] = value;
+              } else {
+                  eventRows.push(row);
+              }
+          }
+          
+          let allEvents = eventRows.map(event => {
+              const { StartDateTime, EndDateTime, Timezone, Lanes, Category } = event;
+              if (!StartDateTime || !EndDateTime || !Timezone) return null;
+              const start = luxon.DateTime.fromFormat(StartDateTime, 'M/d/yyyy H:mm', { zone: Timezone });
+              const end = luxon.DateTime.fromFormat(EndDateTime, 'M/d/yyyy H:mm', { zone: Timezone });
+              if (!start.isValid || !end.isValid) { return null; }
+              
+              // --- NEW LOGIC: Prioritize Lanes over Category for color-coding ---
+              const colorCategory = Lanes || Category || ''; // Use Lane, fallback to Category, fallback to empty
+              if (colorCategory) {
+                  uniqueColorCategories.add(colorCategory);
+              }
+
+              return { 
+                  title: event['Event Name'] || 'Untitled Event', 
+                  startTime: start.toMillis(), 
+                  endTime: end.toMillis(), 
+                  location: event.Location || '', 
+                  description: event.Desc || '', 
+                  lane: Lanes || '', 
+                  category: Category || '',
+                  colorCategory: colorCategory // This is our new source of truth for color
+              };
+          }).filter(Boolean);
+
+          allEvents.sort((a, b) => a.startTime - b.startTime);
+
+          let current = null;
+          let liveEvents = [];
+          const futureEvents = [];
+          for (const event of allEvents) {
+              if (event.startTime <= now.ts && event.endTime > now.ts) {
+                  liveEvents.push(event);
+              } else if (event.startTime > now.ts) {
+                  futureEvents.push(event);
+              }
+          }
+
+          if (liveEvents.length > 0) {
+              current = liveEvents.reduce((latest, ev) => ev.endTime > latest.endTime ? ev : latest, liveEvents[0]);
+          }
+
+          const next = futureEvents[0] || null;
+          const upcoming = futureEvents.slice(0, MAX_UPCOMING_EVENTS);
+
+          if (next) {
+              next.isOverlap = false;
+              if (futureEvents.length > 1) {
+                  const eventAfterNext = futureEvents[1];
+                  const gap = eventAfterNext.startTime - next.endTime;
+                  if (gap < 0) {
+                      next.isOverlap = true;
+                      next.gapAfter = gap; 
+                  } else {
+                      next.gapAfter = gap;
+                  }
+              } else {
+                  next.gapAfter = null;
+              }
+          }
+          
+          return { config, colorCategories: Array.from(uniqueColorCategories), allEvents, current, next, upcoming, liveEvents };
+      }
+      
+      function updateDisplay(data) {
+         document.getElementById('status').textContent = 'Last updated: ' + new Date().toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' });
+         document.getElementById('event-title').textContent = data.config.EventTitle || 'Event Schedule';
+         const bulletinBanner = document.getElementById('bulletin-banner');
+         const bulletinText = document.getElementById('bulletin-text');
+         if (data.config.AlertMessage && data.config.AlertMessage.trim()) {
+             bulletinText.textContent = data.config.AlertMessage;
+             bulletinBanner.style.display = 'block';
+         } else {
+             bulletinBanner.style.display = 'none';
+         }
+
+         laneMap = {}; 
+         // Use the new `colorCategories` array
+         if (data.colorCategories && Array.isArray(data.colorCategories)) {
+            data.colorCategories.forEach((name, index) => {
+                if (index < 10) laneMap[name] = index;
+            });
+            // Pass the new array to the legend builder
+            buildLaneLegend(data.colorCategories);
+         } else {
+            buildLaneLegend([]);
+         }
+         
+         document.getElementById('event-date').textContent = new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
+         buildFullScheduleTimeline(data.allEvents);
+         if (countdownInterval) clearInterval(countdownInterval);
+         resetDisplayElements();
+         buildUpcomingList();
+         updateCountdown();
+         countdownInterval = setInterval(updateCountdown, 1000);
+      }
+       
+      function formatCountdown(ms) {
+          if (ms < 0) ms = 0;
+          const d = Math.floor(ms / (1000 * 60 * 60 * 24));
+          const h = Math.floor((ms % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+          const m = Math.floor((ms % (1000 * 60 * 60)) / (1000 * 60));
+          let parts = [];
+          if (d > 0) parts.push(`${d}d`);
+          if (h > 0 || d > 0) parts.push(`${String(h).padStart(2,'0')}h`);
+          parts.push(`${String(m).padStart(2,'0')}m`);
+          return parts.join(':');
+      }
+
+      function formatStartTime(ms) {
+          return luxon.DateTime.fromMillis(ms).toFormat('MMM d @ h:mm a');
+      }
+
+      function formatSimpleDuration(ms) {
+          if (ms <= 0) return '';
+          const totalMinutes = Math.floor(ms / 60000);
+          const h = Math.floor(totalMinutes / 60);
+          const m = totalMinutes % 60;
+          const parts = [];
+          if (h > 0) parts.push(`${h}h`);
+          if (m > 0) parts.push(`${m}m`);
+          return parts.length > 0 ? `Duration: ${parts.join(' ')}` : '';
+      }
+
+      function updateCountdown() {
+        const now = getCurrentTime().toMillis();
+        let showCurrent = false, showNext = false, showUpcoming = false;
+        
+        const currentEventData = processedData.current;
+        if (currentEventData && currentEventData.endTime > now) {
+            document.getElementById('current-title').innerHTML = getTitleHtml(currentEventData);
+            document.getElementById('current-timeleft').textContent = formatDuration(currentEventData.endTime - now);
+            document.getElementById('current-timeelapsed').textContent = formatDuration(now - currentEventData.startTime);
+            const progress = Math.min(100, ((now - currentEventData.startTime) / (currentEventData.endTime - currentEventData.startTime)) * 100);
+            document.getElementById('current-progress-bar').style.width = progress + '%';
+            updateDetails('current', currentEventData);
+            document.getElementById('current-section').style.display = 'flex';
+            showCurrent = true;
+        }
+
+        const nextEventData = processedData.next;
+        if (nextEventData && nextEventData.startTime > now) {
+            document.getElementById('next-title').innerHTML = getTitleHtml(nextEventData);
+            document.getElementById('next-timeuntil').textContent = formatDuration(nextEventData.startTime - now);
+            updateDetails('next', nextEventData);
+            updatePlanningInfo(nextEventData);
+            document.getElementById('next-section').style.display = 'flex';
+            showNext = true;
+        }
+
+        // Combine live and upcoming for iteration
+        const liveTimelineEvents = processedData.liveEvents || [];
+        const upcomingTimelineEvents = processedData.upcoming || [];
+        const timelineEventsMap = new Map();
+        liveTimelineEvents.forEach(event => timelineEventsMap.set(event.title + event.startTime, event));
+        upcomingTimelineEvents.forEach(event => timelineEventsMap.set(event.title + event.startTime, event));
+        const timelineEvents = Array.from(timelineEventsMap.values()).sort((a, b) => a.startTime - b.startTime).slice(0, MAX_UPCOMING_EVENTS);
+
+        if (timelineEvents.length > 0) {
+           showUpcoming = true;
+           timelineEvents.forEach((event, i) => {
+              const el = document.getElementById('upcoming-countdown-' + i);
+              if (el) {
+                  const isLive = event.startTime <= now && event.endTime > now;
+                  if (isLive) {
+                      el.textContent = 'LIVE NOW';
+                  } else {
+                      const timeUntilMs = event.startTime - now;
+                      el.textContent = timeUntilMs > 0 ? formatCountdown(timeUntilMs) : "Started";
+                  }
+              }
+           });
+        }
+        
+        document.getElementById('no-activity-section').style.display = (!showCurrent && !showNext && !showUpcoming) ? 'flex' : 'none';
+        const shouldRefreshNow = (currentEventData && currentEventData.endTime <= now) || (nextEventData && nextEventData.startTime <= now);
+        if (shouldRefreshNow) {
+            if (countdownInterval) clearInterval(countdownInterval);
+            fetchData();
+        }
+      }
+
+      function buildFullScheduleTimeline(allEvents) {
+          const container = document.getElementById('full-schedule-timeline');
+          if (!allEvents || allEvents.length === 0) {
+              container.innerHTML = '<p>No schedule data available.</p>';
+              return;
+          }
+          const now = getCurrentTime().toMillis();
+          
+          container.innerHTML = allEvents.map((event, i) => {
+                let stateClass = '';
+                if (event.endTime < now) { stateClass = 'past'; } 
+                else if (event.startTime <= now && event.endTime > now) { stateClass = 'live'; }
+
+                const colorIndex = laneMap[event.colorCategory]; // Use colorCategory
+                const dotColorClass = colorIndex !== undefined ? `lane-icon-${colorIndex}` : `lane-icon-${i % 10}`;
+                const startTimeHtml = `<div class="timeline-start-time">${luxon.DateTime.fromMillis(event.startTime).toFormat('EEE, MMM d @ h:mm a')}</div>`;
+                const durationHtml = `<div class="timeline-duration">${formatSimpleDuration(event.endTime - event.startTime)}</div>`;
+                const locationHtml = event.location ? `<div class="timeline-location">${event.location}</div>` : '';
+
+                return `
+                    <div class="timeline-item ${stateClass}">
+                        <div class="timeline-dot ${dotColorClass}"></div>
+                        <div class="timeline-content">
+                            <div class="timeline-row">
+                                <div class="timeline-title">${event.title}</div>
+                                ${durationHtml}
+                            </div>
+                             <div class="timeline-row">
+                                ${startTimeHtml}
+                            </div>
+                            ${locationHtml}
+                        </div>
+                    </div>`;
+            }).join('');
+      }
+
+      function buildUpcomingList() {
+          const container = document.getElementById('upcoming-list');
+          const now = getCurrentTime().toMillis();
+          const liveTimelineEvents = processedData.liveEvents || [];
+          const upcomingTimelineEvents = processedData.upcoming || [];
+          const timelineEventsMap = new Map();
+          liveTimelineEvents.forEach(event => timelineEventsMap.set(event.title + event.startTime, event));
+          upcomingTimelineEvents.forEach(event => timelineEventsMap.set(event.title + event.startTime, event));
+          const timelineEvents = Array.from(timelineEventsMap.values()).sort((a, b) => a.startTime - b.startTime).slice(0, MAX_UPCOMING_EVENTS);
+
+          if (timelineEvents.length > 0) {
+              container.innerHTML = timelineEvents.map((event, i) => {
+                    const isLive = event.startTime <= now && event.endTime > now;
+                    const stateClass = isLive ? 'live' : '';
+                    const colorIndex = laneMap[event.colorCategory]; // Use colorCategory
+                    const dotColorClass = colorIndex !== undefined ? `lane-icon-${colorIndex}` : `lane-icon-${i % 10}`;
+                    const startTimeHtml = `<div class="timeline-start-time">${formatStartTime(event.startTime)}</div>`;
+                    const durationHtml = `<div class="timeline-duration">${formatSimpleDuration(event.endTime - event.startTime)}</div>`;
+                    const locationHtml = event.location ? `<div class="timeline-location">${event.location}</div>` : '';
+
+                    return `
+                        <div class="timeline-item ${stateClass}">
+                            <div class="timeline-dot ${dotColorClass}"></div>
+                            <div class="timeline-content">
+                                <div class="timeline-row">
+                                    <div class="timeline-countdown" id="upcoming-countdown-${i}">--</div>
+                                    ${startTimeHtml}
+                                </div>
+                                <div class="timeline-row">
+                                    <div class="timeline-title">${event.title}</div>
+                                    ${durationHtml}
+                                </div>
+                                ${locationHtml}
+                            </div>
+                        </div>`;
+                }).join('');
+              document.getElementById('upcoming-section').style.display = 'flex';
+          } else {
+              document.getElementById('upcoming-section').style.display = 'none';
+          }
+      }
+      
+      function buildLaneLegend(names) { // Parameter is now generic 'names'
+        const legendContainer = document.getElementById('lane-legend');
+        legendContainer.innerHTML = names.map(name => {
+            const colorIndex = laneMap[name];
+            return (colorIndex !== undefined) ? 
+              `<div class="legend-item"><div class="cat-icon lane-icon-${colorIndex}"></div><span>${name}</span></div>` : '';
+        }).join('');
+      }
+
+      function updateDetails(type, data) {
+          const container = document.getElementById(`${type}-details`);
+          let html = '';
+          if (data.location) html += `<div class="detail-item">Location: <span>${data.location}</span></div>`;
+          if (data.description) html += `<div class="detail-item">Notes: <span>${data.description}</span></div>`;
+          container.innerHTML = html;
+          container.style.display = html ? 'block' : 'none';
+      }
+
+      function updatePlanningInfo(data) {
+          const container = document.getElementById('next-planning');
+          const sessionDuration = data.endTime - data.startTime;
+          let html = `<div class="planning-box"><div class="value">${formatDuration(sessionDuration, false)}</div><div class="label">Duration</div></div>`;
+          
+          // --- REVISED DISPLAY LOGIC FOR GAP/OVERLAP ---
+          if (data.gapAfter !== null) {
+              if (data.isOverlap) {
+                  // If it's an overlap, change the label and styling
+                  // Math.abs() makes the negative gap value positive for display
+                  html += `<div class="planning-box">
+                               <div class="value overlap-value">${formatDuration(Math.abs(data.gapAfter), false)}</div>
+                               <div class="label">Overlap</div>
+                           </div>`;
+              } else {
+                  // Otherwise, show the normal "Gap After"
+                  html += `<div class="planning-box">
+                               <div class="value">${formatDuration(data.gapAfter, false)}</div>
+                               <div class="label">Gap After</div>
+                           </div>`;
+              }
+          }
+
+          container.innerHTML = html;
+          container.style.display = 'flex';
+      }
+      
+      function getLaneIcon(categoryName) {
+        if (!categoryName || laneMap[categoryName] === undefined) return '';
+        return `<div class="cat-icon lane-icon-${laneMap[categoryName]}" title="${categoryName}"></div>`;
+      }
+
+      function getTitleHtml(data) {
+        return `${getLaneIcon(data.colorCategory)} <span>${data.title}</span>`;
+      }
+
+      function formatDuration(ms, showHoursAlways = true) {
+        if (ms < 0) ms = 0;
+        const totalSeconds = Math.floor(ms / 1000);
+        const s = String(totalSeconds % 60).padStart(2, '0');
+        const m = String(Math.floor(totalSeconds / 60) % 60).padStart(2, '0');
+        const h = Math.floor(totalSeconds / 3600);
+        if (h > 0 || showHoursAlways) {
+            return `${String(h).padStart(2, '0')}:${m}:${s}`;
+        }
+        return `${m}:${s}`;
+      }
+
+      function resetDisplayElements() {
+          ['current-section', 'next-section', 'upcoming-section', 'no-activity-section'].forEach(id => {
+              const el = document.getElementById(id);
+              if (el) el.style.display = 'none';
+          });
+      }
+
+      function showError(error) {
+        document.getElementById('status').textContent = `Error: ${error}`;
+        resetDisplayElements();
+        document.getElementById('no-activity-section').style.display = 'flex';
+        document.querySelector('#no-activity-section .title').textContent = 'Error Loading Schedule';
+      }
+
+      function updateLiveClock() {
+        const currentTime = getCurrentTime();
+        document.getElementById('time-widget').textContent = currentTime.toFormat('h:mm a');
+      }
+
+      // FIX #3: Consolidated the two DOMContentLoaded listeners into one.
+      document.addEventListener('DOMContentLoaded', () => {
+         // Initial data fetch and interval setup
+         fetchData();
+         refreshDataInterval = setInterval(fetchData, REFRESH_INTERVAL_MS);
+         updateLiveClock();
+         liveClockInterval = setInterval(updateLiveClock, 1000);
+
+         // Modal control logic
+         const modal = document.getElementById('full-schedule-modal');
+         const showBtn = document.getElementById('show-full-schedule-btn');
+         const closeBtn = document.getElementById('close-modal-btn');
+
+         const showModal = () => modal.classList.add('modal-visible');
+         const hideModal = () => modal.classList.remove('modal-visible');
+
+         showBtn.addEventListener('click', showModal);
+         closeBtn.addEventListener('click', hideModal);
+         modal.addEventListener('click', (event) => {
+             // Hide modal if the user clicks on the dark overlay, but not on the content box
+             if (event.target === modal) {
+                 hideModal();
+             }
+         });
+      });
+    </script>
+</body>
+</html>

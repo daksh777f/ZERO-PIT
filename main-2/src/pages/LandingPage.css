@@ -1,0 +1,432 @@
+.landing-wrapper {
+  background-color: #0a0a0a;
+  color: #fff;
+  font-family: "Rajdhani", sans-serif;
+  overflow-x: hidden;
+}
+
+.hero-section {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
+.canvas-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.canvas-container canvas {
+  display: block;
+  object-fit: cover;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.hero-text-overlay {
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  /* Grounded editorial layout */
+  padding: 4rem 6rem;
+  box-sizing: border-box;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.95) 0%, rgba(0, 0, 0, 0.4) 30%, rgba(0, 0, 0, 0) 100%);
+  pointer-events: none;
+}
+
+.cinematic-title {
+  font-family: "Orbitron", sans-serif;
+  font-size: 8rem;
+  font-weight: 900;
+  letter-spacing: -0.05em;
+  margin: 0;
+  line-height: 0.9;
+  text-transform: uppercase;
+  color: #999999;
+  text-shadow: 0 4px 12px rgba(230, 57, 70, 0.4);
+  /* subtle red glow */
+}
+
+.subtitle {
+  font-family: "Roboto Mono", monospace;
+  font-size: 1.2rem;
+  letter-spacing: 0.25em;
+  color: #e63946;
+  /* Racing Red */
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  font-weight: 500;
+}
+
+.mission-statement {
+  max-width: 600px;
+  border-left: 2px solid #00d9ff;
+  /* Electric Blue */
+  padding-left: 1.5rem;
+}
+
+.mission-statement p {
+  font-size: 1.4rem;
+  line-height: 1.5;
+  margin: 0;
+  color: #777777;
+}
+
+/* Content Sections */
+.content-section {
+  padding: 8rem 6rem;
+  background-color: #0a0a0a;
+  min-height: 100vh;
+  position: relative;
+  z-index: 20;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4rem;
+  margin-bottom: 8rem;
+}
+
+.grid-item {
+  background: rgba(255, 255, 255, 0.02);
+  border-top: 2px solid #333;
+  padding: 3rem 2rem;
+  transition: border-color 0.3s ease, background 0.3s ease;
+}
+
+.grid-item:hover {
+  border-top: 2px solid #e63946;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.grid-item h3 {
+  font-family: "Orbitron", sans-serif;
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #f8f8f8;
+}
+
+.grid-item p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #999;
+}
+
+.new-gen-z-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 8rem;
+  padding-top: 4rem;
+}
+
+.feature-block {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4rem;
+  padding: 0 6rem;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.feature-text {
+  flex: 1;
+  max-width: 500px;
+}
+
+.feature-visual {
+  flex: 1.5;
+  display: flex;
+  justify-content: center;
+}
+
+.glitch-title {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 3rem;
+  font-weight: 900;
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+  position: relative;
+  line-height: 1.1;
+}
+
+/* Glitch Pseudo-elements for hover effect */
+.glitch-title::before,
+.glitch-title::after {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #050505;
+}
+
+.glitch-title::before {
+  left: 2px;
+  text-shadow: -2px 0 red;
+  clip: rect(44px, 450px, 56px, 0);
+  animation: glitch-anim 5s infinite linear alternate-reverse;
+}
+
+.glitch-title::after {
+  left: -2px;
+  text-shadow: -2px 0 blue;
+  clip: rect(44px, 450px, 56px, 0);
+  animation: glitch-anim2 5s infinite linear alternate-reverse;
+}
+
+@keyframes glitch-anim {
+  0% {
+    clip: rect(61px, 9999px, 52px, 0);
+  }
+
+  20% {
+    clip: rect(33px, 9999px, 14px, 0);
+  }
+
+  40% {
+    clip: rect(72px, 9999px, 2px, 0);
+  }
+
+  60% {
+    clip: rect(100px, 9999px, 88px, 0);
+  }
+
+  80% {
+    clip: rect(2px, 9999px, 73px, 0);
+  }
+
+  100% {
+    clip: rect(45px, 9999px, 90px, 0);
+  }
+}
+
+@keyframes glitch-anim2 {
+  0% {
+    clip: rect(29px, 9999px, 83px, 0);
+  }
+
+  20% {
+    clip: rect(65px, 9999px, 71px, 0);
+  }
+
+  40% {
+    clip: rect(14px, 9999px, 51px, 0);
+  }
+
+  60% {
+    clip: rect(89px, 9999px, 22px, 0);
+  }
+
+  80% {
+    clip: rect(5px, 9999px, 39px, 0);
+  }
+
+  100% {
+    clip: rect(98px, 9999px, 14px, 0);
+  }
+}
+
+.feature-p {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  color: #999;
+  margin-bottom: 2rem;
+}
+
+.highlight-p {
+  color: #00d9ff;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1rem;
+  font-weight: 600;
+  border-left: 2px solid #00d9ff;
+  padding-left: 1rem;
+}
+
+.hollow-btn {
+  background: transparent;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  padding: 1rem 2rem;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1rem;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.hollow-btn:hover {
+  background: #fff;
+  color: #000;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(255, 255, 255, 0.1);
+}
+
+.cta-container.final-cta {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8rem 0 4rem 0;
+  width: 100%;
+}
+
+.launch-btn {
+  font-family: "Orbitron", sans-serif;
+  background: #e63946;
+  color: #fff;
+  border: none;
+  padding: 1.5rem 4rem;
+  font-size: 1.4rem;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  box-shadow: 0 15px 30px rgba(230, 57, 70, 0.3);
+}
+
+.launch-btn:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(230, 57, 70, 0.5);
+  background: #ff4d5a;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 1024px) {
+  .project-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 1024px) {
+  .feature-block {
+    flex-direction: column;
+    padding: 0 4rem;
+    gap: 3rem;
+  }
+
+  .feature-text {
+    max-width: 100%;
+  }
+
+  /* Flip order for right-aligned AI section on mobile so visual is always bottom/top consistently */
+  .ai-feature {
+    flex-direction: column-reverse;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-text-overlay {
+    padding: 3rem;
+  }
+
+  .cinematic-title {
+    font-size: 5rem;
+  }
+
+  .subtitle {
+    font-size: 0.9rem;
+  }
+
+  .project-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .content-section {
+    padding: 0;
+  }
+
+  .feature-block {
+    padding: 0 2rem;
+  }
+
+  .glitch-title {
+    font-size: 2.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-text-overlay {
+    padding: 2rem;
+  }
+
+  .cinematic-title {
+    font-size: 3.5rem;
+  }
+
+  .mission-statement p {
+    font-size: 1.1rem;
+  }
+}
+
+/* Loading Overlay */
+.loading-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #000;
+  z-index: 50;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.loading-content {
+  text-align: center;
+  width: 100%;
+  max-width: 400px;
+}
+
+.loading-title {
+  font-family: "Orbitron", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.1em;
+  margin-bottom: 2rem;
+  color: #e63946;
+}
+
+.loading-bar-container {
+  width: 100%;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.1);
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+.loading-bar {
+  height: 100%;
+  background: #00d9ff;
+  transition: width 0.1s linear;
+}
+
+.loading-content p {
+  font-family: "Roboto Mono", monospace;
+  font-size: 0.9rem;
+  color: #999;
+}
