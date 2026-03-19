@@ -1,21 +1,11 @@
 {
-  "version": 2,
-  "builds": [
+  "installCommand": "cd main-2 && npm install",
+  "buildCommand": "cd main-2 && npm run build",
+  "outputDirectory": "main-2/dist",
+  "rewrites": [
     {
-      "src": "main-2/package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "dist"
-      }
-    }
-  ],
-  "routes": [
-    {
-      "handle": "filesystem"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
