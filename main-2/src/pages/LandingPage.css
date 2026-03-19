@@ -9,6 +9,7 @@
   position: relative;
   width: 100vw;
   height: 100vh;
+  min-height: 100svh;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -151,6 +152,7 @@
   flex: 1.5;
   display: flex;
   justify-content: center;
+  width: 100%;
 }
 
 .glitch-title {
@@ -325,10 +327,15 @@
     flex-direction: column;
     padding: 0 4rem;
     gap: 3rem;
+    align-items: stretch;
   }
 
   .feature-text {
     max-width: 100%;
+  }
+
+  .feature-visual {
+    width: 100%;
   }
 
   /* Flip order for right-aligned AI section on mobile so visual is always bottom/top consistently */
@@ -338,6 +345,10 @@
 }
 
 @media (max-width: 768px) {
+  .hero-section {
+    height: 100svh;
+  }
+
   .hero-text-overlay {
     padding: 3rem;
   }
@@ -361,10 +372,33 @@
 
   .feature-block {
     padding: 0 2rem;
+    gap: 2rem;
+  }
+
+  .feature-p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
+
+  .hollow-btn {
+    width: 100%;
+    justify-content: center;
   }
 
   .glitch-title {
     font-size: 2.2rem;
+  }
+
+  .cta-container.final-cta {
+    padding: 4rem 2rem 3rem;
+  }
+
+  .launch-btn {
+    width: 100%;
+    justify-content: center;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    letter-spacing: 0.06em;
   }
 }
 
@@ -379,6 +413,23 @@
 
   .mission-statement p {
     font-size: 1.1rem;
+  }
+
+  .content-section {
+    padding-bottom: 1.5rem;
+  }
+
+  .feature-block {
+    padding: 0 1rem;
+    gap: 1.5rem;
+  }
+
+  .glitch-title {
+    font-size: 1.65rem;
+  }
+
+  .feature-p {
+    font-size: 1rem;
   }
 }
 

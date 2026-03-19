@@ -11,6 +11,11 @@
     backdrop-filter: blur(10px);
 }
 
+.timing-table-header,
+.timing-row {
+    min-width: 640px;
+}
+
 .timing-header {
     display: flex;
     justify-content: space-between;
@@ -222,6 +227,29 @@
 }
 
 @media (max-width: 768px) {
+    .live-timing-container {
+        overflow-x: auto;
+    }
+
+    .timing-header {
+        padding: 0.75rem 1rem;
+    }
+
+    .timing-title {
+        font-size: 0.9rem;
+        letter-spacing: 0.06em;
+    }
+
+    .timing-session {
+        font-size: 0.72rem;
+    }
+
+    .timing-table-header,
+    .timing-row {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
     .t-sec {
         display: none;
     }
@@ -232,5 +260,48 @@
 
     .t-name {
         width: 35%;
+    }
+
+    .timing-footer {
+        padding: 0.65rem 1rem;
+        gap: 0.9rem;
+        font-size: 0.62rem;
+    }
+}
+
+@media (max-width: 560px) {
+    .timing-session {
+        display: none;
+    }
+
+    .timing-table-header,
+    .timing-row {
+        min-width: 520px;
+    }
+
+    .t-gap {
+        display: none;
+    }
+
+    .t-pos {
+        width: 11%;
+    }
+
+    .t-num {
+        width: 13%;
+    }
+
+    .t-name {
+        width: 44%;
+        font-size: 0.86rem;
+    }
+
+    .t-lap {
+        width: 32%;
+        font-size: 0.84rem;
+    }
+
+    .num-box {
+        font-size: 0.72rem;
     }
 }
