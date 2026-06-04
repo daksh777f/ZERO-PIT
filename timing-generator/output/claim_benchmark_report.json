@@ -1,0 +1,18 @@
+{
+  "benchmark": "barber_race_2",
+  "position_benchmark": {
+    "train_fraction": 0.83,
+    "train_count": 1498,
+    "test_count": 308,
+    "model_accuracy": 0.8214285714285714,
+    "majority_baseline_accuracy": 0.045454545454545456
+  },
+  "commentary_benchmark": {
+    "seconds": 0.028811899999709567,
+    "commentary_events": 602,
+    "sector_event_counts": {
+      "sector_1_complete": 602,
+      "sector_2_complete": 602
+    }
+  }
+}

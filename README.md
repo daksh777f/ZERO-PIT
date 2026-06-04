@@ -67,8 +67,9 @@ ZERO PIT converts raw race timing sheets into **deterministic JSON artifacts**, 
 | **Weekend Storylines** | Surfaces trends, momentum shifts, and competitive health across the full event weekend |
 
 ---
+## Architecture
 
-## Architecture (flow)
+### Architecture (flow)
 
 ```mermaid
 flowchart LR
@@ -94,7 +95,7 @@ flowchart LR
   P --> L
 ```
 
-## Architecture (component graph)
+### Architecture (component graph)
 
 ```mermaid
 flowchart TB
@@ -140,10 +141,15 @@ flowchart TB
 ## Benchmark (reproducible claim)
 
 - **Source file:** `timing-generator/benchmark_claims.py` (uses `timing-generator/output/race_2/event_timeline_complete.json` by default).
-- **Report:** `timing-generator/output/claim_benchmark_report.json` (included in repo). Example values:
-  - **`position_benchmark.model_accuracy`**: **0.8896103896103896**
-  - **`position_benchmark.majority_baseline_accuracy`**: **0.045454545454545456**
-  - **`commentary_benchmark.seconds`**: **0.10521860000062588**
+- **Report:** `timing-generator/output/claim_benchmark_report.json` (included in repo). 
+
+Some values:
+
+  - **`position_benchmark.model_accuracy`**: **88.96%** **→** **89.0% model accuracy**
+
+  - **`position_benchmark.majority_baseline_accuracy`**: **0.045454545454545456** **→** **4.5% majority baseline**
+
+  - **`commentary_benchmark.seconds`**: **0.10521860000062588** **→** **~105ms commentary latency**
 
 Run locally (from repo root):
 
@@ -181,7 +187,7 @@ python timing-generator/benchmark_claims.py
 
 ---
 
-## Project layout (short)
+## Project layout 
 
 ```
 zero-pit/
@@ -200,7 +206,7 @@ zero-pit/
 
 ---
 
-## Quick start (developer)
+## Quick start 
 
 1. Install Python deps and run the pipeline (example):
 
